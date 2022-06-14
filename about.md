@@ -5,4 +5,4 @@ title: About
 
 ## About
 
-Hi, nice to meet you.
+This website is to showcase the e-portfolio built over the course of MSc Data Science programme at the University Of Essex
