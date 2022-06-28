@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Introduction to Python
-subtitle: Each post also has a subtitle
-categories: Python
-tags: [Python, intro, certificate]
+title: Summary post of collaborative discussion 1
+categories: Discussion
+tags: [collaboration, peers, discussion]
 ---
 
 ## Summary post of collaborative discussion 1
