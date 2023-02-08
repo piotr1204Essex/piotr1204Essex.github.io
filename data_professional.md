@@ -1,6 +1,6 @@
 ---
-layout: data_professional
-title: Data Professional
+layout: big_data
+title: Big Data
 ---
 
 ## Summary of the learning outcomes
