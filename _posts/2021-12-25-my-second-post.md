@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Summary post of collaborative discussion 1
+title: Summary post of collaborative discussion 1 (Data Professional)
 categories: Discussion
 tags: [collaboration, peers, discussion]
 ---
