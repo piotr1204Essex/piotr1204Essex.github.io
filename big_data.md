@@ -35,12 +35,33 @@ References:
 
 7. Coursera (2023) What is a data engineer?: A guide to this in-demand career, Coursera. Available at: https://www.coursera.org/articles/what-does-a-data-engineer-do-and-how-do-i-become-one (Accessed: February 7, 2023).
 
-## Summary of the learning outcomes
+## Learning outcomes
+
+# Web scraping
+
+Below you can find a code snippet from Unit 3 formative activities
+This web scrapping script reads a website, finds all occurences of
+'data scientist' in sentences and exports this data to a JSON file.
+
+```python
+from bs4 import BeautifulSoup
+import requests
+import re
+import json
+
+website = 'https://www.sas.com/en_us/insights/analytics/what-is-a-data-scientist.html'
+result = requests.get(website)
+content = result.text
+soup = BeautifulSoup(content, 'lxml')
+
+find_data_scientist = soup.body.find_all(string=re.compile('[dD]ata [sS]cientist'))
+
+find_data_scientist = list(find_data_scientist)
+
+output = json.dumps(find_data_scientist)
+```
 
 ## Links to artefacts
 
-## Reflective piece 
 
-## Meeting notes links
 
-## Professional skills matrix and action plan
