@@ -37,7 +37,7 @@ References:
 
 ## Learning outcomes
 
-# Web scraping
+### Web scraping
 
 Below you can find a code snippet from Unit 3 formative activities
 This web scrapping script reads a website, finds all occurences of
