@@ -35,6 +35,29 @@ References:
 
 7. Coursera (2023) What is a data engineer?: A guide to this in-demand career, Coursera. Available at: https://www.coursera.org/articles/what-does-a-data-engineer-do-and-how-do-i-become-one (Accessed: February 7, 2023).
 
+### Summary post
+
+To summarise this thread, we have many challenges related to storing and processing big data. There is limited physical space on earth, which at some point can force companies to be more selective with the data they store. Currently, speaking from personal experience, many companies follow the approach “the more we store the better” without giving it a second thought, as the storage is cheap (Snowflake, 2022). 
+
+
+Processing such vast amounts of data can have high risks for society (Chin, 2023) - as personal data gets exposed, we can all become targets of malicious actors. Information that the companies hold against our names, can be used for stealing from us, blackmailing us etc.
+
+
+It is no coincidence that it is said that the data a company holds is its biggest asset (Abdulghany, 2022). Information has always been important in business and now more than ever, with internet based businesses, the rich database is a huge asset, that requires careful security, processing and architecture considerations.
+
+
+I believe it is inevitable that the data held globally grows. What’s important is that companies are well aware of all the risks and limitations and so that the data professionals handling the data sets and analytics code bases for said companies are also well aware of that and have it as a priority to be very selective and considerate when building data warehouses.
+
+
+References
+
+
+Snowflake Pricing & Cost Structure (2022) Snowflake. Available at: https://www.snowflake.com/pricing/ (Accessed: February 7, 2023).
+
+Chin, K. (2023) Biggest data breaches in US history [updated 2023]: Upguard, RSS. Available at: https://www.upguard.com/blog/biggest-data-breaches-us (Accessed: February 7, 2023).
+
+Abdulghany, A. (2022) Data analytics: Why data is your company's biggest asset, Reea Global. Available at: https://reeaglobal.com/why-data-is-your-companys-biggest-asset/ (Accessed: February 7, 2023).
+
 ## Learning outcomes
 
 ### Web scraping
