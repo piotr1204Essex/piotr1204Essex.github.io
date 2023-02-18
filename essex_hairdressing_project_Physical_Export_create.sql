@@ -1,6 +1,3 @@
--- Created by Vertabelo (http://vertabelo.com)
--- Last modification date: 2023-02-18 13:23:00.39
-
 -- tables
 -- Table: country_code_glossary
 CREATE TABLE country_code_glossary (
