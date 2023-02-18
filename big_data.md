@@ -86,5 +86,10 @@ output = json.dumps(find_data_scientist)
 
 ## Links to artefacts
 
+### Team Project
+
+- [Link to SQL file generating tables](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/essex_hairdressing_project_Physical_Export_create.sql)
+- [Link to the pipeline overview](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/hair_dresser_architecture.drawio.png)
+- [Link to the Entity Relationship Diagram](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/essex_hairdressing_project-2023-02-18_14-22.png)
 
 
