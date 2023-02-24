@@ -118,6 +118,18 @@ References:
 
 3)     Anon (2023) Principles of Data Visualization 2 [Lecturecast] VD_PCOM7E JANUARY 2023 Visualizing Data January 2023 University of Essex Online.
 
+### Summary post
+
+In summary, the Ryanair page seems much better to use than EasyJet's one. The data visualisation methods applied on Ryanair's page are not only serving its purpose - allowing user to take the action but are also calm and pleasant for the user's eye. EasyJet, on the other hand, provides a very small map with overload of information. It is causing confusion and, in my personal opinion, may distract the users from the task they want to perform. Both of the designs, although similar in the architecture, differ tremendously in the execution.
+
+
+
+References:
+
+1)     Ryanair. (2020) Ryanair Route Map. Available at : https://www.ryanair.com/gb/en/cheap-flight-destinations (Accessed: January 29, 2023)
+
+2)     Easy Jet. (2020) Easy Jet-Route Map. Available at: https://www.easyjet.com/en/routemap (Accessed: January 29, 2023)
+
 ## Links to artefacts
 
 ## Reflective piece 
