@@ -93,6 +93,7 @@ output = json.dumps(find_data_scientist)
 ### Unit 7
 
 - [Link to Normalisation Task solution](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/Normalisation_task.xlsx)
+- [Link to the screenshot of ERD of a relational database with primary and foreign keys](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/Screenshot%202023-03-02%20at%2017.53.00.png)
 
 ### Team Project
 
