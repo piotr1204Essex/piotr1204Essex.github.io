@@ -90,6 +90,10 @@ output = json.dumps(find_data_scientist)
 
 - [Link to Unit 4 exercise of data cleaning](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/unit4.ipynb)
 
+### Unit 7
+
+- [Link to Normalisation Task solution](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/Normalisation_task.xlsx)
+
 ### Team Project
 
 - [Link to SQL file generating tables](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/essex_hairdressing_project_Physical_Export_create.sql)
