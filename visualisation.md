@@ -132,4 +132,6 @@ References:
 
 ## Links to artefacts
 
+- [Unit 6 - example ROC curve - can be found in this analysis](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/task.ipynb)
+
 ## Reflective piece 
