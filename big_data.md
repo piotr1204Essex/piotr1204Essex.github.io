@@ -50,6 +50,32 @@ I believe it is inevitable that the data held globally grows. What’s important
 
 ### Initial Post 2
 
+Personal data is considered sensitive and it comes natural that it shall be handled with appropriate care. In order to ensure customers’ privacy rights, in relation to their data being handled by companies, several governing bodies have come up with policies that enforce a certain set of standards. General Data Protection Rights (GDPR) and the Information Commissioner’s Office (ICO) are two examples of such policies, introduced by the European Union and within the UK, respectively. 
+
+The main difference between GDPR and the ‘Security’ rule of ICO is that GDPR is a legally binding policy that describes standards needed to be met when handling PII. ICO on the other hand provides guidance on how to achieve said standards. Therefore, some of the GDPR’s most important rules would say:
+
+Personal data must be pseudonymised and encrypted.
+It must be stored only for a valid reason and no longer than necessary.
+Customers must have a right to have their data deleted upon Data Subject Request.
+Personal data must be stored securely to prevent exposure during malicious actors’ cyber attacks.
+Only a limited number of people within the organisation must have access to the PII.
+Customers must be informed about how their data is being handled.
+
+Meanwhile the ‘Security’ rule of the ICO focuses more on how to adhere to these standards, providing guidance such as:
+
+Regular testing, software updates and quick fixes of security vulnerabilities.
+Staff training on handling PII and on GDPR rules.
+Strong cyber security infrastructure should be in place.
+Regular security audits and penetration testing shall take place.
+Incident management plan and clearly identified responsibilities for management of incident and its reporting to the authorities.
+
+In summary, GDPR provides the ‘what’ and ICO provides the ‘how’, when it comes to handling PII. Breach of GDPR will have legal consequences for a company that has to adhere to GDPR rules, while ICO ‘Security’ rule does not have to be compliant with in full as there may be tweaks or other, potentially better ways, to achieve required security of PII. 
+
+References:
+
+EU (no date) Lex - 02016R0679-20160504 - en - EUR-lex, EUR. Available at: https://eur-lex.europa.eu/eli/reg/2016/679/2016-05-04 (Accessed: April 2, 2023). 
+ICO, About the Guide to Data Protection (no date) ICO. Available at: https://ico.org.uk/for-organisations/guide-to-data-protection/about-the-guide-to-data-protection/ (Accessed: April 2, 2023). 
+
 ### Summary post 2
 
 References
