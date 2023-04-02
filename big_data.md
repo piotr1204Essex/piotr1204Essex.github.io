@@ -5,7 +5,7 @@ title: Big Data
 
 ## Colaborative discussion posts
 
-### Initial Post
+### Initial Post 1 
 
 Tejada (2023) describes the ways of processing large quantities of data. In the current world, data is often described as the biggest assets a company may have (Abdulghany, 2022). But what is data exactly? How it is stored and processed? How do we ensure it is secure? Tejada (2023) provides a comprehensive description of Lambda and Kappa architecture. The distinction is made between batch and stream ("speed") processing. The essence of this distinction is it is not a distinction between different data types or sources, as it would usually be a case. Batch processing would happen in a FinTech company receiving settlement data for all transactions that happened a day before, for example. Streaming would be used for information that needs to be accessed in real-time - such as (using FinTech company for clarity again) transaction errors information. 
 
@@ -35,7 +35,7 @@ References:
 
 7. Coursera (2023) What is a data engineer?: A guide to this in-demand career, Coursera. Available at: https://www.coursera.org/articles/what-does-a-data-engineer-do-and-how-do-i-become-one (Accessed: February 7, 2023).
 
-### Summary post
+### Summary post 1
 
 To summarise this thread, we have many challenges related to storing and processing big data. There is limited physical space on earth, which at some point can force companies to be more selective with the data they store. Currently, speaking from personal experience, many companies follow the approach “the more we store the better” without giving it a second thought, as the storage is cheap (Snowflake, 2022). 
 
@@ -48,6 +48,9 @@ It is no coincidence that it is said that the data a company holds is its bigges
 
 I believe it is inevitable that the data held globally grows. What’s important is that companies are well aware of all the risks and limitations and so that the data professionals handling the data sets and analytics code bases for said companies are also well aware of that and have it as a priority to be very selective and considerate when building data warehouses.
 
+### Initial Post 2
+
+### Summary post 2
 
 References
 
