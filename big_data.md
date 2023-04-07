@@ -73,19 +73,25 @@ In summary, GDPR provides the ‘what’ and ICO provides the ‘how’, when it
 
 References:
 
-EU (no date) Lex - 02016R0679-20160504 - en - EUR-lex, EUR. Available at: https://eur-lex.europa.eu/eli/reg/2016/679/2016-05-04 (Accessed: April 2, 2023). 
-ICO, About the Guide to Data Protection (no date) ICO. Available at: https://ico.org.uk/for-organisations/guide-to-data-protection/about-the-guide-to-data-protection/ (Accessed: April 2, 2023). 
+- EU (no date) Lex - 02016R0679-20160504 - en - EUR-lex, EUR. Available at: https://eur-lex.europa.eu/eli/reg/2016/679/2016-05-04 (Accessed: April 2, 2023). 
+- ICO, About the Guide to Data Protection (no date) ICO. Available at: https://ico.org.uk/for-organisations/guide-to-data-protection/about-the-guide-to-data-protection/ (Accessed: April 2, 2023). 
 
 ### Summary post 2
 
-References
+
+In the last few Units we evaluated DBMS along with business, technical and regulatory requirements. As the initial post focuses on GDPR and 'Security' rule of ICO, I will summarise mostly in regards to this topic.
+
+In Unit 8 we discussed compliance and regulatory requirements for companies that handle BigData. BigData comes with big responsibility. Companies that handle individuals’ information must be very careful in doing so. In today’s world, cyber attacks are more common than ever (Irwin, 2023). Personal information shall never be exposed to malicious actors as it can put at harm an individual. Personal information is, generally, defined by GDPR (GDRP EU, 2016) as any piece of information that allows to identify an invididual. It can be an email address, phone number, home address etc. So the first piece of regulation is the aforementioned GDPR. This relates to security standards required when handling PII (Personally Identifiable Information). The second huge part of requirements is the local governing law that specifies data residency (Staff, 2022). Data residency is being understood as the actual, physical place where the data, containing PII, is being stored. These days most of the data sits within the public Cloud (vmware, 2022), but what regulators care about is where the physical storage of the data is taking place.
+
+In summary, I think it is very good that we have such regulations in place as they allow to keep all of our information safer. It is however a tremendous challenge for a company to design a data warehouse architecture with all of the regulatory requirements in mind while also catering technical and business needs.
 
 
-Snowflake Pricing & Cost Structure (2022) Snowflake. Available at: https://www.snowflake.com/pricing/ (Accessed: February 7, 2023).
+References:
 
-Chin, K. (2023) Biggest data breaches in US history [updated 2023]: Upguard, RSS. Available at: https://www.upguard.com/blog/biggest-data-breaches-us (Accessed: February 7, 2023).
-
-Abdulghany, A. (2022) Data analytics: Why data is your company's biggest asset, Reea Global. Available at: https://reeaglobal.com/why-data-is-your-companys-biggest-asset/ (Accessed: February 7, 2023).
+Irwin, L. (2023) List of data breaches and cyber attacks in February 2023 – 29.5 million records breached, IT Governance UK Blog. Available at: https://www.itgovernance.co.uk/blog/list-of-data-breaches-and-cyber-attacks-in-february-2023-29-5-million-records-breached (Accessed: April 7, 2023).
+Lex - 32016R0679 - en - EUR-lex (2016) EUR. Available at: https://eur-lex.europa.eu/eli/reg/2016/679/oj (Accessed: April 7, 2023).
+Staff, I.C. (2022) Data residency laws by country - overview, InCountry. Available at: https://incountry.com/blog/data-residency-laws-by-country-overview/ (Accessed: April 7, 2023).
+What is a public cloud? - definition - how it works? (2022) VMware. Available at: https://www.vmware.com/topics/glossary/content/public-cloud.html (Accessed: April 7, 2023).
 
 ## Learning outcomes
 
