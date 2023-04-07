@@ -140,6 +140,7 @@ In this week part of my activities were to write a summary post which you can al
 
 ### Unit 4
 
+This week I learned about data cleaning and transformation. Fortunately I have professional experience with this area. I have completed the test provided in the Unit and scored 100%. The test focused solely on Python functions and applications. When it comes to data cleaning and ETL processes there are many more tools and techniques that can and should be applied when ti comes to BigData. I have researched more about Airflow (orchestrating tool) and DBT (Data Build Tool). Speaking from my professional (but personal experience) it seems that the vast majority of the companies use SQL-based DBT to clean and transform data, while python is used more as a scripting language to trigger tasks in Airflow. In light of this, learning python for data cleaning might be a redundant task and soI focused more on improving my SQL related skills and knowledge about tooling. 
 
 ### Unit 5
 
