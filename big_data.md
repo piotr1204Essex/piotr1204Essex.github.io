@@ -165,7 +165,16 @@ References:
 
 ### Unit 6
 
+In this Unit we had to submitt the Team project which consumed a lot of my time. You can find links to the artefacts I created under Team Project section. There are as well final reports submission (which is a shared work with other team members) which were submitted under the assignment requirements.
+
 ### Unit 7
+
+In this Unit I learned how to transform flat database model into a normalised one. I have also compelted the exercise of building a simple data design logic, paying attention to functional dependencies of the entities. Part of the Team Project was critical evaluation of constraints and limitations of a chosen design. This work was also submitted in Team Project's reports. I cannot stress enough how much I learned over this team project when it comes to critical evaluation of your own design. It is a difficult task to objectively critique your own design, but it is an important one. There is no golden rule when it comes to BigData design and architecture, there are however best practices (Cheema, 2022). It is the critical evaluation of possible implementation that allows to make an informed decision about the best choice for the environment in which the architecture will be applied. 
+
+You can find below the links to the artefacts created as a part of exercise during this Unit.
+
+References:
+- Cheema, P. (2022) Big Data Architecture (Best Practices, Tips &amp; Tools), WEKA. Available at: https://www.weka.io/learn/file-system/big-data-architecture/ (Accessed: April 7, 2023). 
 
 - [Link to Normalisation Task solution](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/Normalisation_task.xlsx)
 - [Link to the screenshot of ERD of a relational database with primary and foreign keys](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/Screenshot%202023-03-02%20at%2017.53.00.png)
