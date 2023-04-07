@@ -115,18 +115,38 @@ output = json.dumps(find_data_scientist)
 
 ## Links to artefacts
 
+### Unit 1
+
+### Unit 2
+
+### Unit 3
+
 ### Unit 4
 
 - [Link to Unit 4 exercise of data cleaning](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/unit4.ipynb)
+
+### Unit 5
+
+### Unit 6
 
 ### Unit 7
 
 - [Link to Normalisation Task solution](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/Normalisation_task.xlsx)
 - [Link to the screenshot of ERD of a relational database with primary and foreign keys](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/Screenshot%202023-03-02%20at%2017.53.00.png)
 
-### Team Project
+### Unit 8
 
-## Database design
+### Unit 9
+
+### Unit 10
+
+### Unit 11
+
+### Unit 12
+
+## Team Project
+
+### Database design
 
 Below the list of artefacts which were created by me and hence was the contribution to the team's project. 
 
@@ -136,6 +156,6 @@ Below the list of artefacts which were created by me and hence was the contribut
 
 Other than that, we have split the work of writing the text equally between the three of us and so around 30% of the text written in reports submitted was written by me. 
 
-## API Security
+### API Security
 
 
