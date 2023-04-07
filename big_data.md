@@ -154,6 +154,13 @@ References:
 
 ### Unit 5
 
+In this Unit we learned more about data cleaning as well as a bout data collections. One thing in particular I consider extremely important and that is to have clear automation functions focused on the required task. It falls close to the principles of software engineering (Singh, 2022) which specify that each function should have a single responsibility. It helps with management of the code as well as it helps to understand where and issue happened should an error occur. 
+
+One of 
+
+References:
+- Singh, R. (2022) 8 software engineering principles to live by, CalliCoder. CalliCoder. Available at: https://www.callicoder.com/software-development-principles/ (Accessed: March 24, 2023). 
+
 ### Unit 6
 
 ### Unit 7
