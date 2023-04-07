@@ -117,6 +117,13 @@ output = json.dumps(find_data_scientist)
 
 ### Unit 1
 
+I have come across one of the four Vs of data that I have not heard before: Veracity.
+
+Veracity is a characteristic of BigData that refers to its consistency, accuracy, quality and trustworthiness. It is a tough task to achieve high quality data at scale, with many petabytes of data flowing through an enterprise. This is why it is one of the key pillars to achieve, when designing a BigData architecture. It serves the business as only with correct data, correct data-driven decision can be made at scale.
+
+Reference:
+ - Cristobal, S. (2021) Two more V's in big data: Veracity and value, Datascience.aero. Available at: https://datascience.aero/big-data-veracity-value/ (Accessed: April 7, 2023). 
+
 ### Unit 2
 
 ### Unit 3
