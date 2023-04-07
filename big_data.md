@@ -156,10 +156,12 @@ References:
 
 In this Unit we learned more about data cleaning as well as a bout data collections. One thing in particular I consider extremely important and that is to have clear automation functions focused on the required task. It falls close to the principles of software engineering (Singh, 2022) which specify that each function should have a single responsibility. It helps with management of the code as well as it helps to understand where and issue happened should an error occur. 
 
-One of 
+One of the most prominent issues that can occur on big data is duplication (Sharon Rithika et al., 2023). Data cleaning tasks and procedures introduced to avoid such duplications are absolutely crucial. There are tools for automating that. Apart from the ones mentioned in the previous Unit, there is also Monte Carlo (Monte Carlo, 2023) that helps with data observability and quality. It uses Machine Learning models to learn about a standard behaviour of the data sets (number of daily inputs, usual pace at which dimensions change and so on and so forth). When an anomaly is detected it triggers an alert to the Data Engineering team that can handle it. 
 
 References:
 - Singh, R. (2022) 8 software engineering principles to live by, CalliCoder. CalliCoder. Available at: https://www.callicoder.com/software-development-principles/ (Accessed: March 24, 2023). 
+- Sharon Rithika, Ramachandran, A. and Gaikwad, M. (2023) Data Ingestion Best Practices Simplified 101 - learn, Hevo. Available at: https://hevodata.com/learn/data-ingestion-best-practices/ (Accessed: April 7, 2023). 
+- Monte Carlo: Data Reliability delivered (2023) Monte Carlo Data. Available at: https://www.montecarlodata.com/ (Accessed: April 7, 2023). 
 
 ### Unit 6
 
