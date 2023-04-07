@@ -231,6 +231,8 @@ References:
 
 ### Unit 10
 
+In this Unit we learned about the API security and you can find below a link to the artefact we created together as a team.
+
 ### Unit 11
 
 ### Unit 12
@@ -246,7 +248,4 @@ Below the list of artefacts which were created by me and hence was the contribut
 - [Link to the Entity Relationship Diagram](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/essex_hairdressing_project-2023-02-18_14-22.png)
 
 Other than that, we have split the work of writing the text equally between the three of us and so around 30% of the text written in reports submitted was written by me. 
-
-### API Security
-
 
