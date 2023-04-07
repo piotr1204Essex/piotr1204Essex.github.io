@@ -181,6 +181,22 @@ References:
 
 ### Unit 8
 
+In this Unit we discussed compliance and regulatory requirements for companies that handle BigData. BigData comes with big responsibility. Companies that handle individuals' information must be very careful in doing so. In today's world, cyber attacks are more common than ever (Irwin, 2023). Personal information shall never be exposed to malicious actors as it can put at harm an individual. Personal information is, generally, defined by GDPR (GDRP EU, 2016) as any piece of information that allows to identify an invididual. It can be an email address, phone number, home address etc. So the first piece of regulation is the aforementioned GDPR. This relates to security standards required when handling PII (Personally Identifiable Information). The second huge part of requirements is the local governing law that specifies data residency (Staff, 2022). Data residency is being understood as the actual, physical place where the data, containing PII, is being stored. These days most of the data sits within the public Cloud (vmware, 2022), but what regulators care about is where the physical storage of the data is taking place. 
+
+In general, I learned about these two main aspects, not to mention the cybersecurity infrastructure. Cybersecurity infrastructure is out of the scope as it is a responsibility of Site Reliability Engineers and Cyber Security experts. The topics discussed in this Unit concern the data protection on the Data Warehouse side. 
+
+Modern Data warehouses (such as Snowflake) introduce masking policies on their cloud-based data warehouses. This is the first and probably most important tool when it comes to compliance with GDPR and related regulations. It allows to hide the information from data consumers (whether data engineering team or end-user consumers who access the data via a BI visualisation Tool). But what happens if an individual would like their data to be removed from the comapny's database? This is where database design comes in. The challenge with BigData nowadays is not only answering the questions of streaming vs batching or how many semantic layers the datawarehouse needs, but also how tostructure the warehouse in such a way, that upon Data Subject request, the company is able tocomply with such request and delte an individual's information. 
+
+The summary of my learning from this Unit is, that BigData comes with a tremendous number of challenges. The technical ones are one one side, but the regulatory ones are as tough to tackle. In my personal opinion, it is extremely important that we, as a society, have such regulations in place. It allows all of us to live in a safer world, which is becomnig more and more digital. 
+
+References:
+- Irwin, L. (2023) List of data breaches and cyber attacks in February 2023 – 29.5 million records breached, IT Governance UK Blog. Available at: https://www.itgovernance.co.uk/blog/list-of-data-breaches-and-cyber-attacks-in-february-2023-29-5-million-records-breached (Accessed: April 7, 2023). 
+- Lex - 32016R0679 - en - EUR-lex (2016) EUR. Available at: https://eur-lex.europa.eu/eli/reg/2016/679/oj (Accessed: April 7, 2023). 
+- Staff, I.C. (2022) Data residency laws by country - overview, InCountry. Available at: https://incountry.com/blog/data-residency-laws-by-country-overview/ (Accessed: April 7, 2023). 
+- What is a public cloud? - definition - how it works? (2022) VMware. Available at: https://www.vmware.com/topics/glossary/content/public-cloud.html (Accessed: April 7, 2023). 
+- Using dynamic data masking¶ (no date) Using Dynamic Data Masking | Snowflake Documentation. Available at: https://docs.snowflake.com/en/user-guide/security-column-ddm-use (Accessed: April 7, 2023). 
+- How to establish Data Masking Standards for GDPR (no date) Talend. Available at: https://www.talend.com/resources/how-to-establish-data-masking-standards-gdpr/ (Accessed: April 7, 2023). 
+
 ### Unit 9
 
 ### Unit 10
