@@ -113,7 +113,7 @@ find_data_scientist = list(find_data_scientist)
 output = json.dumps(find_data_scientist)
 ```
 
-## Links to artefacts
+## Artefacts
 
 ### Unit 1
 
@@ -142,10 +142,15 @@ In this week part of my activities were to write a summary post which you can al
 
 This week I learned about data cleaning and transformation. Fortunately I have professional experience with this area. I have completed the test provided in the Unit and scored 100%. The test focused solely on Python functions and applications. When it comes to data cleaning and ETL processes there are many more tools and techniques that can and should be applied when ti comes to BigData. I have researched more about Airflow (orchestrating tool) and DBT (Data Build Tool). Speaking from my professional (but personal experience) it seems that the vast majority of the companies use SQL-based DBT to clean and transform data, while python is used more as a scripting language to trigger tasks in Airflow. In light of this, learning python for data cleaning might be a redundant task and soI focused more on improving my SQL related skills and knowledge about tooling. I have completed two online courses on Udemy. They are both paid, unfortunately, but I can recommend them for anyone interested if they are willing to pay.
 
+WIKI submission:
+
+DAG - Directed Acyclic Graph. It shows dependencies on the task that shall run before the downstream tasks run. It is acyclic if and only if one task follows another without looping back to the previous one. It is a basis for setting up procedures in eg. Airflow for orchestrating tasks that need to be completed on the Data Warehouse.
+
 References:
 - Apache Airflow course: https://www.udemy.com/share/102HOA3@irbbUiusOqY58BEb-jFv9YdbSh2Rqm6p7LLqRaJ6OVFuBt36DB_k0tT4YNS95M6t/
 - DBT course: https://www.udemy.com/share/105KXo3@Zv7_9pqefEbPWaGn6_HD_9X2pm3kIeUaHiXsiGuIFl3FVAa9H-0qMpmL3PNuUYRO/
 - Team, T.A. (no date) What is Apache airflow?, Astronomer. Available at: https://www.astronomer.io/airflow/ (Accessed: April 7, 2023). 
+- Barcheski, J. (2023) DBT (Data Build Tool) overview: What is DBT and what can it do for My Data Pipeline?, Analytics8. Available at: https://www.analytics8.com/blog/dbt-overview-what-is-dbt-and-what-can-it-do-for-my-data-pipeline/ (Accessed: April 7, 2023). 
 
 ### Unit 5
 
