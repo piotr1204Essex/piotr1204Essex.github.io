@@ -126,6 +126,12 @@ Reference:
 
 ### Unit 2
 
+In this Unit we had a collaborative discussion, which one can read in sections above. Other than that, I have also learned how important it is to set up the data type in a correct way. Information Technology is all about 0s and 1s. Data is no differrent. If we want to handle data correctly at scale, we must ensure that the data types are consisted and aligned with the type of input required by functions we use to transform the data. Seemingly the same date, but just with a different format (eg. '01.01.2023' vs '01/01/2023') can cause our ETL to fail if not handled correctly. It is this 0s and 1s precision that is mesmerizing when it comes to data. It can also become a huge pain at times :)
+
+References:
+- Smallcombe, M. (2020) Data ingestion vs. ETL: Differences &amp; Priorities, Integrate.io. Integrate.io. Available at: https://www.integrate.io/blog/data-ingestion-vs-etl/ (Accessed: April 7, 2023). 
+- Data ingestion: The first step to a sound data strategy (no date) Stitch. Available at: https://www.stitchdata.com/resources/data-ingestion/ (Accessed: April 7, 2023). 
+
 ### Unit 3
 
 ### Unit 4
