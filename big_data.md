@@ -126,8 +126,16 @@ output = json.dumps(find_data_scientist)
 
 ### Team Project
 
+## Database design
+
+Below the list of artefacts which were created by me and hence was the contribution to the team's project. 
+
 - [Link to SQL file generating tables](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/essex_hairdressing_project_Physical_Export_create.sql)
 - [Link to the pipeline overview](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/hair_dresser_architecture.drawio.png)
 - [Link to the Entity Relationship Diagram](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/essex_hairdressing_project-2023-02-18_14-22.png)
+
+Other than that, we have split the work of writing the text equally between the three of us and so around 30% of the text written in reports submitted was written by me. 
+
+## API Security
 
 
