@@ -199,6 +199,19 @@ References:
 
 ### Unit 9
 
+In this Unit we paid attention to the Data Base Management Systems. Systems have become so complex and complicated these days, that a new role in corporate environment emerged, which is a Systems Architect (2023). Their sole responsibility is to design a system, taking into account all business, technical and regulatory requirements and limitations. Such system that would serve the company well and meet as many business needs as possible (ideally all). 
+
+When it comes to Data Base System implementation, there are several factors worth considering. First of them is cost, then access, logical structure and physical organisation. 
+
+Storage costs has become very cheap, with new cloud-based technologies (Snowflake, 2023). If the storage is cheap, then the actual factor which creates bills is the computing power. As the data volume increases, storage price rises relatively slow, but computing price may increase exponentially, if a system is designed incorrectly. There are some general SQL Query performance best practices (Snaidero). But this is thinking on a very low, granular level. If we zoom out, we need to think about the data ingestion and all of the layers of the architecture. Usually, data warehouse consists of several layers (Cheema, 2022) which means that the data flows numerous times from ingestion point to the end consumer. It is being transformed, cleaned and validated at each step. It is important to consider that the system design consists of all necessary layers to ensure the data quality but no more than that. There is also a concept of materialisations (DBT, 2023) which not only plays important part in data warehouse architecture and data quality, but also in amount of computing power consumed on each run of queries within the warehouse.
+
+References:
+- What does a systems architect do? (with skills and salaries) (2023). Available at: https://sg.indeed.com/career-advice/finding-a-job/what-does-systems-architect-do (Accessed: April 7, 2023). 
+- Understanding storage cost¶ (no date) Understanding Storage Cost | Snowflake Documentation. Available at: https://docs.snowflake.com/en/user-guide/cost-understanding-data-storage (Accessed: April 7, 2023). 
+- Snaidero, B. (no date) SQL Server Query Performance Guidelines tutorial, SQL Server Tips, Techniques and Articles. MSSQLTips. Available at: https://www.mssqltips.com/sqlservertutorial/3200/sql-server-query-performance-guidelines-tutorial/ (Accessed: April 7, 2023). 
+- Cheema, P. (2022) Big Data Architecture (Best Practices, Tips &amp; Tools), WEKA. Available at: https://www.weka.io/learn/file-system/big-data-architecture/ (Accessed: April 7, 2023). 
+- Materializations: DBT developer hub (2023) dbt Developer Hub RSS. Available at: https://docs.getdbt.com/docs/build/materializations (Accessed: April 7, 2023). 
+
 ### Unit 10
 
 ### Unit 11
