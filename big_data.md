@@ -233,6 +233,8 @@ References:
 
 In this Unit we learned about the API security and you can find below a link to the artefact we created together as a team.
 
+- [Link to the API security requirements doc](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/api_security_brief.pdf)
+
 We have also been provided with a case study (IBM QRADAR - Kaif Integration) which was deisgned to help us understand the asssignment pasted above. I have read that one and it helped me to grasp concepts into what we do need to produce in the assignment.
 
 References:
