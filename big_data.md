@@ -259,6 +259,8 @@ This week we have also submitted an Executive summary to which you can find a li
 
 - [Link to the Executive Summary](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/Executive%20Summary.pdf)
 
+My evaluation of the final project vs the initial proposal is that we learned a lot from the feedback provided and have made our executive summary much more critical. We have clearly outlined all of the pros and cons of the solution, which I believe allows for making more informed decision by a client. We have also provided a clear documentation (in appendices) to all of the tables that we propose our client should have. Overall, I believe that we have made improvements and learned from the feedback we received after the initial proposal was submitted. I was extremely glad seeing all of the team cooperate and improve the points that we were marked down for. 
+
 References:
 
 Sarkar, T. & Roychowdhury, S. (2019) Data Wrangling with Python. 1st ed. Packt.
