@@ -231,7 +231,7 @@ References:
 
 ### Unit 10
 
-In this Unit we learned about the API security and you can find below a link to the artefact we created together as a team.
+In this Unit we learned about the API security and you can find below a link to the artefact we created together as a team. It is hard to distinguish celarly what specifically was my contribution, as we have done it together on a call, where we would cooperate on each paragraph choosing the best idea either of us had and then writing it down. So in that sense everything there has a bigger or smaller part of my contribution.
 
 - [Link to the API security requirements doc](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/api_security_brief.pdf)
 
