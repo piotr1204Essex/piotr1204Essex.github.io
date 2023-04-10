@@ -171,7 +171,9 @@ References:
 
 ### Unit 6
 
-In this Unit we had to submitt the Team project which consumed a lot of my time. You can find links to the artefacts I created under Team Project section. There are as well final reports submission (which is a shared work with other team members) which were submitted under the assignment requirements.
+In this Unit we had to submitt the Team project which consumed a lot of my time. You can find links to the artefacts I created under Team Project section. There are as well final reports submission (which is a shared work with other team members) which were submitted under the assignment requirements, and you can find a link to it below:
+
+- [Link to the Project Report](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/PROJECT%20REPORT%20vf.pdf)
 
 ### Unit 7
 
@@ -253,7 +255,9 @@ The greatest advantage of implementing a GFS solution is the reduction in comput
 This backup procedure, however, cannot be applied to all possible scenarios. In businesses, where not even the smallest piece of data can be afforded to be lost, or businesses that have constantly changing data, probably better suited would be incremental backups. This is because GFS might fail on occasion and if it does then at least a full day’s data will not be backed up. 
 
 #### Team Project
-This week we have also submitted an 
+This week we have also submitted an Executive summary to which you can find a link below:
+
+- [Link to the Executive Summary](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/Executive%20Summary.pdf)
 
 References:
 
