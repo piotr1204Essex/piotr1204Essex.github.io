@@ -252,6 +252,9 @@ The greatest advantage of implementing a GFS solution is the reduction in comput
 
 This backup procedure, however, cannot be applied to all possible scenarios. In businesses, where not even the smallest piece of data can be afforded to be lost, or businesses that have constantly changing data, probably better suited would be incremental backups. This is because GFS might fail on occasion and if it does then at least a full day’s data will not be backed up. 
 
+#### Team Project
+This week we have also submitted an 
+
 References:
 
 Sarkar, T. & Roychowdhury, S. (2019) Data Wrangling with Python. 1st ed. Packt.
