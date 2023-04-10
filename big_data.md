@@ -258,6 +258,15 @@ Cove, V. (2020) Visualize COVID-19 Trends in ArcGIS Insights.
 
 ### Unit 12
 
+In this Unit we discussed the future of Big Data Analytics. I have had a pleasure of recently attending a BigData Warsaw Summit 2023 (https://bigdatatechwarsaw.eu/) where this topic was discussed amongst others. Some of the key points about the future of Big Data Analytics discussed were:
+
+- Data Mesh - Decentralised Domain Driven Design of the data product, that allows the business to scale the data based on each of the domains within the business
+- Natural Language Driven SQL queries: more and more of responsibilities shifting from 'traditional' data analysts to enhanced capabilities of Artificial Intelligence; the concept is that soon the AI will be able to take natural language input and create very complex queries tailored exactly to the users' needs. AI is already capable of doing that partially, but it still needs review and an appropriate promt. The vision is, that in the future AI. will be able to 'guess' better.
+- Comprehensive table and column lineage tools - to allow easier debugging and enhanced documentation of the data warehouse
+- Data Quality and Observability: how to shift responsibility to the left (data producer) from data engineers, where and how data quality checks should be applied on the pipeline as well as API contracts and Schema Registry for event-driven data base design
+
+I personally agree with almost all of these 'future' points except for AI being able to completely replace a human writing SQL queries. I think that it may work for simple data retrieval, however, when it comes to modelling, there will always be something, in my opinion, that AI will forget about. There might be some dependency that is not logged or documented, there might be some business need that AI will not be able to take into account etc. Last but not least - there will always be needed someone to verify the work of AI. Even if it is brilliant and does 99% of the work, I find it hard to believe that business owners would trust 100% in what a machine has produced.
+
 ## Team Project
 
 ### Database design
