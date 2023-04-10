@@ -142,7 +142,7 @@ References:
 
 In this week part of my activities were to write a summary post which you can also find in the sections above. I have also created a web scrapping script that you can find below:
 
-- [Link to Unit 4 exercise of data cleaning](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/unit4.ipynb)
+- [Link to Unit 3 exercise of data cleaning](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/unit4.ipynb)
 
 ### Unit 4
 
