@@ -233,7 +233,28 @@ References:
 
 In this Unit we learned about the API security and you can find below a link to the artefact we created together as a team.
 
+We have also been provided with a case study (IBM QRADAR - Kaif Integration) which was deisgned to help us understand the asssignment pasted above. I have read that one and it helped me to grasp concepts into what we do need to produce in the assignment.
+
+References:
+- IBM QRADAR - Kaif Integration (no date) www.intellas.biz. Available at: https://www.intellas.biz/case-studies/ibm-qradar-kaif-integration (Accessed: April 10, 2023). 
+
 ### Unit 11
+
+This week we discussed DBMS transactions and recovery, with reading focused on back up procedures. Please find below the Wiki submission I created as a part of the activities in this Unit:
+
+WIKI submission:
+
+The ‘Grandfather-Father-Son’ (GFS) backup procedure is a hierarchical backup strategy. GFS involves storing three different types of backups: monthly (grandfather), weekly (father) and daily (son) (Sarkar, 2019; Cove, 2020). Their aim is to optimise the resources consumed for each backup. 
+
+The greatest advantage of implementing a GFS solution is the reduction in compute power and storage required to complete a data backup. GFS only keeps a specified number of backups for each cadence (daily, weekly, monthly). In Big Data Warehouses this helps to avoid redundancies, is cost-effective and improves general data operational efficiency.
+
+This backup procedure, however, cannot be applied to all possible scenarios. In businesses, where not even the smallest piece of data can be afforded to be lost, or businesses that have constantly changing data, probably better suited would be incremental backups. This is because GFS might fail on occasion and if it does then at least a full day’s data will not be backed up. 
+
+References:
+
+Sarkar, T. & Roychowdhury, S. (2019) Data Wrangling with Python. 1st ed. Packt.
+Chapters 8 and 9
+Cove, V. (2020) Visualize COVID-19 Trends in ArcGIS Insights.
 
 ### Unit 12
 
