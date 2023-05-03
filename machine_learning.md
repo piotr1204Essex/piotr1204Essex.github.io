@@ -1,5 +1,5 @@
 ---
-layout: big_data
+layout: machine_learning
 title: Machine Learning
 ---
 
