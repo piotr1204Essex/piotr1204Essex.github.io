@@ -19,9 +19,9 @@ This example clearly proves that with great power, that big data gives us, huge 
 
 References:
 
-Schwab, K. (2017) The Fourth Industrial Revolution. London: Penguin Random House. 
-Anon, (2022). Big Data And Artificial Intelligence: What’s The Future For Them? [online] Available at: https://dataconomy.com/2022/11/07/big-data-and-artificial-intelligence/?utm_content=cmp-true [Accessed 3 May 2023].
-‌Julia Carrie Wong and Solon, O. (2017). Massive ransomware cyber-attack hits nearly 100 countries around the world. [online] the Guardian. Available at: https://www.theguardian.com/technology/2017/may/12/global-cyber-attack-ransomware-nsa-uk-nhs [Accessed 3 May 2023].
+1. Schwab, K. (2017) The Fourth Industrial Revolution. London: Penguin Random House. 
+2. Anon, (2022). Big Data And Artificial Intelligence: What’s The Future For Them? [online] Available at: https://dataconomy.com/2022/11/07/big-data-and-artificial-intelligence/?utm_content=cmp-true [Accessed 3 May 2023].
+‌3. Julia Carrie Wong and Solon, O. (2017). Massive ransomware cyber-attack hits nearly 100 countries around the world. [online] the Guardian. Available at: https://www.theguardian.com/technology/2017/may/12/global-cyber-attack-ransomware-nsa-uk-nhs [Accessed 3 May 2023].
 
 ### Unit 2
 ### Unit 3
