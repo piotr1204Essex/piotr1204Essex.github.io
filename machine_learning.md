@@ -438,6 +438,10 @@ print(confusion_matrix(y, kmeans.labels_))
 <p> Pair plot </p>
 </div>
 
+References:
+
+1. Iris (no date) UCI Machine Learning Repository. Available at: https://archive.ics.uci.edu/dataset/53/iris (Accessed: 14 July 2023). 
+
 #### Task B
 
 I have been given a task to perform K-means clustering on a provided set of data ([which you can find here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/Unit06%20wine.csv))
@@ -460,6 +464,10 @@ And I have chosen a slightly different approach to visualise the output - in ord
 <div align="center">
 <p> Scatter plot with labels and cluster centers </p>
 </div>
+
+References:
+
+1. Wine (no date) UCI Machine Learning Repository. Available at: https://archive.ics.uci.edu/dataset/109/wine (Accessed: 14 July 2023). 
 
 #### Task C
 
@@ -529,6 +537,10 @@ Below you can find output scatter plots for each of the configurations.
 </div>
 
 Assesing the outputs it does seem that K=3 is the most optimal output, which is not over-fitted, without too much noise, and is able to cluster the data quite neatly.
+
+References:
+
+1. Kerneler (2019) Starter: Weatheraus 536C1115-4, Kaggle. Available at: https://www.kaggle.com/code/kerneler/starter-weatheraus-536c1115-4/notebook (Accessed: 14 July 2023). 
 
 ### Unit 7
 ### Unit 8
