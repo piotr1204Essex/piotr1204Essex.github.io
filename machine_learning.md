@@ -481,6 +481,84 @@ And I have chosen a slightly different approach to visualise the output - in ord
 
 I have been given a task to perform K-means clustering on a provided set of data ([which you can find here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/Unit06%20weatherAUS.csv))
 
+Columns 'RainToday' and 'RainTomorrow' contain categorical values, 
+so I had to transform them into numerical values first. Then I filled the missing values with forward fill and by that time we were ready to perform KMeans clustering. As the task assumed testing KMeans for different values of K (from K=2 to K=6), I have written a loop that performs the clustering and produces a scatter plot as a visualisation output of the algorithm that allows to asses its output.
+
+Please find below the Python source code:
+
+```python
+import pandas as pd
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import LabelEncoder
+import matplotlib.pyplot as plt
+
+df = pd.read_csv('Unit06 weatherAUS.csv')
+
+le = LabelEncoder()
+df['RainToday'] = le.fit_transform(df['RainToday'])
+df['RainTomorrow'] = le.fit_transform(df['RainTomorrow'])
+
+df.fillna(method ='ffill', inplace = True)
+
+for k in range(2, 7):
+    kmeans = KMeans(n_clusters=k)
+    kmeans.fit(df)
+    y_kmeans = kmeans.predict(df)
+    plt.figure(figsize=(6, 6))
+    plt.scatter(df.iloc[:, 0], df.iloc[:, 1], c=y_kmeans, s=50, cmap='viridis')
+    centers = kmeans.cluster_centers_
+    plt.scatter(centers[:, 0], centers[:, 1], c='black', s=200, alpha=0.5);
+    plt.title('KMeans with k=' + str(k))
+    plt.show()
+```
+
+Below you can find output scatter plots for each of the configurations.
+
+<div align="center">
+
+![Alt text](ml_source/task_c_1.png)
+<br>
+
+<p> Scatter plot for K=2 </p>
+
+</div>
+
+<div align="center">
+
+![Alt text](ml_source/task_c_2.png)
+<br>
+
+<p> Scatter plot for K=3 </p>
+
+</div>
+
+<div align="center">
+
+![Alt text](ml_source/task_c_3.png)
+<br>
+
+<p> Scatter plot for K=4 </p>
+
+</div>
+
+<div align="center">
+
+![Alt text](ml_source/task_c_4.png)
+<br>
+
+<p> Scatter plot for K=5 </p>
+
+</div>
+
+<div align="center">
+
+![Alt text](ml_source/task_c_5.png)
+<br>
+
+<p> Scatter plot for K=6 </p>
+
+</div>
+
 ### Unit 7
 ### Unit 8
 ### Unit 9
