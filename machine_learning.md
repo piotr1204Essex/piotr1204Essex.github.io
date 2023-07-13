@@ -33,7 +33,14 @@ The summary of this discussion for me is the following: with BigData comes big r
 
 When I started to look at the notebooks provided and I found my way around them, I realised very quickly that every change in data points can have an impact on correlation or regression. What caught my attention initially, was modifying the multiplier for the first data set, and as I was increasing the number, the correlation was flattening more and more. See attached two graphs for example:
 
-![Alt text](ml_source/c1.png)
+<div align="center">
+
+  <img src="relative/path/to/image.png" alt="Alternate text" width="100" />
+  <br>
+  <p>![Alt text](ml_source/c1.png)</p>
+
+</div>
+
 Figure 1: Initial Graph.
 ![Alt text](ml_source/c2.png)
 Figure 2: Graph where first variable had increased multiplier to 100.
