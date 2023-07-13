@@ -35,9 +35,8 @@ When I started to look at the notebooks provided and I found my way around them,
 
 <div align="center">
 
-  <img src="relative/path/to/image.png" alt="Alternate text" width="100" />
+  <img src="ml_source/c1.png" alt="Figure 1: Initial Graph." width="100" />
   <br>
-  <p>![Alt text](ml_source/c1.png)</p>
 
 </div>
 
