@@ -29,8 +29,26 @@ One of the points my initial post was challenged on is the comparison to househo
 
 The summary of this discussion for me is the following: with BigData comes big responsibility. We are staying on the verge of a historical breakthrough that will increase the standard of living for so many people. But this opportunity comes at a hidden cost that we all must take into account. Putting protective measures in place, ensuring security of BigData, AI and ML should be at the top of the list of priorities. 
 
-### Unit 2
-### Unit 3
+### e-Portfolio Activity: Correlation and Regression
+
+When I started to look at the notebooks provided and I found my way around them, I realised very quickly that even the slightest change in data points can have an impact on correlation or regression. 
+
+As data is integral to statistical analysis and both correlation and regression are statistical ways of measurement - it only comes natural, that any change in them can have a profound impact on any analysis.
+
+What I found to be detrimental to correlation is outliers. Because they deviate from the rest of the data significantly, they can also significantly impact the output of a correlation calculation (Ravichandran, 2009). Outlier, as the name suggests, is something that is out of order and does not fall into the usual behaviour of the data points. Which is why there are statistical best practices on how to identify and then exclude such points in order to run the correlation exercise correctly (Abhigyan, 2020).
+
+When it comes to regression, I believe there is no need to repeat myself, as the effects are very similar to those on correlation. Outliers can seriously affect the regression line which in turn leads to incorrect interpretations (James et al., 2013). 
+
+I have always believed that Data Science is a science of a “best-guess”. It is hard to imagine being 100% confident in any statistical analysis that one runs. It is because of that, that we must adhere to the best practices and all of the tools that statistics provides us with, so we can make sure that our best-guess is indeed the best-guess a one can make. 
+
+References:
+
+1. Abhigyan (2020) Detecting and removing outliers., Medium. Available at: https://medium.com/analytics-vidhya/detecting-and-removing-outliers-7b408b279c9 (Accessed: 13 July 2023). 
+
+2. Ravichandran, K. S. (2009). A First Course in Linear Model Theory. CRC Press.
+
+3. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An Introduction to Statistical Learning: with Applications in R. Springer.
+
 ### Unit 4
 ### Unit 5
 ### Unit 6
