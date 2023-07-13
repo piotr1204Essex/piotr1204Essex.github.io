@@ -397,7 +397,9 @@ References:
 
 2. Friedman, J.H., 2001. Greedy function approximation: a gradient boosting machine. Annals of Statistics, pp.1189-1232.
 
-### Unit 6 Task A
+### KMeans clustering (Unit 6)
+
+#### Task A
 
 I have been given a task to perform K-means clustering on a provided set of data ([which you can find here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/Unit06%20iris.csv))
 
@@ -436,7 +438,7 @@ print(confusion_matrix(y, kmeans.labels_))
 <p> Pair plot </p>
 </div>
 
-### Unit 6 Task B
+#### Task B
 
 I have been given a task to perform K-means clustering on a provided set of data ([which you can find here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/Unit06%20wine.csv))
 
@@ -459,7 +461,7 @@ And I have chosen a slightly different approach to visualise the output - in ord
 <p> Scatter plot with labels and cluster centers </p>
 </div>
 
-### Unit 6 Task C
+#### Task C
 
 I have been given a task to perform K-means clustering on a provided set of data ([which you can find here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/Unit06%20weatherAUS.csv))
 
