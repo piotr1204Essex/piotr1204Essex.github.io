@@ -82,7 +82,17 @@ References:
 
 ### Unit 4
 ### Unit 5
-### Unit 6
+
+
+### Development Team Project: Project Report
+
+At the end of Unit 6 we were due to submit the Development Team Project. I think the task was a very interesting one. We were asked to take a dataset from Airbnb publicly provided data, and try to answer an interesting question, that could be useful for the Airbnb's management team. We have asked ourselves: "Which feature most strongly affects the Airbnb listing
+price?"
+
+I, personally, have always found it fascinating, how prices for different services and products are developed. Is it the location, quality, size or maybe only inflation rate, that affects the change/amplitude in the prices across different services/products?
+
+Working together with Rory was a huge learning experience for me. I found it extremely beneficial, that both of us have approach this task from different angles. In turn we could learn from each other as well as merge the results of our work into a coherent piece. 
+
 ### Unit 7
 ### Unit 8
 ### Unit 9
