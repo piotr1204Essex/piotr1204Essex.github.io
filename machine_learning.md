@@ -399,6 +399,14 @@ shap_values = ex.shap_values(x_test[0:200])
 shap.summary_plot(shap_values, x_test[0:200], show=False)
 plt.savefig('plots/shap_xgboost_summary.pdf')
 ```
+I personally contributed to both the EDA as well as chosing the XGBoost algorithm for solving this particular task. It was a first time for me applying this specific algorithm. I learned a lot. 
+
+References: 
+
+1. Chen, T. and Guestrin, C., 2016. Xgboost: A scalable tree boosting system. In Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (pp. 785-794). ACM.
+
+2. Friedman, J.H., 2001. Greedy function approximation: a gradient boosting machine. Annals of Statistics, pp.1189-1232.
+
 ### Unit 7
 ### Unit 8
 ### Unit 9
