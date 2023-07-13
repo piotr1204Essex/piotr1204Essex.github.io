@@ -546,5 +546,17 @@ References:
 ### Unit 8
 ### Unit 9
 ### Unit 10
-### Unit 11
+### ROC & R2 metrics
+
+In Unit 11 the activity we have been asked to perform was about changing parameters in a provided Jupyter Notebook in order to observe the changes in AUC and R2 metrics. I had some previous professional experience with regression, AUC and R2 metrics so I will delve into what my experience with this (and other) notebooks was. 
+
+AUC (Area Under the Curve) is a metric used to assess the model’s capabilities in distinguishing between different classes. The larger AUC is, the better the model’s performance. What I found to have the biggest impact on AUC was the decision threshold. I have played as well with regularisation (logistic regression) and depth parameters (decision tree) that can easily lead to underfitting or overfitting - if set incorrectly (Fawcett, 2006). 
+
+R2 is a metric that helps to understand the variance in the dependent variable and is used for regression problems. I like to think about the R2 score as a value that tells me how well it is a given model explaining the variance. Outliers can be some of the factors that decrease the R2 score and hence should be handled appropriately. It is also the choice of a degree of a polynomial regression (if applicable) that can strongly affect R2 value (James et al., 2013). 
+
+References:
+
+1. Fawcett, T. (2006). An introduction to ROC analysis. Pattern recognition letters, 27(8), 861-874.
+2. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning: with applications in R. Springer.
+
 ### Unit 12
