@@ -95,7 +95,7 @@ Working together with Rory was a huge learning experience for me. I found it ext
 
 Please find below the code we have used to answer the above set question:
 
-'''python
+```python
 # %% [markdown]
 # # Airbnb Analysis
 
@@ -398,7 +398,7 @@ shap_values = ex.shap_values(x_test[0:200])
 
 shap.summary_plot(shap_values, x_test[0:200], show=False)
 plt.savefig('plots/shap_xgboost_summary.pdf')
-'''
+```
 ### Unit 7
 ### Unit 8
 ### Unit 9
