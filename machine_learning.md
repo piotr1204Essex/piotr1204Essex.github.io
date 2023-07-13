@@ -93,6 +93,312 @@ I, personally, have always found it fascinating, how prices for different servic
 
 Working together with Rory was a huge learning experience for me. I found it extremely beneficial, that both of us have approach this task from different angles. In turn we could learn from each other as well as merge the results of our work into a coherent piece. 
 
+Please find below the code we have used to answer the above set question:
+
+'''python
+# %% [markdown]
+# # Airbnb Analysis
+
+# %% [markdown]
+# ## Data loading and preparation
+
+# %%
+import numpy as np
+import pandas as pd
+import scipy.stats as st
+import matplotlib.pyplot as plt
+import matplotlib.image as mpimg
+import seaborn as sns
+import missingno as msno
+import warnings
+warnings.filterwarnings('ignore')
+
+# %%
+airbnb=pd.read_csv('AB_NYC_2019.csv')
+
+airbnb.fillna({'reviews_per_month':0,
+              'name':'NA'}, inplace=True)
+
+airbnb = airbnb[airbnb.price>0]
+
+# %% [markdown]
+# ### Exploratory Data Analysis: summary statistics including distribution
+
+# %%
+airbnb.describe()
+
+# %%
+airbnb.head()
+
+# %%
+airbnb.tail()
+
+# %%
+airbnb.shape
+
+# %%
+numeric_features = airbnb.select_dtypes(include=[np.number])
+numeric_features.columns
+
+# %%
+categorical_features = airbnb.select_dtypes(exclude=[np.number])
+categorical_features.columns
+
+# %%
+msno.matrix(airbnb.sample(250))
+
+# %%
+msno.dendrogram(airbnb)
+
+# %%
+sns.heatmap(airbnb.corr(method='kendall',
+                  numeric_only=True), cmap='coolwarm')
+plt.show()
+
+# %% [markdown]
+# ### Distribution of target (price)
+
+# %%
+sns.histplot(data=airbnb, x='price', binrange=(0,1000), bins=30)
+
+# %%
+airbnb['logprice'] = np.log2(airbnb.price)
+
+# %%
+sns.histplot(data=airbnb, x='logprice', bins=30)
+
+# %% [markdown]
+# ## Data processing
+# 
+# ### One hot encode categorical features
+
+# %%
+y = airbnb['logprice']
+
+x = airbnb[['neighbourhood_group',
+                   'latitude',
+                   'longitude',
+                   'room_type',
+                   'minimum_nights',
+                   'number_of_reviews',
+                   'calculated_host_listings_count',
+                   'availability_365']]
+
+x_oh = pd.get_dummies(x, columns=['room_type','neighbourhood_group'])
+
+# %% [markdown]
+# ## Models
+# 
+# ### Imports for models
+
+# %%
+import sklearn
+from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import r2_score
+from sklearn.inspection import permutation_importance
+
+# %% [markdown]
+# ### 1. Linear regression
+
+# %%
+x_train,x_test,y_train,y_test=train_test_split(x_oh,y,test_size=.1,random_state=353)
+
+model = LinearRegression()
+
+model.fit(x_train,y_train)
+
+# %%
+y_pred=model.predict(x_train)
+r2_score(y_train,y_pred)
+
+# %%
+y_pred=model.predict(x_test)
+r2_score(y_test,y_pred)
+
+# %%
+importance = permutation_importance(model, x_test, y_test, scoring='neg_root_mean_squared_error').importances_mean
+
+fig=sns.barplot(x=x_train.columns.tolist(), y=importance)
+fig.set_title('Permutation importance of features in linear model')
+fig.set_xticklabels(fig.get_xticklabels(), rotation=90)
+plt.savefig('plots/perm_imp_linear.pdf', bbox_inches='tight')
+
+# %% [markdown]
+# ### 2. Decision tree regression
+
+# %%
+from sklearn.tree import DecisionTreeRegressor
+
+model = DecisionTreeRegressor()
+
+model.fit(x_train, y_train)
+
+importance = model.feature_importances_
+
+# %%
+y_pred=model.predict(x_train)
+
+r2_score(y_train,y_pred)
+
+# %%
+y_pred=model.predict(x_test)
+
+r2_score(y_test,y_pred)
+
+# %%
+fig=sns.barplot(x=x_train.columns.tolist(), y=importance)
+fig.set_title('GINI importance of features in decisiontree model')
+fig.set_xticklabels(fig.get_xticklabels(), rotation=90)
+plt.savefig('plots/gini_imp_dtree.pdf', bbox_inches='tight')
+
+# %% [markdown]
+# ### 3. Random forest regression
+
+# %%
+from sklearn.ensemble import RandomForestRegressor
+
+model = RandomForestRegressor()
+
+model.fit(x_train, y_train)
+
+importance = model.feature_importances_
+
+# %%
+y_pred=model.predict(x_train)
+
+r2_score(y_train,y_pred)
+
+# %%
+y_pred=model.predict(x_test)
+
+r2_score(y_test,y_pred)
+
+# %%
+fig=sns.barplot(x=x_train.columns.tolist(), y=importance)
+fig.set_title('GINI importance of features in RF model')
+fig.set_xticklabels(fig.get_xticklabels(), rotation=90)
+plt.savefig('plots/gini_imp_randforest.pdf', bbox_inches='tight')
+
+# %%
+importance = permutation_importance(model, x_test, y_test, scoring='neg_root_mean_squared_error').importances_mean
+
+fig=sns.barplot(x=x_train.columns.tolist(), y=importance)
+fig.set_title('Permutation importance of features in RF model (test)')
+fig.set_xticklabels(fig.get_xticklabels(), rotation=90)
+plt.savefig('plots/perm_imp_test_randforest.pdf', bbox_inches='tight')
+
+# %%
+importance = permutation_importance(model, x_train, y_train, scoring='neg_root_mean_squared_error').importances_mean
+
+fig=sns.barplot(x=x_train.columns.tolist(), y=importance)
+fig.set_title('Permutation importance of features in RF model (train)')
+fig.set_xticklabels(fig.get_xticklabels(), rotation=90)
+plt.savefig('plots/perm_imp_train_randforest.pdf', bbox_inches='tight')
+plt.show()
+
+# %% [markdown]
+# ### 4. XGBoost regression
+
+# %%
+from xgboost import XGBRegressor
+
+model = XGBRegressor()
+
+model.fit(x_train, y_train)
+
+importance = model.feature_importances_
+
+# %%
+y_pred=model.predict(x_train)
+
+r2_score(y_train,y_pred)
+
+# %%
+y_pred=model.predict(x_test)
+
+r2_score(y_test,y_pred)
+
+# %%
+fig=sns.barplot(x=x_train.columns.tolist(), y=importance)
+fig.set_title('Inbuilt importance of features in XGBoost model (train)')
+fig.set_xticklabels(fig.get_xticklabels(), rotation=90)
+plt.savefig('plots/gini_imp_xgboost.pdf', bbox_inches='tight')
+
+# %%
+importance = permutation_importance(model, x_train, y_train, scoring='neg_root_mean_squared_error').importances_mean
+
+fig=sns.barplot(x=x_train.columns.tolist(), y=importance)
+fig.set_title('Permutation importance of features in XGBoost model (train)')
+fig.set_xticklabels(fig.get_xticklabels(), rotation=90)
+plt.savefig('plots/perm_imp_xgboost_train.pdf', bbox_inches='tight')
+
+# %%
+importance = permutation_importance(model, x_test, y_test, scoring='neg_root_mean_squared_error').importances_mean
+
+# %%
+fig=sns.barplot(x=x_train.columns.tolist(), y=importance)
+fig.set_title('Permutation importance of features in XGBoost model (test)')
+fig.set_xticklabels(fig.get_xticklabels(), rotation=90)
+plt.savefig('plots/perm_imp_xgboost_test.pdf', bbox_inches='tight')
+
+# %% [markdown]
+# ## SHapley Additive exPlanations (SHAP)
+
+# %%
+import shap
+shap.initjs()
+
+x_train,x_test,y_train,y_test=train_test_split(x_oh,y,test_size=.1,random_state=353)
+
+x_train_summary = shap.kmeans(x_train, 10)
+
+# %% [markdown]
+# ### 1. Linear regression SHAP
+
+# %%
+model = LinearRegression()
+
+model.fit(x_train,y_train)
+
+ex = shap.KernelExplainer(model.predict, x_train_summary)
+
+shap_values = ex.shap_values(x_test[0:100])
+
+shap.summary_plot(shap_values, x_test[0:100],show=False)
+plt.savefig('plots/shap_linear_summary.pdf')
+
+# %% [markdown]
+# ### 2. Decision tree regression SHAP
+
+# %%
+from sklearn.tree import DecisionTreeRegressor
+
+model = DecisionTreeRegressor()
+
+model.fit(x_train, y_train)
+ex = shap.TreeExplainer(model)
+shap_values = ex.shap_values(x_test[0:200])
+shap.summary_plot(shap_values, x_test[0:200],show=False)
+plt.savefig('plots/shap_dtree_summary.pdf')
+
+# %% [markdown]
+# ### 3. XGBoost regression SHAP
+
+# %%
+from xgboost import XGBRegressor
+
+model = XGBRegressor()
+
+model.fit(x_train, y_train)
+
+ex = shap.TreeExplainer(model)
+
+shap_values = ex.shap_values(x_test[0:200])
+
+shap.summary_plot(shap_values, x_test[0:200], show=False)
+plt.savefig('plots/shap_xgboost_summary.pdf')
+
 ### Unit 7
 ### Unit 8
 ### Unit 9
