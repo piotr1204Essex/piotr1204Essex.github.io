@@ -33,32 +33,22 @@ The summary of this discussion for me is the following: with BigData comes big r
 
 When I started to look at the notebooks provided and I found my way around them, I realised very quickly that every change in data points can have an impact on correlation or regression. What caught my attention initially, was modifying the multiplier for the first data set, and as I was increasing the number, the correlation was flattening more and more. See below example:
 
+![Alt text for image](/assets/images/c1.png)
+
 <div align="center">
-
-![Alt text](ml_source/c1.png)
-<br>
-
 <p> Figure 1: Initial Graph. </p>
-
 </div>
 
+![Alt text for image](/assets/images/c2.png)
+
 <div align="center">
-
-![Alt text](ml_source/c2.png)
-<br>
-
 <p> Figure 2: Graph where first variable had increased multiplier to 100. </p>
-
 </div>
 
+![Alt text for image](/assets/images/c3.png)
 
 <div align="center">
-
-![Alt text](ml_source/c3.png)
-<br>
-
 <p> Figure 3: Graph where first variable had increased multiplier to 1000. </p>
-
 </div>
 
 Further playing with data only brought more fun and interesting learnings. It has also prompted me to research a bit more on the topic.
@@ -433,22 +423,17 @@ print(classification_report(y, kmeans.labels_))
 print(confusion_matrix(y, kmeans.labels_))
 ```
 
+![Alt text for image](/assets/images/task_a_1.png)
+
 <div align="center">
-
-![Alt text](ml_source/task_a_1.png)
-<br>
-
 <p> Scatter plot </p>
-
 </div>
 
+
+![Alt text for image](/assets/images/task_a_2.png)
+
 <div align="center">
-
-![Alt text](ml_source/task_a_2.png)
-<br>
-
 <p> Pair plot </p>
-
 </div>
 
 ### Unit 6 Task B
@@ -468,13 +453,10 @@ kmeans = KMeans(n_clusters=3, random_state=0).fit(X)
 
 And I have chosen a slightly different approach to visualise the output - in order to show the different possibilities across KMeans clustering outputs. Please find below the output visualisation for this algorithm.
 
+![Alt text for image](/assets/images/task_b_1.png)
+
 <div align="center">
-
-![Alt text](ml_source/task_b_1.png)
-<br>
-
 <p> Scatter plot with labels and cluster centers </p>
-
 </div>
 
 ### Unit 6 Task C
@@ -520,41 +502,28 @@ Below you can find output scatter plots for each of the configurations.
 <p>Scatter plot for K=2</p>
 </div>
 
+![Alt text for image](/assets/images/task_c_2.png)
 
 <div align="center">
-
-![Alt text](ml_source/task_c_2.png)
-<br>
-
 <p> Scatter plot for K=3 </p>
-
 </div>
 
+![Alt text for image](/assets/images/task_c_3.png)
+
 <div align="center">
-
-![Alt text](ml_source/task_c_3.png)
-<br>
-
 <p> Scatter plot for K=4 </p>
-
 </div>
 
+![Alt text for image](/assets/images/task_c_4.png)
+
 <div align="center">
-
-![Alt text](ml_source/task_c_4.png)
-<br>
-
 <p> Scatter plot for K=5 </p>
-
 </div>
 
+![Alt text for image](/assets/images/task_c_5.png)
+
 <div align="center">
-
-![Alt text](ml_source/task_c_5.png)
-<br>
-
 <p> Scatter plot for K=6 </p>
-
 </div>
 
 Assesing the outputs it does seem that K=3 is the most optimal output, which is not over-fitted, without too much noise, and is able to cluster the data quite neatly.
