@@ -559,4 +559,11 @@ References:
 1. Fawcett, T. (2006). An introduction to ROC analysis. Pattern recognition letters, 27(8), 861-874.
 2. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning: with applications in R. Springer.
 
+### Summative Assessment: Team Presentation
+
+Unit 11 brought to us also a deadline for the second Team project we were asked to submit. This task required from us to develop a Neural Networks Algorithm based on a CIFAR-10 dataset. 
+I have learned a lot during my own research, working with my team mate and during seminar with my tutor. Once again, me and my team mate have found ourselves approaching this task from different angles, which allowed us not only to learn from one another but also to create a coherent presentation as an output, that I believe fulfills the requirements of the task to its full extension. 
+
+My personal contribution focused on optimising a CNN model for performance on the CIFAR-10 dataset. I started with an ANN model initially, but quickly realised it might be tought to get high performance out of this basic Neural Network structure - which is why I switched to a Convolutional Neural Network algorithm. I have taken a considerable amount of time to research various optimisation techniques and general structures of the CNN which allowed me to create a final output, which together with my team mate's contribution was a part of our final submission.
+
 ### Unit 12
