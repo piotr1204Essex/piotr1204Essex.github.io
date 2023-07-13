@@ -559,6 +559,8 @@ Below you can find output scatter plots for each of the configurations.
 
 </div>
 
+Assesing the outputs it does seem that K=3 is the most optimal output, which is not over-fitted, without too much noise, and is able to cluster the data quite neatly.
+
 ### Unit 7
 ### Unit 8
 ### Unit 9
