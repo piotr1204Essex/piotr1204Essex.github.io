@@ -407,6 +407,13 @@ References:
 
 2. Friedman, J.H., 2001. Greedy function approximation: a gradient boosting machine. Annals of Statistics, pp.1189-1232.
 
+### Unit 6 Task A
+
+I have been given a task to perform K-means clustering on a provided set of data (which you can find here)
+
+### Unit 6 Task B
+### Unit 6 Task C
+
 ### Unit 7
 ### Unit 8
 ### Unit 9
