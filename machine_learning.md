@@ -411,6 +411,46 @@ References:
 
 I have been given a task to perform K-means clustering on a provided set of data ([which you can find here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/Unit06%20iris.csv))
 
+You can find below the source code for solving this task, as well as two visualisations that help understand the output.
+
+```python
+import pandas as pd
+from sklearn.cluster import KMeans
+from sklearn.preprocessing import LabelEncoder
+from sklearn.metrics import confusion_matrix, classification_report
+
+df = pd.read_csv('Unit06 iris.csv')
+
+le = LabelEncoder()
+df['species'] = le.fit_transform(df['species'])
+
+X = df.drop('species', axis=1)
+y = df['species']
+
+kmeans = KMeans(n_clusters=3, random_state=0).fit(X)
+
+print(classification_report(y, kmeans.labels_))
+print(confusion_matrix(y, kmeans.labels_))
+```
+
+<div align="center">
+
+![Alt text](ml_source/task_a_1.png)
+<br>
+
+<p> Scatter plot </p>
+
+</div>
+
+<div align="center">
+
+![Alt text](ml_source/task_a_2.png)
+<br>
+
+<p> Pair plot </p>
+
+</div>
+
 ### Unit 6 Task B
 
 I have been given a task to perform K-means clustering on a provided set of data ([which you can find here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/Unit06%20wine.csv))
