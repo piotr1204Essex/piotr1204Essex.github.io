@@ -43,6 +43,7 @@ When I started to look at the notebooks provided and I found my way around them,
 </div>
 
 <div align="center">
+
 ![Alt text](ml_source/c2.png)
 <br>
 
@@ -50,7 +51,9 @@ When I started to look at the notebooks provided and I found my way around them,
 
 </div>
 
+
 <div align="center">
+
 ![Alt text](ml_source/c3.png)
 <br>
 
