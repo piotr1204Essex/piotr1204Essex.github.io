@@ -31,7 +31,7 @@ The summary of this discussion for me is the following: with BigData comes big r
 
 ### e-Portfolio Activity: Correlation and Regression
 
-When I started to look at the notebooks provided and I found my way around them, I realised very quickly that every change in data points can have an impact on correlation or regression. What caught my attention initially, was modifying the multiplier for the first data set, and as I was increasing the number, the correlation was flattening more and more. See attached two graphs for example:
+When I started to look at the notebooks provided and I found my way around them, I realised very quickly that every change in data points can have an impact on correlation or regression. What caught my attention initially, was modifying the multiplier for the first data set, and as I was increasing the number, the correlation was flattening more and more. See below example:
 
 <div align="center">
 
@@ -42,11 +42,19 @@ When I started to look at the notebooks provided and I found my way around them,
 
 </div>
 
-Figure 1: Initial Graph.
 ![Alt text](ml_source/c2.png)
-Figure 2: Graph where first variable had increased multiplier to 100.
+<br>
+
+<p> Figure 2: Graph where first variable had increased multiplier to 100. </p>
+
+</div>
+
 ![Alt text](ml_source/c3.png)
-Figure 3: Graph where first variable had increased multiplier to 1000.
+<br>
+
+<p> Figure 3: Graph where first variable had increased multiplier to 1000. </p>
+
+</div>
 
 Further playing with data only brought more fun and interesting learnings. It has also prompted me to research a bit more on the topic.
 
