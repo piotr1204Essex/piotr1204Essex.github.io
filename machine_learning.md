@@ -516,6 +516,8 @@ Below you can find output scatter plots for each of the configurations.
 
 ![Alt text for image](/assets/images/task_c_1.png)
 
+Scatter plot for K=2
+
 <div align="center">
 
 ![Alt text](ml_source/task_c_2.png)
