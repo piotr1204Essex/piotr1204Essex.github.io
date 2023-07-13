@@ -35,8 +35,10 @@ When I started to look at the notebooks provided and I found my way around them,
 
 <div align="center">
 
-  <img src="ml_source/c1.png" alt="Figure 1: Initial Graph." width="100" />
-  <br>
+![Alt text](ml_source/c1.png)
+<br>
+
+<p> Figure 1: Initial Graph. </p>
 
 </div>
 
