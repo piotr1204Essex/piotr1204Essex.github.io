@@ -31,7 +31,16 @@ The summary of this discussion for me is the following: with BigData comes big r
 
 ### e-Portfolio Activity: Correlation and Regression
 
-When I started to look at the notebooks provided and I found my way around them, I realised very quickly that even the slightest change in data points can have an impact on correlation or regression. 
+When I started to look at the notebooks provided and I found my way around them, I realised very quickly that every change in data points can have an impact on correlation or regression. What caught my attention initially, was modifying the multiplier for the first data set, and as I was increasing the number, the correlation was flattening more and more. See attached two graphs for example:
+
+![Alt text](ml_source/c1.png)
+Figure 1: Initial Graph.
+![Alt text](ml_source/c2.png)
+Figure 2: Graph where first variable had increased multiplier to 100.
+![Alt text](ml_source/c3.png)
+Figure 3: Graph where first variable had increased multiplier to 1000.
+
+Further playing with data only brought more fun and interesting learnings. It has also prompted me to research a bit more on the topic.
 
 As data is integral to statistical analysis and both correlation and regression are statistical ways of measurement - it only comes natural, that any change in them can have a profound impact on any analysis.
 
@@ -39,7 +48,7 @@ What I found to be detrimental to correlation is outliers. Because they deviate 
 
 When it comes to regression, I believe there is no need to repeat myself, as the effects are very similar to those on correlation. Outliers can seriously affect the regression line which in turn leads to incorrect interpretations (James et al., 2013). 
 
-I have always believed that Data Science is a science of a “best-guess”. It is hard to imagine being 100% confident in any statistical analysis that one runs. It is because of that, that we must adhere to the best practices and all of the tools that statistics provides us with, so we can make sure that our best-guess is indeed the best-guess a one can make. 
+I have always believed that Data Science is a science of a “best-guess”. It is hard to imagine being 100% confident in any statistical analysis that one runs. It is because of that, that we must adhere to the best practices and all of the tools that statistics provides us with, so we can make sure that our best-guess is indeed the best-guess one can make. 
 
 References:
 
@@ -47,7 +56,8 @@ References:
 
 2. Ravichandran, K. S. (2009). A First Course in Linear Model Theory. CRC Press.
 
-3. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An Introduction to Statistical Learning: with Applications in R. Springer.
+3.James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An Introduction to Statistical Learning: with Applications in R. Springer.
+
 
 ### Unit 4
 ### Unit 5
