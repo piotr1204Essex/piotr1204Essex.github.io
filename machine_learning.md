@@ -3,11 +3,9 @@ layout: machine_learning
 title: Machine Learning
 ---
 
-### Unit 1
+### Collaborative Discussion 1: The 4th Industrial Revolution
 
-#### Collaborative Discussion 1: The 4th Industrial Revolution
-
-##### Initial Post
+#### Initial Post
 
 The topics discussed in Schwab's (2017) book on the fourth industrial revolution concern a sector I am involved in professionally - that is Big Data. Machine Learning and Artificial Intelligence cannot be created or work or exist or provide any value without the data that fuels them. It is fair to say that the significant advancements in ML and AI fields are made available thanks to the exponential increase in the data we collect globally, as humanity (Anon, 2022).
 
@@ -22,6 +20,14 @@ References:
 1. Schwab, K. (2017) The Fourth Industrial Revolution. London: Penguin Random House. 
 2. Anon, (2022). Big Data And Artificial Intelligence: What’s The Future For Them? [online] Available at: https://dataconomy.com/2022/11/07/big-data-and-artificial-intelligence/?utm_content=cmp-true [Accessed 3 May 2023].
 ‌3. Julia Carrie Wong and Solon, O. (2017). Massive ransomware cyber-attack hits nearly 100 countries around the world. [online] the Guardian. Available at: https://www.theguardian.com/technology/2017/may/12/global-cyber-attack-ransomware-nsa-uk-nhs [Accessed 3 May 2023].
+
+#### Summary Post
+
+The discussion in this thread is focused on the significance of BigData in the 4th Industrial Revolution as well as on potential repercussions and security risks related to increased reliance on technology. It is clear to me how BigData is fueling advancements in Artificial Intelligence as well as in Machine Learning fields, and my colleagues seem to agree. With BigData come big responsibilities and only greater risks. The WannaCry ransomware attack being one of the examples where malicious actors caused a significant disruption to many businesses, but also for the UK’s National Health Service - which was particularly painful for the UK’s population. Many patients had their appointments cancelled or rescheduled as a result of these actions. One can only imagine what hardship must they have gone through, especially if waiting for a life-or-death kind of surgery. 
+
+One of the points my initial post was challenged on is the comparison to household finances - when it comes to reliance on a single source of income (or truth - in case of data). It was found to be thought-provoking but required more context and explanation - which was supported in the reply. It was valuable learning for me, as this kind of comparison was self-explanatory to me, but I learned how important it is to make sure my communication is clear, as not everyone can work based on similar assumptions to myself. 
+
+The summary of this discussion for me is the following: with BigData comes big responsibility. We are staying on the verge of a historical breakthrough that will increase the standard of living for so many people. But this opportunity comes at a hidden cost that we all must take into account. Putting protective measures in place, ensuring security of BigData, AI and ML should be at the top of the list of priorities. 
 
 ### Unit 2
 ### Unit 3
