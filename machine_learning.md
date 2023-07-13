@@ -514,14 +514,7 @@ for k in range(2, 7):
 
 Below you can find output scatter plots for each of the configurations.
 
-<div align="center">
-
 ![Alt text for image](/assets/images/task_c_1.png)
-<br>
-
-<p> Scatter plot for K=2 </p>
-
-</div>
 
 <div align="center">
 
