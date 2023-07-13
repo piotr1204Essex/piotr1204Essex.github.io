@@ -455,6 +455,28 @@ print(confusion_matrix(y, kmeans.labels_))
 
 I have been given a task to perform K-means clustering on a provided set of data ([which you can find here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/Unit06%20wine.csv))
 
+I have dropped the "Wine" column in order to select features for clustering. The clustering has been achieved with the following code:
+
+```python
+import pandas as pd
+from sklearn.cluster import KMeans
+data = pd.read_csv("Unit06 wine.csv")
+X = data.drop('Wine', axis=1)
+
+kmeans = KMeans(n_clusters=3, random_state=0).fit(X)
+```
+
+And I have chosen a slightly different approach to visualise the output - in order to show the different possibilities across KMeans clustering outputs. Please find below the output visualisation for this algorithm.
+
+<div align="center">
+
+![Alt text](ml_source/task_b_1.png)
+<br>
+
+<p> Scatter plot with labels and cluster centers </p>
+
+</div>
+
 ### Unit 6 Task C
 
 I have been given a task to perform K-means clustering on a provided set of data ([which you can find here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/Unit06%20weatherAUS.csv))
