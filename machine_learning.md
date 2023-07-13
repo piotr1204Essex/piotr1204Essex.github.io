@@ -73,11 +73,11 @@ I have always believed that Data Science is a science of a “best-guess”. It 
 
 References:
 
-1. Abhigyan (2020) Detecting and removing outliers., Medium. Available at: https://medium.com/analytics-vidhya/detecting-and-removing-outliers-7b408b279c9 (Accessed: 13 July 2023). 
+1. Abhigyan (2020) Detecting and removing outliers., Medium. Available at: https://medium.com/analytics-vidhya/detecting-and-removing-outliers-7b408b279c9 (Accessed: 12 June 2023). 
 
 2. Ravichandran, K. S. (2009). A First Course in Linear Model Theory. CRC Press.
 
-3.James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An Introduction to Statistical Learning: with Applications in R. Springer.
+3. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An Introduction to Statistical Learning: with Applications in R. Springer.
 
 
 ### Unit 4
