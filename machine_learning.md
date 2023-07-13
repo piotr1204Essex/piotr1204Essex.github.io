@@ -566,4 +566,12 @@ I have learned a lot during my own research, working with my team mate and durin
 
 My personal contribution focused on optimising a CNN model for performance on the CIFAR-10 dataset. I started with an ANN model initially, but quickly realised it might be tought to get high performance out of this basic Neural Network structure - which is why I switched to a Convolutional Neural Network algorithm. I have taken a considerable amount of time to research various optimisation techniques and general structures of the CNN which allowed me to create a final output, which together with my team mate's contribution was a part of our final submission.
 
+Please find below the links to the submission components (full presentation is not included as file is too large, but slides, source code and transcript is provided below):
+
+- [Slides](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/Slides_%20Rory%20%26%20Piotr%20Neural%20Network%20Model.pdf)
+- [Source code](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/source_code_piotr_rory_ml.py)
+- [Transcript](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/transcript_piotr_rory_cifar_10_ml.pdf)
+
+Both slide deck and transcript contain all relevant references.
+
 ### Unit 12
