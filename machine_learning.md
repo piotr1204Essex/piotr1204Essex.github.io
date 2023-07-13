@@ -409,10 +409,15 @@ References:
 
 ### Unit 6 Task A
 
-I have been given a task to perform K-means clustering on a provided set of data (which you can find here)
+I have been given a task to perform K-means clustering on a provided set of data ([which you can find here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/Unit06%20iris.csv))
 
 ### Unit 6 Task B
+
+I have been given a task to perform K-means clustering on a provided set of data ([which you can find here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/Unit06%20wine.csv))
+
 ### Unit 6 Task C
+
+I have been given a task to perform K-means clustering on a provided set of data ([which you can find here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/Unit06%20weatherAUS.csv))
 
 ### Unit 7
 ### Unit 8
