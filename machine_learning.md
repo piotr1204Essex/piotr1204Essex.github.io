@@ -76,12 +76,12 @@ References:
 
 ### Development Team Project: Project Report
 
-At the end of Unit 6 we were due to submit the Development Team Project. I think the task was a very interesting one. We were asked to take a dataset from Airbnb publicly provided data, and try to answer an interesting question, that could be useful for the Airbnb's management team. We have asked ourselves: "Which feature most strongly affects the Airbnb listing
+At the end of Unit 6 we were due to submit the Development Team Project. I think the task was a very interesting one. We were asked to take a dataset containing listing's information from Airbnb publicly provided data, and try to answer an interesting question, that could be useful for the Airbnb's management team. We have asked ourselves: "Which feature most strongly affects the Airbnb listing
 price?"
 
 I, personally, have always found it fascinating, how prices for different services and products are developed. Is it the location, quality, size or maybe only inflation rate, that affects the change/amplitude in the prices across different services/products?
 
-Working together with Rory was a huge learning experience for me. I found it extremely beneficial, that both of us have approach this task from different angles. In turn we could learn from each other as well as merge the results of our work into a coherent piece. 
+Working together with Rory was a huge learning experience for me. I found it extremely beneficial, that both of us have approached this task from different angles. In turn we could learn from each other as well as merge the results of our work into a coherent piece. 
 
 Please find below the code we have used to answer the above set question:
 
@@ -389,7 +389,7 @@ shap_values = ex.shap_values(x_test[0:200])
 shap.summary_plot(shap_values, x_test[0:200], show=False)
 plt.savefig('plots/shap_xgboost_summary.pdf')
 ```
-I personally contributed to both the EDA as well as chosing the XGBoost algorithm for solving this particular task. It was a first time for me applying this specific algorithm. I learned a lot. 
+I personally contributed to both the EDA as well as choosing the XGBoost algorithm for solving this particular task. It was the first time for me to apply this specific algorithm. I learned a lot. The detailed reflection on this project is available as the part of this module's personal reflection available [here] ()
 
 References: 
 
