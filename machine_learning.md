@@ -793,6 +793,9 @@ Both slide deck and transcript contain all relevant references.
 
 ### Some final reflections
 
-The Machine Learning Module has brought a lot of knowledge when it comes to ML algorithms. We covered Neural Networks, Decision Trees, Linear Regression, Clustering algorithms and others. Some of them were known to me. The biggest learning of all was with Neural networks, which I had to study from the very beginning. It was also the core of the second team project, that we had to develop a Neural Network Algorithm. 
+The Machine Learning Module has brought a lot of knowledge when it comes to ML algorithms. We covered Neural Networks (ANN & CNN), Decision Trees, Linear Regression, Clustering algorithms and others. Some of them were known to me. The biggest learning of all was with Neural networks, which I had to study from the very beginning. It was also the core of the second team project, that we had to develop a Neural Network Algorithm. 
 
+Working as a member of a development team was not a new experience for me. Not only have we done it in some of the previous modules but also during my professional experience. I found a lot of joy in collaborating with my teammate. Our unique perspectives on approaching the same problem allowed us to create a coherent piece for submission, but also to learn from one another. I can confidently say it was a highly collaborative environment. As mentioned in other parts of the reflections - I will take the learnings on my professional journey. Especially adding more structure to my work and approach to problem-solving - courtesy of my teammate.
+
+----------------------------
 Disclaimer: throughout some of the written work in this e-Portfolio, generative AI was consulted on suggesting improvements to wording and readability of the text. All of the content has been created by myself and occasional change of synonyms or sentence structure was applied where it made sense. This disclaimer is here in order to be in line with AI policy of the University of Essex.
