@@ -133,10 +133,10 @@ Second task from this Unit was to create a regression where the independent vari
 
 <div align="center">
 <p> Figure 2: Regression line </p>
-<p>Mean Absolute Error: 3851837669113.7427</p>
-<p>Mean Squared Error: 7.894120695361018e+25</p>
-<p>Root Mean Squared Error: 8884886434480.195</p>
-<p>R-squared: -0.010787852179202861</p>
+</div>
+<div align="left">
+- Root Mean Squared Error: ~8884886434480.2
+- R-squared: ~ -0.011
 </div>
 
 ### Unit 5
