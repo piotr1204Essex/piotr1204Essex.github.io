@@ -208,7 +208,7 @@ plt.show()
 
 During Unit 5 we were presented with a table (see below) showing pathological test results for three individuals.
 
-![Alt text for image](/assets/images/unit_5.png)
+![Alt text for image](/assets/images/Screenshot 2023-07-18 at 17.42.39.png)
 
 <div align="center">
 <p> Figure 1: Table with test results </p>
