@@ -29,6 +29,30 @@ One of the points my initial post was challenged on is the comparison to househo
 
 The summary of this discussion for me is the following: with BigData comes big responsibility. We are staying on the verge of a historical breakthrough that will increase the standard of living for so many people. But this opportunity comes at a hidden cost that we all must take into account. Putting protective measures in place, ensuring security of BigData, AI and ML should be at the top of the list of priorities. 
 
+## Collaborative Discussion 2: Legal and Ethical views on ANN applications
+
+#### Initial Post
+
+Hutson (2021) discusses the capabilities of AI potentially serving a function of an actual writer - hence ‘Robo-writers’. They are built on sophisticated AI models that can swiftly generate text on a variety of topics. Their application, however, is not devoid of pros and cons.
+
+The advantages of employing AI writing tools seem self-explanatory. They can enhance efficiency in daily tasks, particularly in generating routine communication like emails and reports swiftly and with precision (Hutson, 2021). In terms of creativity, these AI platforms can act as thought catalysts, helping writers overcome creative hurdles (Grosz, 2022). For instance, GPT-3's ability to create poetry and short narratives illustrates the extent of AI's creative assistance (Clark et al., 2020).
+
+Simultaneously, the use of AI in writing raises several challenging issues. Ethical considerations are paramount, given concerns about the originality and authenticity of AI-produced content (Boddington, 2021). AI tools work by identifying and following patterns in data, leading to the possibility of unintended replication of existing content and potential copyright issues (Boddington, 2021).
+
+In summary, AI writing tools bring considerable benefits, including productivity enhancement and creative stimulation. Yet, they also come with significant drawbacks, including ethical dilemmas, societal implications related to job loss, and bias amplification. To maximise AI's benefits in writing, these issues need to be addressed, perhaps through ethical guidelines, employment protection measures, and bias reduction strategies.
+
+References:
+
+1. Boddington, P. (2021). Ethical guidelines for AI: A proposed framework. Springer.
+
+2. Clark, E., et al. (2020). "ELECTRA: Rethinking pre-training text encoders." arXiv preprint arXiv:2003.10555.
+
+3. Grosz, B. (2022). AI's impact on the future job landscape. AI Magazine.
+
+4. Hutson, M. (2021). The pros and cons of AI-based writing tools. Nature.
+
+#### Summary Post
+
 ### e-Portfolio Activity: Correlation and Regression
 
 When I started to look at the notebooks provided and I found my way around them, I realised very quickly that every change in data points can have an impact on correlation or regression. What caught my attention initially, was modifying the multiplier for the first data set, and as I was increasing the number, the correlation was flattening more and more. See below example:
