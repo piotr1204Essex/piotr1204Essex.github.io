@@ -73,6 +73,8 @@ References:
 
 ### e-Portfolio Activity: Correlation and Regression
 
+#### Unit 3
+
 When I started to look at the notebooks provided and I found my way around them, I realised very quickly that every change in data points can have an impact on correlation or regression. What caught my attention initially, was modifying the multiplier for the first data set, and as I was increasing the number, the correlation was flattening more and more. See below example:
 
 ![Alt text for image](/assets/images/c1.png)
@@ -111,7 +113,7 @@ References:
 
 3. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An Introduction to Statistical Learning: with Applications in R. Springer.
 
-### Unit 4
+#### Unit 4
 
 Unit 4's tasks have also revolved around correlation and regression. This time we were looking at the world's population and GDP. Disclaimer: the datasets provided had the data only up until (and including) year 2020, hence all results reflect this material change accordingly.
 
@@ -202,8 +204,49 @@ plt.scatter(X_test, y_test,  color='gray')
 plt.plot(X_test, y_pred, color='red', linewidth=2)
 plt.show()
 ```
-### Unit 5
+#### Unit 5
 
+During Unit 5 we were presented with a table (see below) showing pathological test results for three individuals.
+
+![Alt text for image](/assets/images/unit_5.png)
+
+<div align="center">
+<p> Figure 1: Table with test results </p>
+</div>
+
+We were asked to calculate Jaccard coefficient for the following pairs:
+
+- (Jack, Mary)
+- (Jack, Jim)
+- (Jim, Mary)
+
+We will assume that sets per person are containing Fever as well as any other column with a value of "P". Then we will proceed to calculating coefficients.
+
+Jack: {Fever, Test-1}
+Mary: {Fever, Test-1, Test-3}
+Jim: {Fever, Cough}
+
+Now, let's calculate the Jaccard coefficient for each pair:
+
+1. (Jack, Mary)
+
+Intersection = {Fever, Test-1} = 2 elements
+Union = {Fever, Test-1, Test-3} = 3 elements
+Jaccard coefficient = Intersection / Union = 2/3 = 0.67 (approx)
+
+2. (Jack, Jim)
+
+Intersection = {Fever} = 1 element
+Union = {Fever, Cough, Test-1} = 3 elements
+Jaccard coefficient = Intersection / Union = 1/3 = 0.33 (approx)
+
+3. (Jim, Mary)
+
+Intersection = {Fever} = 1 element
+Union = {Fever, Cough, Test-1, Test-3} = 4 elements
+Jaccard coefficient = Intersection / Union = 1/4 = 0.25
+
+There is no further instructions in the task as to how to close it, so I will simply summarise, that the highest Jaccard coefficient score has the Jack & Mary pair.
 
 ### Development Team Project: Project Report
 
