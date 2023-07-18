@@ -228,19 +228,19 @@ We will assume that sets per person are containing Fever as well as any other co
 
 Now, let's calculate the Jaccard coefficient for each pair:
 
-1. (Jack, Mary)
+(Jack, Mary)
 
 - Intersection = {Fever, Test-1} = 2 elements
 - Union = {Fever, Test-1, Test-3} = 3 elements
 - Jaccard coefficient = Intersection / Union = 2/3 = 0.67 (approx)
 
-2. (Jack, Jim)
+(Jack, Jim)
 
 - Intersection = {Fever} = 1 element
 - Union = {Fever, Cough, Test-1} = 3 elements
 - Jaccard coefficient = Intersection / Union = 1/3 = 0.33 (approx)
 
-3. (Jim, Mary)
+(Jim, Mary)
 
 - Intersection = {Fever} = 1 element
 - Union = {Fever, Cough, Test-1, Test-3} = 4 elements
@@ -716,7 +716,6 @@ References:
 
 1. Kerneler (2019) Starter: Weatheraus 536C1115-4, Kaggle. Available at: https://www.kaggle.com/code/kerneler/starter-weatheraus-536c1115-4/notebook (Accessed: 14 July 2023). 
 
-### Unit 7
 ### Unit 8
 ### Unit 9
 ### Unit 10
