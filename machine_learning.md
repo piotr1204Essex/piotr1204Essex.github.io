@@ -33,9 +33,9 @@ The summary of this discussion for me is the following: with BigData comes big r
 
 #### Initial Post
 
-Hutson (2021) discusses the capabilities of AI potentially serving a function of an actual writer - hence ‘Robo-writers’. They are built on sophisticated AI models that can swiftly generate text on a variety of topics. Their application, however, is not devoid of pros and cons.
+Hutson (2021) discusses the capabilities of AI potentially serving a function of an actual writer - hence ‘Robo-writers’. They are built on sophisticated AI models that can swiftly generate text on a variety of topics. Their application, however, is not devoid of cons.
 
-The advantages of employing AI writing tools seem self-explanatory. They can enhance efficiency in daily tasks, particularly in generating routine communication like emails and reports swiftly and with precision (Hutson, 2021). In terms of creativity, these AI platforms can act as thought catalysts, helping writers overcome creative hurdles (Grosz, 2022). For instance, GPT-3's ability to create poetry and short narratives illustrates the extent of AI's creative assistance (Clark et al., 2020).
+The advantages of employing AI writing tools seem self-explanatory. They can improve efficiency in daily tasks, particularly in generating mass communication like emails and reports swiftly and with precision (Hutson, 2021). In terms of creativity, these AI platforms can act as thought catalysts, helping writers overcome creative hurdles (Grosz, 2022). For instance, GPT-3's ability to create poetry and short narratives illustrates the extent of AI's creative assistance (Clark et al., 2020).
 
 Simultaneously, the use of AI in writing raises several challenging issues. Ethical considerations are paramount, given concerns about the originality and authenticity of AI-produced content (Boddington, 2021). AI tools work by identifying and following patterns in data, leading to the possibility of unintended replication of existing content and potential copyright issues (Boddington, 2021). We must also remember that it is this very source data that feeds creations of AI. Human soul is something many cannot fathom and many would argue machine can never attain.
 
@@ -52,6 +52,24 @@ References:
 4. Hutson, M. (2021). The pros and cons of AI-based writing tools. Nature.
 
 #### Summary Post
+
+The discussion here revolves around Robo-writers as discussed by Hutson (2021) in Nature. It is becoming increasingly clear how capable and powerful generative AI is. It also shows where it can get with the right guidance and nurture. 
+
+It is highlighted that while we may observe numerous benefits to the usage of Robo-writers, their application is not devoid of cons. The AI might support administrative, repeatable tasks that are based on a pre-set of data or curated input. It does seem to do a very good job at it. Some of the applications one can think of, are mostly within public or corporate space. Drafting mass communication emails, instructions for the products, tutorials for manual set up at home and so on and so forth. All of what has been mentioned though, is quite far away from creative literature of stories, heroes, fairy tales etc.
+
+Although the AI seems to be handling creativity just fine (Grosz, 2022), there is the concept of a human soul. Something spiritual, unique to each and everyone of us. Something that animals do not possess. If that is the case, then how could an AI have a soul? And without a soul, how can a novel captivate the reader? There is no academic resource I could find to back the above statement up. Soul is a relative term and is open to various interpretations. It is however noteworthy when considering Robo-writers.
+
+The summary is similar to the one from the initial post. So I will leave the discussion here, with the food for thought in the form of Robo-writers versus human soul.
+
+References:
+
+1. Boddington, P. (2021). Ethical guidelines for AI: A proposed framework. Springer.
+
+2. Clark, E., et al. (2020). "ELECTRA: Rethinking pre-training text encoders." arXiv preprint arXiv:2003.10555.
+
+3. Grosz, B. (2022). AI's impact on the future job landscape. AI Magazine.
+
+4. Hutson, M. (2021). The pros and cons of AI-based writing tools. Nature.
 
 ### e-Portfolio Activity: Correlation and Regression
 
