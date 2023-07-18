@@ -748,7 +748,7 @@ Both learning rate and number of iterations are critical factors that determine 
 
 Both parameters must be set carefully and their best combination is usually found empirically or experimentally.
 
-### Ethical and social implications of this CNN technology
+### Ethical and social implications of CNN technology
 
 Unit 9 came with an activity around a CNN model - as joyful to play with as it was, we have greatly covered CNN in much more advanced level on the CIFAR-10 dataset and so I will not be recording any new learnings from that activity here, as all these learnings (and beyond) occurred when developing the second team project and this is the place where it is discussed.
 
