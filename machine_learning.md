@@ -389,7 +389,7 @@ shap_values = ex.shap_values(x_test[0:200])
 shap.summary_plot(shap_values, x_test[0:200], show=False)
 plt.savefig('plots/shap_xgboost_summary.pdf')
 ```
-I personally contributed to both the EDA as well as choosing the XGBoost algorithm for solving this particular task. It was the first time for me to apply this specific algorithm. I learned a lot. More of the reflection on this project is available as the part of this module's personal reflection available [here] (https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/P.%20Sieminski%20Machine%20Learning%20May%202023%20Individual%20Reflection%20(1).pdf)
+I personally contributed to both the EDA as well as choosing the XGBoost algorithm for solving this particular task. It was the first time for me to apply this specific algorithm. I learned a lot. More of the reflection on this project is available as the part of this module's personal reflection available [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/P.%20Sieminski%20Machine%20Learning%20May%202023%20Individual%20Reflection%20(1).pdf)
 
 References: 
 
