@@ -134,11 +134,74 @@ Second task from this Unit was to create a regression where the independent vari
 <div align="center">
 <p> Figure 2: Regression line </p>
 </div>
-<div align="left">
 - Root Mean Squared Error: ~8884886434480.2
 - R-squared: ~ -0.011
-</div>
 
+There is no new revelation that comes with this LR model. The first task has already shown strongly the relationship between the variables (or mostly lack thereof). I have nothing more to add than the summary from the previous points. Please find below to full source code for these tasks.
+
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.stats import pearsonr
+
+gdp_df = pd.read_csv('Unit04 Global_GDP.csv')
+pop_df = pd.read_csv('Unit04 Global_Population.csv')
+
+# Using ffill to fill the missing values
+gdp_df.fillna(method="ffill", inplace=True)
+pop_df.fillna(method="ffill", inplace=True)
+
+pop_df.loc[:, '2001':'2020'] = pop_df.loc[:, '2001':'2020'].apply(pd.to_numeric, errors='coerce')
+
+mean_gdp = gdp_df.loc[:, '2001':'2020'].mean(axis=1)
+mean_pop = pop_df.loc[:, '2001':'2020'].mean(axis=1)
+
+df = pd.DataFrame({'Country': gdp_df['Country Name'], 'Mean_GDP': mean_gdp, 'Mean_Population': mean_pop})
+
+plt.figure(figsize=(10,6))
+plt.scatter(df['Mean_Population'], df['Mean_GDP'])
+plt.xlabel('Mean Population (2001-2020)')
+plt.ylabel('Mean GDP (2001-2020)')
+plt.title('Correlation between Mean Population and GDP (2001-2020)')
+plt.show()
+
+df.fillna(method="ffill", inplace=True)
+
+corr, _ = pearsonr(df['Mean_Population'], df['Mean_GDP'])
+print('Pearsons correlation coefficient: %.3f' % corr)
+
+# Linear Regression model
+
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LinearRegression
+from sklearn import metrics
+
+# Creating X and y
+X = df['Mean_Population'].values.reshape(-1,1)
+y = df['Mean_GDP'].values.reshape(-1,1)
+
+# Splitting the data into training and testing data
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=0)
+
+# Creating and training model
+model = LinearRegression()  
+model.fit(X_train, y_train)
+
+# Model prediction on train data
+y_pred = model.predict(X_test)
+
+# Model Evaluation
+print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))  
+print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
+print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
+print('R-squared:', metrics.r2_score(y_test, y_pred))
+
+# Plotting the regression line
+plt.scatter(X_test, y_test,  color='gray')
+plt.plot(X_test, y_pred, color='red', linewidth=2)
+plt.show()
+```
 ### Unit 5
 
 
