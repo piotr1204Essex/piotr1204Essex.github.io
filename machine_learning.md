@@ -791,4 +791,8 @@ Please find below the links to the submission components (full presentation is n
 
 Both slide deck and transcript contain all relevant references.
 
+### Some final reflections
+
+The Machine Learning Module has brought a lot of knowledge when it comes to ML algorithms. We covered Neural Networks, Decision Trees, Linear Regression, Clustering algorithms and others. Some of them were known to me. The biggest learning of all was with Neural networks, which I had to study from the very beginning. It was also the core of the second team project, that we had to develop a Neural Network Algorithm. 
+
 Disclaimer: throughout some of the written work in this e-Portfolio, generative AI was consulted on suggesting improvements to wording and readability of the text. All of the content has been created by myself and occasional change of synonyms or sentence structure was applied where it made sense. This disclaimer is here in order to be in line with AI policy of the University of Essex.
