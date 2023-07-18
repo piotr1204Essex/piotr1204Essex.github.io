@@ -29,7 +29,7 @@ One of the points my initial post was challenged on is the comparison to househo
 
 The summary of this discussion for me is the following: with BigData comes big responsibility. We are staying on the verge of a historical breakthrough that will increase the standard of living for so many people. But this opportunity comes at a hidden cost that we all must take into account. Putting protective measures in place, ensuring security of BigData, AI and ML should be at the top of the list of priorities. 
 
-## Collaborative Discussion 2: Legal and Ethical views on ANN applications
+### Collaborative Discussion 2: Legal and Ethical views on ANN applications
 
 #### Initial Post
 
