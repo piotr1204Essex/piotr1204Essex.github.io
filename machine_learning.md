@@ -765,8 +765,6 @@ References:
 1. Orwell, G. (1949) 1984. London: Secker & Warburg.
 2. Loh, M. (2022) Canada says it will freeze the bank accounts of ‘freedom convoy’ truckers who continue their anti-vaccine mandate blockades, Business Insider. Available at: https://www.businessinsider.com/trudeau-canada-freeze-bank-accounts-freedom-convoy-truckers-2022-2?IR=T (Accessed: 18 July 2023). 
 
-### Unit 10
-
 ### ROC & R2 metrics
 
 In Unit 11 the activity we have been asked to perform was about changing parameters in a provided Jupyter Notebook in order to observe the changes in AUC and R2 metrics. I had some previous professional experience with regression, AUC and R2 metrics so I will delve into what my experience with this (and other) notebooks was. 
