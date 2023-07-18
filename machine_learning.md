@@ -222,29 +222,29 @@ We were asked to calculate Jaccard coefficient for the following pairs:
 
 We will assume that sets per person are containing Fever as well as any other column with a value of "P". Then we will proceed to calculating coefficients.
 
-Jack: {Fever, Test-1}
-Mary: {Fever, Test-1, Test-3}
-Jim: {Fever, Cough}
+- Jack: {Fever, Test-1}
+- Mary: {Fever, Test-1, Test-3}
+- Jim: {Fever, Cough}
 
 Now, let's calculate the Jaccard coefficient for each pair:
 
 1. (Jack, Mary)
 
-Intersection = {Fever, Test-1} = 2 elements
-Union = {Fever, Test-1, Test-3} = 3 elements
-Jaccard coefficient = Intersection / Union = 2/3 = 0.67 (approx)
+- Intersection = {Fever, Test-1} = 2 elements
+- Union = {Fever, Test-1, Test-3} = 3 elements
+- Jaccard coefficient = Intersection / Union = 2/3 = 0.67 (approx)
 
 2. (Jack, Jim)
 
-Intersection = {Fever} = 1 element
-Union = {Fever, Cough, Test-1} = 3 elements
-Jaccard coefficient = Intersection / Union = 1/3 = 0.33 (approx)
+- Intersection = {Fever} = 1 element
+- Union = {Fever, Cough, Test-1} = 3 elements
+- Jaccard coefficient = Intersection / Union = 1/3 = 0.33 (approx)
 
 3. (Jim, Mary)
 
-Intersection = {Fever} = 1 element
-Union = {Fever, Cough, Test-1, Test-3} = 4 elements
-Jaccard coefficient = Intersection / Union = 1/4 = 0.25
+- Intersection = {Fever} = 1 element
+- Union = {Fever, Cough, Test-1, Test-3} = 4 elements
+- Jaccard coefficient = Intersection / Union = 1/4 = 0.25
 
 There is no further instructions in the task as to how to close it, so I will simply summarise, that the highest Jaccard coefficient score has the Jack & Mary pair.
 
