@@ -111,8 +111,10 @@ References:
 
 3. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An Introduction to Statistical Learning: with Applications in R. Springer.
 
-
 ### Unit 4
+
+Unit 4's tasks have also revolved around correlation and regression. This time we were looking at the world's population. 
+
 ### Unit 5
 
 
