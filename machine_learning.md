@@ -389,7 +389,7 @@ shap_values = ex.shap_values(x_test[0:200])
 shap.summary_plot(shap_values, x_test[0:200], show=False)
 plt.savefig('plots/shap_xgboost_summary.pdf')
 ```
-I personally contributed to both the EDA as well as choosing the XGBoost algorithm for solving this particular task. It was the first time for me to apply this specific algorithm. I learned a lot. The detailed reflection on this project is available as the part of this module's personal reflection available [here] ()
+I personally contributed to both the EDA as well as choosing the XGBoost algorithm for solving this particular task. It was the first time for me to apply this specific algorithm. I learned a lot. More of the reflection on this project is available as the part of this module's personal reflection available [here] (https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/P.%20Sieminski%20Machine%20Learning%20May%202023%20Individual%20Reflection%20(1).pdf)
 
 References: 
 
@@ -564,7 +564,7 @@ References:
 Unit 11 brought to us also a deadline for the second Team project we were asked to submit. This task required from us to develop a Neural Networks Algorithm based on a CIFAR-10 dataset. 
 I have learned a lot during my own research, working with my team mate and during seminar with my tutor. Once again, me and my team mate have found ourselves approaching this task from different angles, which allowed us not only to learn from one another but also to create a coherent presentation as an output, that I believe fulfills the requirements of the task to its full extension. 
 
-My personal contribution focused on optimising a CNN model for performance on the CIFAR-10 dataset. I started with an ANN model initially, but quickly realised it might be tought to get high performance out of this basic Neural Network structure - which is why I switched to a Convolutional Neural Network algorithm. I have taken a considerable amount of time to research various optimisation techniques and general structures of the CNN which allowed me to create a final output, which together with my team mate's contribution was a part of our final submission.
+My personal contribution focused on optimising a CNN model for performance on the CIFAR-10 dataset. I started with an ANN model initially, but quickly realised it might be tought to get high performance out of this basic Neural Network structure - which is why I switched to a Convolutional Neural Network algorithm. I have taken a considerable amount of time to research various optimisation techniques and general structures of the CNN which allowed me to create a final output, which together with my team mate's contribution was a part of our final submission. More of the reflection on this project is available as the part of this module's personal reflection available [here] (https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/ml_source/P.%20Sieminski%20Machine%20Learning%20May%202023%20Individual%20Reflection%20(1).pdf)
 
 Please find below the links to the submission components (full presentation is not included as file is too large, but slides, source code and transcript is provided below):
 
