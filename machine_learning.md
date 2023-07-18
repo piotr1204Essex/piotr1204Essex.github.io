@@ -71,7 +71,7 @@ References:
 
 4. Hutson, M. (2021). The pros and cons of AI-based writing tools. Nature.
 
-### e-Portfolio Activity: Correlation and Regression
+### Correlation and Regression
 
 #### Unit 3
 
@@ -716,9 +716,43 @@ References:
 
 1. Kerneler (2019) Starter: Weatheraus 536C1115-4, Kaggle. Available at: https://www.kaggle.com/code/kerneler/starter-weatheraus-536c1115-4/notebook (Accessed: 14 July 2023). 
 
-### Unit 8
+### Gradient Cost Function
+
+One of the activities on Unit 8 was to observe gradient descent cost function and how it is being affected by changes in iterations and learning rate. The source code provided can be found here:
+
+```python
+# code credit:codebasics https://codebasics.io/coming-soon
+
+import numpy as np
+
+def gradient_descent(x,y):
+    m_curr = b_curr = 0
+    iterations = 100       #change value
+    n = len(x)
+    learning_rate = 0.08   #change value
+
+    for i in range(iterations):
+        y_predicted = m_curr * x + b_curr
+        cost = (1/n) * sum([val**2 for val in (y-y_predicted)])
+        md = -(2/n)*sum(x*(y-y_predicted))
+        bd = -(2/n)*sum(y-y_predicted)
+        m_curr = m_curr - learning_rate * md
+        b_curr = b_curr - learning_rate * bd
+        print ("m {}, b {}, cost {} iteration {}".format(m_curr,b_curr,cost, i))
+
+x = np.array([1,2,3,4,5])
+y = np.array([5,7,9,11,13])
+
+gradient_descent(x,y)
+```
+
+Both learning rate and number of iterations are critical factors that determine the success of the process.The learning rate indicates how big each step is in each iteration as we descend towards the minimum of our cost function. If the rate is too high we might overshoot the global minimum and never converge; if it's too low then it can cause the algoruthm to converge slowly requireing a larger number of iterations. The number of iterations, as one can already deduct from the learning rate description, is strongly coupled with learning rate. Iterations indicate how many steps the algorithm takes in the cost function landscape. The larger the number of iterations, the more opportunities the algorithm has to find the global minimum. Setting this number too highly, however, can lead to overfitting, especially when the model has already reached the global minium, as then the model starts to learn the noise in the data.
+
+Both parameters must be set carefully and their best combination is usually found empirically or experimentally.
+
 ### Unit 9
 ### Unit 10
+
 ### ROC & R2 metrics
 
 In Unit 11 the activity we have been asked to perform was about changing parameters in a provided Jupyter Notebook in order to observe the changes in AUC and R2 metrics. I had some previous professional experience with regression, AUC and R2 metrics so I will delve into what my experience with this (and other) notebooks was. 
