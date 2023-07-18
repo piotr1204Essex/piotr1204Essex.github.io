@@ -194,8 +194,6 @@ model.fit(X_train, y_train)
 y_pred = model.predict(X_test)
 
 # Model Evaluation
-print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))  
-print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
 print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
 print('R-squared:', metrics.r2_score(y_test, y_pred))
 
