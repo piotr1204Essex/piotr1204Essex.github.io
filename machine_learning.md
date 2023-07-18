@@ -750,7 +750,22 @@ Both learning rate and number of iterations are critical factors that determine 
 
 Both parameters must be set carefully and their best combination is usually found empirically or experimentally.
 
-### Unit 9
+### Ethical and social implications of this CNN technology
+
+Unit 9 came with an activity around a CNN model - as joyful to play with as it was, we have greatly covered CNN in much more advanced level on the CIFAR-10 dataset and so I will not be recording any new learnings from that activity here, as all these learnings (and beyond) occurred when developing the second team project and this is the place where it is discussed.
+
+When it comes to ethical and social implications of CNN technology however, I thought it thought-provoking and wanted to leave some of my thoughts in here. I could not have found referenced by the University of Essex "the Wall (2019)" article, so instead I will reflect in general on ethical and social implications of CNN technology.
+
+Convolutional Neural Network technology raises questions just like any other AI technology. Be it about data security and privacy, or transparency on how the data of a user landed in model's "hands"? I think the greatest question of all, when it comes to CNN is the facial recognition algorithms and their application in real-world. I cannot help but think of Orwell's 1984's (1949) vision of the future world, when I contemplate on applications of CNN and how easily they might be abused by those in a position of power. Facial recognition can be a brilliant tool in finding criminals by using city cameras - just to think about it seems like we are already living in an utopian (for all law obiding citizens) era with close to 0% crime rates, right? If we can find anyone in no time, then there is really no point in committing a crime. On the other hand - we have seen Canadian government freezing accounts of protesters (Loh, 2022) who were legally protesting in a democratic country - their "crime" was they were not agreeing with the government*. 
+
+
+* I am no legal specialist and all of my knowledge about this situation is based on what media published - which is why I take it as a possibility that the information is not fully correct. It is however to the best of my knowledge that I am analysing information provided and its interpretation should be regarded as such.
+
+References:
+
+1. Orwell, G. (1949) 1984. London: Secker & Warburg.
+2. Loh, M. (2022) Canada says it will freeze the bank accounts of ‘freedom convoy’ truckers who continue their anti-vaccine mandate blockades, Business Insider. Available at: https://www.businessinsider.com/trudeau-canada-freeze-bank-accounts-freedom-convoy-truckers-2022-2?IR=T (Accessed: 18 July 2023). 
+
 ### Unit 10
 
 ### ROC & R2 metrics
