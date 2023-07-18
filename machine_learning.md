@@ -115,6 +115,18 @@ References:
 
 Unit 4's tasks have also revolved around correlation and regression. This time we were looking at the world's population. 
 
+![Alt text for image](/assets/images/unit_4_task_a.png)
+
+<div align="center">
+<p> Figure 1: Correlation between Mean Population and GDP (2001-2020). Pearsons correlation coefficient: 0.031</p>
+</div>
+
+Looking at Figure 1 we can clearly identify several outliers on both axes. The vast majority of the data however, sits within 0-3 (1e13) the mean per capita GDP and 0-3 (1e9) the mean population. What's caught my attention is that the data points seem to "stick" to the axes lines. Which means - either they grow on the mean per capita GDP - but very little on the mean population or they grow on the mean population but very little on the mean per capita GDP. This kind of reading would represent two main types of countries' behaviours. First one would be a natural growth of the country with retained mean per capita GDP value - something one could classify as stable and sustainable growth at a pace that allows each new member of the society to uphold the standard of living of the other ones. It also means no economic of financial status advancement of a country's population. The second one being high increase in financial status of country's citizens, but little to no growth in the mean population.
+
+The Pearsons correlation coefficient result suggests that, in general, as the mean population of a country increases, the mean per capita GDP for that country also slightly increases. However, the relationship is very weak, meaning there's a lot of scatter and the data points don't fall close to a straight line.
+Therefore, it would be inappropriate to make strong predictions about a country's mean per capita GDP from 2001 to 2021 based solely on its mean population from the same period. There are likely other factors at play that affect a country's mean per capita GDP which are not accounted for by the population alone.
+
+
 ### Unit 5
 
 
