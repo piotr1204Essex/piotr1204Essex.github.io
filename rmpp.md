@@ -25,4 +25,55 @@ References:
 - Breuner, C.C. et al. (2016) ‘Sexuality Education for Children and Adolescents’, Pediatrics, 138(2). doi:10.1542/peds.2016-1348. 
 - BCS Code of conduct (no date) BCS. Available at: https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/ (Accessed: 08 August 2023).
 
-### Unit 1 - Reflective Activity
+## Unit 1 - Reflective Activity
+
+The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/unit_1_reflective_activity.pdf)
+
+#### Reflective activity - Ethics in Computing
+
+##### 1. Introduction
+I have been tasked with reviewing Stahl et al (2016) as well as Bott (2014) Chapter 1. Stahl et al (2016) writes that many of the papers researching ethical issues in computing “fail to provide actionable advice to relevant stakeholders”. The task at hand is to imagine being a computing stakeholder at a company of choice and to examine one or more ethical issues mentioned in Stahl et al (2016) paper. Bott (2014) provides an overview and introduction into what law is, primarily focusing on the legislative and jurisdiction processes in the UK and in the US.
+
+For the purpose of this task, I will choose to be a Software Engineer at Apple Inc.. The choice of the company aims to provide the reader with a very well-known company globally, which products the reader may have used in the past or is using currently. The choice of a Software Engineer is also aiming at providing a simple point of reference as to the scope of the work required by such professionals (Shweta et al, 2022). I will also generalise the daily tasks of a Software Engineer at Apple. It is important to note, that I do not have full information of what a day-to-day of a Software Engineer at Apple entails (as that is confidential). 
+
+This task has no strict word count limit, however it is recommended to create a submission of a length of approximately 2/3 pages (around 1000 words).
+
+##### 2. Ethical issues choice
+The ethical issues I chose start with a widely discussed privacy issue (Zimmer, 2010) and the usage of user collected data for reasons the users may have not provided a specific consent. This brings a question of “what an online consent really is” (Varnhagen et al, 2005). It is worth noting that the two papers in no way will represent the full range of ethical issues involved with mentioned topics but rather provide a high level, introductory view on them. As tempting as it is to delve further on the topic, I must keep in mind the advised word limit for this paper.
+
+##### 3. Effect of ethical issues on my role in the company and actions to be taken
+First thing that comes to mind is the security of the software that I will produce. When it comes to privacy, the first and most important task is to secure any information that we collect from the users. I can therefore make a security and penetration testing review mandatory, before shipping any piece of code. 
+
+Once I make sure that the information is protected, it should be reviewing what is actually the information that the software collects and whether or not the user has given their informed consent for collection of said data. In order to define what an “informed” consent really is, I shall refer the reader to the definition provided within the field of Medicine, where it is well established, practised and enforced by law for decades (Gossman et al, 2022). It is of a great significance not only to receive the consent, but also that it is an informed one. For this reason, I shall establish a process for reviewing any piece of code that changes in any way any of the information collected and evaluate such changes against the ethics code first. If there are no internal guidelines for ethics within the company, I shall propose to the management to establish one. 
+
+Once the developed code meets the ethics standard, I shall work with UX/UI designers and copywriters to create a new consent request to the user which will be delivered in a way that allows them to make an informed decision. Such consent prompt shall appear prior to collecting any new information to which the consent has not been previously granted.
+
+For all the above-mentioned processes I shall not only incorporate them in my tasks, but also make sure that the management adheres to them and sets appropriate structures, procedures and processes in place that allow for their execution by other software engineers as well. 
+
+##### 4. Legal, social and professional impact of the aforementioned actions
+###### 4.1. Legal impact
+The Federal Trade Commission in the US is a body which can fine Apple, if they do not adhere to the actions in regards to eg. informed consent. The same goes for privacy and data collection as shown by several precedents (Richie et al, 2022). When it comes to collecting data from users within the EU, if Apple was not to adhere to GDPR standards when collecting and handling user data, they could be fined up to “€20 mln or 4% of the firm’s worldwide annual revenue from the preceding financial year, whichever amount is higher”. The aforementioned actions are some of the ways to prevent such fines.
+
+###### 4.2 Social Impact
+Providing a clear, informed consent structure to the user prior to collecting their data may greatly influence customer’s experience and hence brand’s trust, which may be profitable for Apple (Meng Na et al, 2023). It will also allow the users to feel more secure knowing that they consented to the data that is collected on Apple’s devices but also by being sure that their data is well protected from exploitation. 
+
+###### 4.3 Professional impact
+The impact of introducing new/additional procedures and checks as well as involving other experts when eg. creating a new consent prompt, will have its costs. The most visible impact will be longer code shipping time - if the code has to undergo additional, sometimes complex checks before being released to the production environment, it is natural that the release process will take longer. It does also impose on the management the responsibility for governing the processes themselves as well as to “police” in some way, making sure that those who do not adhere to the procedures will be fined. It is crucial that Apple finds the right balance between punishment and turning a blind eye on the issue. It is also important that the employees feel inspired to follow these processes (do not follow them out of fear per se) as well as to report lack of someone’s adherence to them. 
+
+##### Summary
+Ethics in Computing are becoming increasingly important as the technology develops and more aspects of human life are in some shape or form digitalised. This paper provided a high level overview on the ethical issues related to data collection and privacy, while highlighting impact on legal, social and professional issues. Companies, like Apple, adhering to the ethics code may see slower release times and potential impact on their revenues initially, however the increased customer’s trust and brand loyalty may compensate for such a loss with a significant surplus. It does appear therefore, that there is no reason, not even financial one, not to adhere to ethics code in computing. 
+
+##### References
+
+Stahl, B.C., Timmermans, J. and Mittelstadt, B.D. (2016). The Ethics of Computing. ACM Computing Surveys, 48(4), pp.1–38. doi:https://doi.org/10.1145/2871196.
+‌Bott, F. (2017). Professional issues in information technology. Boca Raton: Crc Press.
+J. van den Hoven. 2008. Information technology, privacy, and the protection of personal data. InInformationTechnology and Moral Philosophy. Cambridge Studies in Philosophy and Public Policy. Cambridge University Press, New York, NY.
+C. K. Varnhagen et al. 2005. How informed is online informed consent? Ethics & Behavior 15, 1, 37–48.
+M. Zimmer. 2010. “But the data is already public”: On the ethics of research in Facebook.Ethics andInformation Technology 12, 4, 313–325.
+Shweta et al. (2022). “Software Engineer Job Description [With Examples]”. Forbes. [online] 30 Mar. Available at: https://www.forbes.com/advisor/business/software-engineer-job-description/. (Accessed: 15 August 2023)
+
+Gossman, W., Thornton, I. and Hipskind, J.E. (2022). Informed Consent. [online] National Library of Medicine . Available at: https://www.ncbi.nlm.nih.gov/books/NBK430827/.
+‌Ritchie, J.N.& A. and Staff in the Bureau of Competition & Office of Technology (2022) FTC report shows rise in sophisticated dark patterns designed to trick and trap consumers, Federal Trade Commission. Available at: https://www.ftc.gov/news-events/news/press-releases/2022/09/ftc-report-shows-rise-sophisticated-dark-patterns-designed-trick-trap-consumers (Accessed: 15 August 2023).
+Wolford, B. (2018). What are the GDPR Fines? [online] GDPR.eu. Available at: https://gdpr.eu/fines/. (Accessed: 15 August 2023)
+‌Meng Na, Rong, L., Mohd Helmi Ali, Syed Shah Alam, Masukujjaman, M. and Ali (2023). The Mediating Role of Brand Trust and Brand Love between Brand Experience and Loyalty: A Study on Smartphones in China. 13(6), pp.502–502. doi:https://doi.org/10.3390/bs13060502.
+
