@@ -25,6 +25,21 @@ References:
 - Breuner, C.C. et al. (2016) ‘Sexuality Education for Children and Adolescents’, Pediatrics, 138(2). doi:10.1542/peds.2016-1348. 
 - BCS Code of conduct (no date) BCS. Available at: https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/ (Accessed: 08 August 2023).
 
+#### Summary Post
+
+After reviewing the Malicious Inputs to Content Filters case (Case: Malicious inputs to content filters, 2018) I have shared my views and opinions in the initial post, to which I got one reply (Dervishev, 2023) posing a question about potential application of gestures in a machine learning algorithm that would be able to estimate user's age and based on this apply a filter to the content accessed on a given device (Pulfrey & Hossain, 2022).
+
+This question opens further considerations to what was explained in initial post, and my personal opinion is that this feature could be of a great usage - if properly applied, however it can be very tricky and potentially cost the companies its customers, if the rate of error would be too large. I am considering here a legally sane adult (in the eyes of the law) who would like to enter websites where, for example, alcohol is sold. Such adult might get frustrated if they are denied access and have no way of switching off this child-protection algorithm. Therefore it is crucial that such considerations are made before rolling out the product for the wider use. 
+
+To sum up the discussion in this thread, we all agree that tools for protecting children in the internet are needed. Some content should simply not be accessible for them, as indicated by Children's Internet Protection Act (CIPA) in the US. It is however crucial that such systems are provided with sufficient capabilities as to be protected from malicious attacks such that they are not infected with content the children should not see, or that the children are restricted access too, although they should not be. They should also allow for actual adults to switch off any restrictions if they are incorrectly applied to an adult by an algorithm which determined the user is a child.
+
+References:
+
+- Case: Malicious inputs to content filters - ACM ethics (2018) ACM Ethics - The Official Site of the Association for Computing Machinery’s Committee on Professional Ethics. Available at: https://ethics.acm.org/code-of-ethics/using-the-code/case-malicious-inputs-to-content-filters/ (Accessed: 08 August 2023). 
+- Children’s internet protection act (2000). 
+- Dervishev, O. (2023) "Re: Initial Post" in Collaborative Learning Discussion 1, Research Methods and Professional Practice August 2023 A, University of Essex Online.
+- Pulfrey, J. and Hossain, M.S. (2022) ‘Zoom gesture analysis for age-inappropriate internet content filtering’, Expert Systems with Applications, 199, p. 116869. doi:10.1016/j.eswa.2022.116869.
+
 ## Unit 1 - Reflective Activity
 
 The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/unit_1_reflective_activity.pdf)
