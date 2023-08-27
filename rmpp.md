@@ -112,7 +112,7 @@ When it comes to the methods I think the best would be to apply quantitative met
 To sum this up, I do feel that this is an extremely interesting topic and I am looking forward to reviewing the literature and finding answers to all of the aforementioned questions. 
 
 Reference list
-- European Parliament (2020). Understanding the Gender Pay gap: Definition and Causes | News | European Parliament. [online] www.europarl.europa.eu. Available at: https://www.europarl.europa.eu/news/en/headlines/society/20200109STO69925/understanding-the-gender-pay-gap-definition-and-causes [Accessed 27 Aug. 2023].
+- European Parliament (2020). "Understanding the Gender Pay gap: Definition and Causes". [online] www.europarl.europa.eu. Available at: https://www.europarl.europa.eu/news/en/headlines/society/20200109STO69925/understanding-the-gender-pay-gap-definition-and-causes [Accessed 27 Aug. 2023].
 - Greenwood, S. (2023). The Enduring Grip of the Gender Pay Gap. [online] Pew Research Center’s Social & Demographic Trends Project. Available at: https://www.pewresearch.org/social-trends/2023/03/01/the-enduring-grip-of-the-gender-pay-gap/#:~:text=The%20gender%20pay%20gap%20%E2%80%93%20the.
 - Gregory, C.R. (2022). Think you need a college degree to get a tech job? Read this. [online] www.bloomtech.com. Available at: https://www.bloomtech.com/article/think-you-need-a-college-degree-to-get-a-tech-job-read-this#:~:text=(Some%20tech%20jobs%20do%20require [Accessed 27 Aug. 2023].
 - Phillips, T. (2022). Average Software Engineering Salaries by Country in 2022. [online] CodeSubmit Blog. Available at: https://codesubmit.io/blog/software-engineer-salary-by-country/ [Accessed 27 Aug. 2023].
