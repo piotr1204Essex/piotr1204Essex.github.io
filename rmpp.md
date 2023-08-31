@@ -20,10 +20,10 @@ While I believe that none of the shortcomings Blocker Plus’ system had were pu
 
 References:
 
-- Case: Malicious inputs to content filters - ACM ethics (2018) ACM Ethics - The Official Site of the Association for Computing Machinery’s Committee on Professional Ethics. Available at: https://ethics.acm.org/code-of-ethics/using-the-code/case-malicious-inputs-to-content-filters/ (Accessed: 08 August 2023). 
-- Children’s internet protection act (2000). 
-- Breuner, C.C. et al. (2016) ‘Sexuality Education for Children and Adolescents’, Pediatrics, 138(2). doi:10.1542/peds.2016-1348. 
-- BCS Code of conduct (no date) BCS. Available at: https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/ (Accessed: 08 August 2023).
+Case: Malicious inputs to content filters - ACM ethics (2018) ACM Ethics - The Official Site of the Association for Computing Machinery’s Committee on Professional Ethics. Available at: https://ethics.acm.org/code-of-ethics/using-the-code/case-malicious-inputs-to-content-filters/ (Accessed: 08 August 2023). 
+Children’s internet protection act (2000). 
+Breuner, C.C. et al. (2016) ‘Sexuality Education for Children and Adolescents’, Pediatrics, 138(2). doi:10.1542/peds.2016-1348. 
+BCS Code of conduct (no date) BCS. Available at: https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/ (Accessed: 08 August 2023).
 
 #### Summary Post
 
@@ -35,10 +35,10 @@ To sum up the discussion in this thread, we all agree that tools for protecting 
 
 References:
 
-- Case: Malicious inputs to content filters - ACM ethics (2018) ACM Ethics - The Official Site of the Association for Computing Machinery’s Committee on Professional Ethics. Available at: https://ethics.acm.org/code-of-ethics/using-the-code/case-malicious-inputs-to-content-filters/ (Accessed: 08 August 2023). 
-- Children’s internet protection act (2000). 
-- Dervishev, O. (2023) "Re: Initial Post" in Collaborative Learning Discussion 1, Research Methods and Professional Practice August 2023 A, University of Essex Online.
-- Pulfrey, J. and Hossain, M.S. (2022) ‘Zoom gesture analysis for age-inappropriate internet content filtering’, Expert Systems with Applications, 199, p. 116869. doi:10.1016/j.eswa.2022.116869.
+Case: Malicious inputs to content filters - ACM ethics (2018) ACM Ethics - The Official Site of the Association for Computing Machinery’s Committee on Professional Ethics. Available at: https://ethics.acm.org/code-of-ethics/using-the-code/case-malicious-inputs-to-content-filters/ (Accessed: 08 August 2023). 
+Children’s internet protection act (2000). 
+Dervishev, O. (2023) "Re: Initial Post" in Collaborative Learning Discussion 1, Research Methods and Professional Practice August 2023 A, University of Essex Online.
+Pulfrey, J. and Hossain, M.S. (2022) ‘Zoom gesture analysis for age-inappropriate internet content filtering’, Expert Systems with Applications, 199, p. 116869. doi:10.1016/j.eswa.2022.116869.
 
 ## Unit 1 - Reflective Activity
 
@@ -112,7 +112,31 @@ When it comes to the methods I think the best would be to apply quantitative met
 To sum this up, I do feel that this is an extremely interesting topic and I am looking forward to reviewing the literature and finding answers to all of the aforementioned questions. 
 
 Reference list
-- European Parliament (2020). "Understanding the Gender Pay gap: Definition and Causes". [online] www.europarl.europa.eu. Available at: https://www.europarl.europa.eu/news/en/headlines/society/20200109STO69925/understanding-the-gender-pay-gap-definition-and-causes [Accessed 27 Aug. 2023].
-- Greenwood, S. (2023). The Enduring Grip of the Gender Pay Gap. [online] Pew Research Center’s Social & Demographic Trends Project. Available at: https://www.pewresearch.org/social-trends/2023/03/01/the-enduring-grip-of-the-gender-pay-gap/#:~:text=The%20gender%20pay%20gap%20%E2%80%93%20the.
-- Gregory, C.R. (2022). Think you need a college degree to get a tech job? Read this. [online] www.bloomtech.com. Available at: https://www.bloomtech.com/article/think-you-need-a-college-degree-to-get-a-tech-job-read-this#:~:text=(Some%20tech%20jobs%20do%20require [Accessed 27 Aug. 2023].
-- Phillips, T. (2022). Average Software Engineering Salaries by Country in 2022. [online] CodeSubmit Blog. Available at: https://codesubmit.io/blog/software-engineer-salary-by-country/ [Accessed 27 Aug. 2023].
+European Parliament (2020). "Understanding the Gender Pay gap: Definition and Causes". [online] www.europarl.europa.eu. Available at: https://www.europarl.europa.eu/news/en/headlines/society/20200109STO69925/understanding-the-gender-pay-gap-definition-and-causes [Accessed 27 Aug. 2023].
+Greenwood, S. (2023). The Enduring Grip of the Gender Pay Gap. [online] Pew Research Center’s Social & Demographic Trends Project. Available at: https://www.pewresearch.org/social-trends/2023/03/01/the-enduring-grip-of-the-gender-pay-gap/#:~:text=The%20gender%20pay%20gap%20%E2%80%93%20the.
+Gregory, C.R. (2022). Think you need a college degree to get a tech job? Read this. [online] www.bloomtech.com. Available at: https://www.bloomtech.com/article/think-you-need-a-college-degree-to-get-a-tech-job-read-this#:~:text=(Some%20tech%20jobs%20do%20require [Accessed 27 Aug. 2023].
+Phillips, T. (2022). Average Software Engineering Salaries by Country in 2022. [online] CodeSubmit Blog. Available at: https://codesubmit.io/blog/software-engineer-salary-by-country/ [Accessed 27 Aug. 2023].
+
+## Unit 4 Case Study on Privacy
+
+The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/unit4_case_study%20(1).pdf)
+
+### Unit 4 Case Study on Privacy
+In Unit 4 we were given a case study (University of Essex, 2023) with intriguing questions to come up with answers to. Privacy is a key part of ethical considerations in academic research (Dawson, 2015). I would like therefore to answer each of the questions and give them the necessary attention. 
+
+First and foremost, when it comes to privacy and data protection, there are legislative requirements to ensure safety and protection of PII (Personally Identifiable Information) from external researchers and anyone else who does not have the right to access such data (GDPR, 2016). In the given case, Ricardo is not the person responsible for determining allowable access and therefore he should not release the PII data requested under no circumstances. It would have to be processed and approved by a legal department of Ricardo’s institution first.
+
+Assuming that Ricardo is actually responsible for determining allowable access to the requested PII data, there are still very important ethical considerations to be done. On one hand, the researcher asks for the PII data in order to be able to request approval for further processing of the data from specific homeowners. This action alone is the correct approach when selecting a population sample to study (Dawson, 2015). What is problematic however, is that this data is not publicly accessible. In order to access this data, it must be retrieved from a stored and protected government database. These people might not want this data to be released in the first place and this is the biggest ethical concern.
+
+For the last question, we shall assume that the institution holding the PII data and the researcher have followed the ethics code (Polish Academy of Sciences, 2020) when making the information accessible to Beth. Given the described scenario, where one-third of the population studied gave permission, one-third denied and one-third did not respond, there are very few options left for Beth. Since she does need at least one-half of the individuals to make a valid study, an attempt can be made to follow up with the group that has given no response. It goes without saying that Beth should not contact the individuals who denied again. This seems as far as Beth can go with the current data available.
+
+There exists another solution which would be to ask the local government to release more names (if possible, following the same ethics standards as before). If that was not to be possible, then Beth should inform the individuals who gave consent, that the study cannot be concluded due to not enough respondents giving their consent. Subsequently Beth could move the study to another, possibly greater area, where the population size is higher and therefore the relative share of the population needed to make a valid study could be proportionally smaller. 
+
+Following the ethics code (Polish Academy of Sciences, 2020) is not only crucial to successful research but is also a complex task. One must be aware of all implications of one’s actions. Even if, as described in the third paragraph, requesting consent for the study is the proper, ethical approach, there remains the question how does one access the names and/or other PII data necessary to request such consent. Such situations shall be studied with care and give proper attention in order to make sure that the ethical standards are upheld at all times.
+
+Reference list
+
+Dawson, C.W. (2015). Projects in computing and information systems : a student’s guide. 3rd ed. Harlow: Pearson Education.
+General Data Protection Rights. Chapter 4, art. 25.
+Polish Academy of Sciences (2020). Code of Ethics for Researchers.
+University Of Essex (2023). ‘Case Study on Privacy’ Unit 4 Seminar.
