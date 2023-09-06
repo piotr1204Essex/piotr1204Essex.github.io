@@ -36,7 +36,9 @@ To sum up the discussion in this thread, we all agree that tools for protecting 
 References:
 
 Case: Malicious inputs to content filters - ACM ethics (2018) ACM Ethics - The Official Site of the Association for Computing Machinery’s Committee on Professional Ethics. Available at: https://ethics.acm.org/code-of-ethics/using-the-code/case-malicious-inputs-to-content-filters/ (Accessed: 08 August 2023). 
+
 Children’s internet protection act (2000). 
+
 Dervishev, O. (2023) "Re: Initial Post" in Collaborative Learning Discussion 1, Research Methods and Professional Practice August 2023 A, University of Essex Online.
 Pulfrey, J. and Hossain, M.S. (2022) ‘Zoom gesture analysis for age-inappropriate internet content filtering’, Expert Systems with Applications, 199, p. 116869. doi:10.1016/j.eswa.2022.116869.
 
@@ -82,14 +84,21 @@ Ethics in Computing are becoming increasingly important as the technology develo
 
 Stahl, B.C., Timmermans, J. and Mittelstadt, B.D. (2016). The Ethics of Computing. ACM Computing Surveys, 48(4), pp.1–38. doi:https://doi.org/10.1145/2871196.
 ‌Bott, F. (2017). Professional issues in information technology. Boca Raton: Crc Press.
+
 J. van den Hoven. 2008. Information technology, privacy, and the protection of personal data. InInformationTechnology and Moral Philosophy. Cambridge Studies in Philosophy and Public Policy. Cambridge University Press, New York, NY.
+
 C. K. Varnhagen et al. 2005. How informed is online informed consent? Ethics & Behavior 15, 1, 37–48.
+
 M. Zimmer. 2010. “But the data is already public”: On the ethics of research in Facebook.Ethics andInformation Technology 12, 4, 313–325.
+
 Shweta et al. (2022). “Software Engineer Job Description [With Examples]”. Forbes. [online] 30 Mar. Available at: https://www.forbes.com/advisor/business/software-engineer-job-description/. (Accessed: 15 August 2023)
 
 Gossman, W., Thornton, I. and Hipskind, J.E. (2022). Informed Consent. [online] National Library of Medicine . Available at: https://www.ncbi.nlm.nih.gov/books/NBK430827/.
+
 ‌Ritchie, J.N.& A. and Staff in the Bureau of Competition & Office of Technology (2022) FTC report shows rise in sophisticated dark patterns designed to trick and trap consumers, Federal Trade Commission. Available at: https://www.ftc.gov/news-events/news/press-releases/2022/09/ftc-report-shows-rise-sophisticated-dark-patterns-designed-trick-trap-consumers (Accessed: 15 August 2023).
+
 Wolford, B. (2018). What are the GDPR Fines? [online] GDPR.eu. Available at: https://gdpr.eu/fines/. (Accessed: 15 August 2023)
+
 ‌Meng Na, Rong, L., Mohd Helmi Ali, Syed Shah Alam, Masukujjaman, M. and Ali (2023). The Mediating Role of Brand Trust and Brand Love between Brand Experience and Loyalty: A Study on Smartphones in China. 13(6), pp.502–502. doi:https://doi.org/10.3390/bs13060502.
 
 ## Unit 3 - Research Proposal Review
@@ -113,8 +122,11 @@ To sum this up, I do feel that this is an extremely interesting topic and I am l
 
 Reference list
 European Parliament (2020). "Understanding the Gender Pay gap: Definition and Causes". [online] www.europarl.europa.eu. Available at: https://www.europarl.europa.eu/news/en/headlines/society/20200109STO69925/understanding-the-gender-pay-gap-definition-and-causes [Accessed 27 Aug. 2023].
+
 Greenwood, S. (2023). The Enduring Grip of the Gender Pay Gap. [online] Pew Research Center’s Social & Demographic Trends Project. Available at: https://www.pewresearch.org/social-trends/2023/03/01/the-enduring-grip-of-the-gender-pay-gap/#:~:text=The%20gender%20pay%20gap%20%E2%80%93%20the.
+
 Gregory, C.R. (2022). Think you need a college degree to get a tech job? Read this. [online] www.bloomtech.com. Available at: https://www.bloomtech.com/article/think-you-need-a-college-degree-to-get-a-tech-job-read-this#:~:text=(Some%20tech%20jobs%20do%20require [Accessed 27 Aug. 2023].
+
 Phillips, T. (2022). Average Software Engineering Salaries by Country in 2022. [online] CodeSubmit Blog. Available at: https://codesubmit.io/blog/software-engineer-salary-by-country/ [Accessed 27 Aug. 2023].
 
 ## Unit 4 Case Study on Privacy
@@ -137,6 +149,9 @@ Following the ethics code (Polish Academy of Sciences, 2020) is not only crucial
 Reference list
 
 Dawson, C.W. (2015). Projects in computing and information systems : a student’s guide. 3rd ed. Harlow: Pearson Education.
+
 General Data Protection Rights. Chapter 4, art. 25.
+
 Polish Academy of Sciences (2020). Code of Ethics for Researchers.
+
 University Of Essex (2023). ‘Case Study on Privacy’ Unit 4 Seminar.
