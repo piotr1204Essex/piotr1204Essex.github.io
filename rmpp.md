@@ -215,3 +215,33 @@ Roy, S. (2018). Facebook: If something is free, ‘you’ are the product. [onli
 University of Essex (2023). ‘Reflective Activity 2’, Research Methods and Professional Practice August 2023 A. Unit 5.
 
 Zambito, T. (2010). The Origin of Buyer Personas. [online] Buyer Persona Insights. Available at: https://www.buyerpersonainsights.com/2010/01/the-origin-of-buyer-personas.html [Accessed 6 Sep. 2023].
+
+## Unit 6 Formative Activities
+
+### e-Portfolio update: Data Collection
+
+I have chosen to focus on the gender pay gap in the technology sector in the US. Because of that, I can see three main data collection tools which will be useful for my area of investigation. 
+
+First and foremost it would be quantitative data pulled from official sources, such as the U.S. Bureau of Labor Statistics (U.S. Bureau of Labor Statistics, 2023) or Bureau of Economic Analysis (BEA, 2023). This will be the skeleton and the raw facts on which further investigation can be based. I would like to perform a statistical analysis on this data in order to validate the initial hypothesis (yet to be formulated) and check for statistical significance of the data provided (Schwen et al., 2018). Ideally, I would be able to identify clear tendencies in the data which will guide further questions.
+
+Once raw facts are established, well defined and presented, the following data collection tools can be applied to enhance the understanding of the factual data: interviews and surveys (Ongena et al., 2020). These tools can prove very useful when trying to make sense of the numerical information. As we are human beings and we all have emotions, feelings, experiences that guide our careers (Emmerling et al., 2003) in one or the other way, it would be important to understand if the gaps (if existent) in wages can be explained by differences in psyche, approach to the workplace or maybe childhood experiences.
+
+I would like to leverage surveys in order to be able not only to reach a bigger sample of respondents but also to ensure that the key questions are indeed answered. The surveys will allow me to make sure that at least a given set of questions is answered in some way. Even if the respondents mark an inconclusive answer (like ‘other’ with no further detail) this will still be a valuable insight for me, that maybe the question was written in a wrong way or is actually not that important (Jeong et al., 2022).
+
+When it comes to interviews, they will be extremely helpful in getting more context (Philipps et al., 2019) to both the factual and survey response data. I would like to use this opportunity to ask further ‘why?’ questions and dive as deep as possible into some of the concepts that may impact the gaps (if existent) in wages. I would like to analyse these interviews in such a way that would allow for categorising the answers, which might be tough. If that was to prove to be impossible or highly unreliable, I would use them as supportive evidence, with clear information how the data is collected and that it should not be treated as views of a certain population sample but rather as individual views and opinions which can help understand the gender wage gap (if existent). 
+
+Reference list
+
+BEA (2023). U.S. bureau of economic analysis (BEA). [online] Bea.gov. Available at: https://www.bea.gov/ [Accessed 7 Sep. 2023].
+
+Emmerling, R.J. and Cherniss, C. (2003). Emotional Intelligence and the Career Choice Process. Journal of Career Assessment, 11(2), pp.153–167. doi:https://doi.org/10.1177/1069072703011002003.
+
+Jeong, D., Aggarwal, S., Robinson, J., Kumar, N., Spearot, A. and Park, D.S. (2022). Exhaustive or exhausting? Evidence on respondent fatigue in long surveys. Journal of Development Economics, 161(102992), pp.102992–102992. doi:https://doi.org/10.1016/j.jdeveco.2022.102992.
+
+Ongena, Y.P. and Dijkstra, W. (2020). Advances in research on survey interview interaction. International Journal of Social Research Methodology, 24(2), pp.1–3. doi:https://doi.org/10.1080/13645579.2020.1824625.
+
+Philipps, A. and Mrowczynski, R. (2019). Getting more out of interviews. Understanding interviewees’ accounts in relation to their frames of orientation. Qualitative Research, [online] 21(1), p.146879411986754. doi:https://doi.org/10.1177/1468794119867548.
+
+Schwen, L.O. and Rueschenbaum, S. (2018). Ten quick tips for getting the most scientific value out of numerical data. PLOS Computational Biology, 14(10), p.e1006141. doi:https://doi.org/10.1371/journal.pcbi.1006141.
+
+U.S. BUREAU OF LABOR STATISTICS (2023). U.S. Bureau of Labor Statistics. [online] stats.bls.gov. Available at: https://stats.bls.gov/ [Accessed 7 Sep. 2023].
