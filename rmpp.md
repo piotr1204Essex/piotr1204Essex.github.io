@@ -245,3 +245,11 @@ Philipps, A. and Mrowczynski, R. (2019). Getting more out of interviews. Underst
 Schwen, L.O. and Rueschenbaum, S. (2018). Ten quick tips for getting the most scientific value out of numerical data. PLOS Computational Biology, 14(10), p.e1006141. doi:https://doi.org/10.1371/journal.pcbi.1006141.
 
 U.S. BUREAU OF LABOR STATISTICS (2023). U.S. Bureau of Labor Statistics. [online] stats.bls.gov. Available at: https://stats.bls.gov/ [Accessed 7 Sep. 2023].
+
+## Unit 11
+
+SWOT
+Skills Matrix
+Action plan
+
+https://www.my-course.co.uk/mod/book/view.php?id=852782&chapterid=9810
