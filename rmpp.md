@@ -44,6 +44,23 @@ Children’s internet protection act (2000).
 Dervishev, O. (2023) "Re: Initial Post" in Collaborative Learning Discussion 1, Research Methods and Professional Practice August 2023 A, University of Essex Online.
 Pulfrey, J. and Hossain, M.S. (2022) ‘Zoom gesture analysis for age-inappropriate internet content filtering’, Expert Systems with Applications, 199, p. 116869. doi:10.1016/j.eswa.2022.116869.
 
+### Collaborative Learning Discussion 2
+#### Initial post
+
+When it comes to Abi’s concerns, first of all, there is no justification, whatsoever, for changing the data values - this is, to simply put it: fraud. Providing misleading information, especially when it comes to the commercials which reach the general public, is punishable by law in Poland (Dz.U.2022.0.1138 t.j - Kodeks karny) with a prison sentence from 3 months minimum to 5 years maximum. Apart from that, one can also face an immediate dismissal at their workplace. Not to mention the social impact of marketing based on false data. Commercials which reach millions of people, can mislead millions of people and hence have a tremendous impact on eg. public health. In Abi’s case we learned that Whizzz cereal may be harmful. It is scary to imagine if that turned out to be true - we could have overcrowded hospitals (in the worst-case scenario) for the mistake of this one person falsifying data reports.
+
+Statistics are an extremely powerful tool, when used appropriately. They provide a variety of tools and techniques for data handling that allow a data professional to extract meaningful insights from even a ‘messy’ dataset (Grilli et al., 2023). However, when used inappropriately, they can skew results, hide important facts and mislead the reader. Therefore I believe that Abi shall choose the best suited tools and correlations for the task at hand, as objectively as possible, to the best of his knowledge, and these should be the ones making it to the report, regardless of whichever side they support. 
+
+When it comes to responsibility, I wholeheartedly believe that the responsibility would lay with Abi only if he knowingly provided inaccurate results, or the ones achieved without following the ethics. One cannot be blamed for misinterpretation of their work by others, as long as one has provided accurate information, presented in a way which suggests correct interpretation of the results beyond reasonable doubt. Therefore it is within Abi’s best interest to follow the ethics, provide the results along with their correct interpretation. This - I believe - is the only ethical course of action in Abi’s situation. 
+
+Reference list
+
+Dz.U.2022.0.1138 t.j - Kodeks karny.Art. 271 [online] Available at: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001138 [Accessed 18 Sep. 2023].
+
+Grilli, L., Monia Lupparelli, Rampichini, C., Rocco, E. and Maurizio Vichi (2023). Statistical Models and Methods for Data Science. Springer Nature.
+
+Stahl, B.C., Timmermans, J. and Mittelstadt, B.D. (2016). The Ethics of Computing. ACM Computing Surveys, 48(4), pp.1–38. doi:https://doi.org/10.1145/2871196.
+
 ## Unit 1 - Reflective Activity
 
 The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/unit_1_reflective_activity.pdf)
