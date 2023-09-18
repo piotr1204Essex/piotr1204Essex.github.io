@@ -21,7 +21,9 @@ While I believe that none of the shortcomings Blocker Plus’ system had were pu
 References:
 
 Case: Malicious inputs to content filters - ACM ethics (2018) ACM Ethics - The Official Site of the Association for Computing Machinery’s Committee on Professional Ethics. Available at: https://ethics.acm.org/code-of-ethics/using-the-code/case-malicious-inputs-to-content-filters/ (Accessed: 08 August 2023). 
+
 Children’s internet protection act (2000). 
+
 Breuner, C.C. et al. (2016) ‘Sexuality Education for Children and Adolescents’, Pediatrics, 138(2). doi:10.1542/peds.2016-1348. 
 BCS Code of conduct (no date) BCS. Available at: https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/ (Accessed: 08 August 2023).
 
