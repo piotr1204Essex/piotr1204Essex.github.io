@@ -67,6 +67,15 @@ Stahl, B.C., Timmermans, J. and Mittelstadt, B.D. (2016). The Ethics of Computin
 
 The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/unit_1_reflective_activity.pdf)
 
+### Tutor feedback:
+
+- It is good to see you cite regularly in the early stages of the formative, ensure that you continue to do this for all future formative and summative but cite all the way through your discussion
+- When using a quote, cite immediately after it [reference where the quote came from]. Do this in all instances
+- Your citation thins out from section 3 onwards - you need to cite in every paragraph and draw theoretical discussion through the whole of the formative. Taking this approach means you develop a critical method of writing. You need to regularly compare pros and cons of research and investigation for criticality to occur, other wise your writing is descriptive
+- Your list of references needs to be in alphabetical order
+
+The main point is the issue of criticality and citation, and so don't merely interpret the research you have found - analyse and evaluate your research look at the limitations and positives of your research and develop your critical discussion from that aspect.
+
 #### Reflective activity - Ethics in Computing
 
 ##### 1. Introduction
@@ -150,6 +159,84 @@ Greenwood, S. (2023). The Enduring Grip of the Gender Pay Gap. [online] Pew Rese
 Gregory, C.R. (2022). Think you need a college degree to get a tech job? Read this. [online] www.bloomtech.com. Available at: https://www.bloomtech.com/article/think-you-need-a-college-degree-to-get-a-tech-job-read-this#:~:text=(Some%20tech%20jobs%20do%20require [Accessed 27 Aug. 2023].
 
 Phillips, T. (2022). Average Software Engineering Salaries by Country in 2022. [online] CodeSubmit Blog. Available at: https://codesubmit.io/blog/software-engineer-salary-by-country/ [Accessed 27 Aug. 2023].
+
+## Unit 4 Literature Review Outline
+
+The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/literature_review_brief_PSieminski.pdf)
+
+### Tutor feedback:
+
+Thank you for submitting your formative.
+
+Noted that you speak of two definitions in the context of your discussion:
+
+1) All technology jobs regardless of the profile of a company
+2) All jobs (regardless of the job profile) within a tech company
+
+For the Literature review choose one of these as you only have 2,000 words to discuss this. Similarly when
+answering the Literature Review don’t break it down into too many subsections, again because you only
+have 2,000. Keep the content concise and focused. Good to see you have started to add citation – ensure
+for the actual Literature Review, that you ensure you have a good cross-section of secondary research
+resources to enable effective critical debate to take place.
+
+### Submission
+
+For the literature review I have selected the following question: “What is the gender pay gap
+in the technology sector in the country of your choice?” with my country of choice being the
+United States of America.
+
+The first thing I would like to discuss in my literature review is the definition of the question.
+More specifically, what does it exactly mean “the technology sector”. For me it means
+technology jobs in technology firms. There exist however two different definitions:
+
+1) All technology jobs regardless of the profile of a company
+2) All jobs (regardless of the job profile) within a tech company
+   
+I find it extraordinarily important to clarify this first and foremost, as such distinction will
+have a profound impact on the actual research. Following the definitions, I would state my
+personal hypothesis about the gender wage gap in the technology sector in the US.
+
+Once I clarify this and other terms (where necessary) I would like to move on to introduce a
+bit of history and related legislation, in order to provide a wider context for the review and
+subsequent research. I would like to review The Equal Pay Act of 1963 (Equal Pay Act of
+1963) and some of the historical data. Later on, I would like to introduce the timeframe
+within which the literature review will take place. It is crucial to select a proper timeline and
+to introduce the reader into the reasons behind such selection. As the technology sector is
+rapidly growing and expanding, so are the jobs and pay within that sector (Sadler, 2023).
+I am leaning towards looking at the last 5 years of data, which is motivated by the
+aforementioned growth of the sector. It has also been the COVID-19 pandemic that has
+affected the pay and the work set up, productivity and others greatly (Patanjali et al., 2022)
+which is another reason for such a short time frame selection.
+
+I would then proceed to the classification of academic sources to be reviewed. The
+classification would likely follow a hierarchical structure, with the first and most important
+distinction being the literature on actual measurements vs the literature on reasons behind the
+gender pay gap or its social ramifications.
+
+After classification, the summary of the reviewed literature should be produced, together with
+key takeaways. Assessment of the initial hypothesis, summary of the key factors contributing
+to the gender pay gap and so on and so forth.
+
+It will be important to then review actions taken by corporations that aim to reduce the gender
+wage gap and assess their effectiveness. Following this paragraph, I would like to discuss the
+limitations and any shortcomings of the existing literature on the topic, along with
+highlighting what could be the most useful area of research which would improve the state of
+existing literature.
+
+I would, subsequently, proceed to the conclusions section, with summary of the literature
+review as a whole, as well as key takeaways for society to take into account for the future.
+
+Reference list
+
+Equal Pay Act of 1963.
+
+Patanjali, S. and Bhatta, N.M.K. (2022). Work from Home During the Pandemic: The Impact
+of Organizational Factors on the Productivity of Employees in the IT Industry. Vision,
+[online] 0(0), p.097226292210741. doi:https://doi.org/10.1177/09722629221074137.
+
+Sadler, D. (2023). Tech salaries continue to grow worldwide. [online] Information Age.
+Available at: https://ia.acs.org.au/article/2023/tech-salaries-continue-to-grow-worldwide.html
+[Accessed 28 Aug. 2023].
 
 ## Unit 4 Case Study on Privacy
 
