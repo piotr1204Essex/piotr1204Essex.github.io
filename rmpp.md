@@ -355,6 +355,13 @@ Schwen, L.O. and Rueschenbaum, S. (2018). Ten quick tips for getting the most sc
 
 U.S. BUREAU OF LABOR STATISTICS (2023). U.S. Bureau of Labor Statistics. [online] stats.bls.gov. Available at: https://stats.bls.gov/ [Accessed 7 Sep. 2023].
 
+## Unit 8
+In Unit 8 we were tasked with completing several exercises in regards to inference and hypothesis testing. These exercises were based on worksheets, which will be provided under relevant section. The outcome of these exercises, i.e. working files, will also be linked below. This is to ensure consistency in this part of the portfolio and avoid uploading text, where sheet calculations took place. I will describe each link uploaded below such that it is easy to follow and understand.
+
+### Hypothesis Testing Exercises
+
+### Summary measures exercises
+
 ## Unit 11
 
 SWOT
