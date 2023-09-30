@@ -369,7 +369,13 @@ Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/bl
 Please find below the feedback I received from my tutor for the above-submitted research proposal outline:
 
 ### Hypothesis Testing Exercises
-Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Unit%208%20-%20Hypothesis%20Testing%20Worksheet.docx.pdf) the worksheet used as a guide to the exercises
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Unit%208%20-%20Hypothesis%20Testing%20Worksheet.docx.pdf) the worksheet used as a guide to the exercises.
+
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/Exe%208.4G.xlsx) the Excel source data 1.
+
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/Exe%208.6C.xlsx) the Excel source data 2.
+
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/hypothesis_testing_exercise.pdf) the answers to the exercises.
 
 ### Summary measures exercises
 
