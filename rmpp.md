@@ -379,6 +379,16 @@ Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/bl
 
 ### Summary measures exercises
 
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Unit%208%20-%20Summary%20Measures%20Worksheet.docx.pdf) the worksheet used as a guide to the exercises.
+
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/Exe%208.1B%20(1).xlsx) the Excel source data 1.
+
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/Exe%208.2B.xlsx) the Excel source data 2.
+
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/Exe%208.3D.xlsx) the Excel source data 3.
+
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/summary_measures_exercises.pdf) the answers to the exercises.
+
 ## Unit 11
 
 SWOT
