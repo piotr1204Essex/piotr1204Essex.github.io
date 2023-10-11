@@ -63,6 +63,19 @@ Grilli, L., Monia Lupparelli, Rampichini, C., Rocco, E. and Maurizio Vichi (2023
 
 Stahl, B.C., Timmermans, J. and Mittelstadt, B.D. (2016). The Ethics of Computing. ACM Computing Surveys, 48(4), pp.1–38. doi:https://doi.org/10.1145/2871196.
 
+#### Summary Post
+
+It is clear that apart from the ethical concerns, there is a question of legal implications of providing false information. As it is usually the case, not only statistics are not black and white but also the legislation around it. I think we cleared any doubt, that providing knowingly false report on the analysis is unethical (Stahl et al., 2016). Depending on additional circumstances, such as whether or not there is some financial or any other gain involved for providing this false information, there can be even a prison sentence for person doing that, at least according to the Polish legislation (Dz.U.2022.0.1138 t.j - Kodeks karny).
+
+One must take all necessary precautions when working with data, especially when it reaches a wider group and can influence people's purchasing behaviour. Inaccurate information not only can have legal repercussions (Dz.U.2022.0.1138 t.j - Kodeks karny) but also could be damaging to the public's health. Therefore it is of utmost importance to apply all of the best practices when analysing the data, create a plan of analysis before hand (such that it is not changed based on favourable or unfavourable results of the to date analysis) and make sure that the work is peer reviewed in order to spot any mistakes one can make unknowingly. 
+
+References
+
+Dz.U.2022.0.1138 t.j - Kodeks karny.Art. 286 [online] Available at: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001138 [Accessed 18 Sep. 2023].
+
+Stahl, B.C., Timmermans, J. and Mittelstadt, B.D. (2016). The Ethics of Computing. ACM Computing Surveys, 48(4), pp.1–38. doi:https://doi.org/10.1145/2871196.
+
+Dz.U.2022.0.1138 t.j - Kodeks karny.Art. 271 [online] Available at: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001138 [Accessed 18 Sep. 2023].
 ## Unit 1 - Reflective Activity
 
 The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/unit_1_reflective_activity.pdf)
