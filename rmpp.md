@@ -429,8 +429,8 @@ Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/bl
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Transcript.pdf) the link to the transcript of the presentation.
 ## Unit 11
 
-SWOT
-Skills Matrix
-Action plan
+Unit 11 brought the opportunity to reflect on the module as well as the course as a whole. We were given the framework that helped tremendously in assessing the current skillset, helped to create a SWOT analysis (Strenghts, Weaknesses, Opportunities, Threats) and in turn an action plan, which serves as a Professional Development Plan. I thoroughly enjoyed the exercise and you can find below the links to the aforementioned artefacts:
 
-https://www.my-course.co.uk/mod/book/view.php?id=852782&chapterid=9810
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Professional%20Skills%20Matrix.xlsx) the link to the skills matrix.
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/swot_analysis_p.pdf) the link to the SWOT analysis.
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/action_plan_p.pdf) the link to the Action Plan.
