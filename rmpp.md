@@ -436,3 +436,10 @@ Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/bl
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/action_plan_p.pdf) the link to the Action Plan.
 
 I was also asked to reflect on one of the modules from this MSc programme, one that impacted my professional practice. Please find the link to the reflection document [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Machine%20Learning%20module%20-%20reflection.pdf)
+
+## TODO
+
+1. Overal reflection
+2. Literature review reflection
+3. Research Proposal reflection
+4. Tutor feedback for research proposal
