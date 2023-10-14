@@ -422,7 +422,11 @@ Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/bl
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/Exe%209.3B.xlsx) the Excel source data 3.
 
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/charts_exercises.pdf) the answers to the exercises.
+## Unit 10 - Research Proposal Presentation
+Unit 10 marks a deadline for submitting the second graded assessment of this module, which is the Research Proposal Presentation. It has been originally submitted with audio and video, however the file size is too large to upload here, and because of that I will provide a link to the transcript as well as the slides.
 
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/research_proposal_presentation.pptx) the link to the slides of the presentation.
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Transcript.pdf) the link to the transcript of the presentation.
 ## Unit 11
 
 SWOT
