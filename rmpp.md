@@ -454,3 +454,6 @@ I was also asked to reflect on one of the modules from this MSc programme, one t
 1. Overal reflection
 3. Research Proposal reflection
 4. Tutor feedback for research proposal
+5. your statistical analysis skills.
+the research methods process based on your learning in this module
+the impact on your personal/professional experience based on your completed professional skills matrix and any associated SWOT Analysis and/or Action Plan. 
