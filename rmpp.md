@@ -434,3 +434,5 @@ Unit 11 brought the opportunity to reflect on the module as well as the course a
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Professional%20Skills%20Matrix.xlsx) the link to the skills matrix.
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/swot_analysis_p.pdf) the link to the SWOT analysis.
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/action_plan_p.pdf) the link to the Action Plan.
+
+I was also asked to reflect on one of the modules from this MSc programme, one that impacted my professional practice. Please find the link to the reflection document [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Machine%20Learning%20module%20-%20reflection.pdf)
