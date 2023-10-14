@@ -452,6 +452,5 @@ I was also asked to reflect on one of the modules from this MSc programme, one t
 ## TODO
 
 1. Overal reflection
-2. Literature review reflection
 3. Research Proposal reflection
 4. Tutor feedback for research proposal
