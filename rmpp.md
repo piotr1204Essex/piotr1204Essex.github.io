@@ -426,13 +426,16 @@ Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/bl
 Unit 10 marks a deadline for submitting the second graded assessment of this module, which is the Research Proposal Presentation. It has been originally submitted with audio and video, however the file size is too large to upload here, and because of that I will provide a link to the transcript as well as the slides.
 
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/research_proposal_presentation.pptx) the link to the slides of the presentation.
+
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Transcript.pdf) the link to the transcript of the presentation.
 ## Unit 11
 
 Unit 11 brought the opportunity to reflect on the module as well as the course as a whole. We were given the framework that helped tremendously in assessing the current skillset, helped to create a SWOT analysis (Strenghts, Weaknesses, Opportunities, Threats) and in turn an action plan, which serves as a Professional Development Plan. I thoroughly enjoyed the exercise and you can find below the links to the aforementioned artefacts:
 
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Professional%20Skills%20Matrix.xlsx) the link to the skills matrix.
+
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/swot_analysis_p.pdf) the link to the SWOT analysis.
+
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/action_plan_p.pdf) the link to the Action Plan.
 
 I was also asked to reflect on one of the modules from this MSc programme, one that impacted my professional practice. Please find the link to the reflection document [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Machine%20Learning%20module%20-%20reflection.pdf)
