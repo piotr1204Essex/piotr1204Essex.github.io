@@ -531,5 +531,4 @@ University of Portsmouth (2023). Reflective writing introduction. [online] Unive
 1. Overal reflection
 3. Research Proposal reflection
 4. Tutor feedback for research proposal
-the research methods process based on your learning in this module
 the impact on your personal/professional experience based on your completed professional skills matrix and any associated SWOT Analysis and/or Action Plan. 
