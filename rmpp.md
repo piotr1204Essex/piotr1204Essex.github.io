@@ -472,6 +472,60 @@ Myors, B. and Murphy, K.R. (2023). Statistical Power Analysis. Taylor & Francis.
 Risberg Ellekjær, M. and Bisgaard, S. (1998). The use of experimental design in the development of new products. International Journal of Quality Science, 3(3), pp.254–274. doi:https://doi.org/10.1108/13598539810229230.
 
 Singh, R. and Mangat, N.S. (1996). Stratified Sampling. In: Elements of Survey Sampling. Dordrecht: Springer.
+## The research methods process reflection
+### Introduction
+The research methods process is a fundamental component of any academic or professional inquiry. It is the backbone upon which the credibility and reliability of any research rests. This reflection aims to delve into the essential stages of my engagement, the implications of those experiences, and the forward path from here.
+### Research question
+The research methods process started for me with identifying a viable research question. While this task was made easier during the Literature Review (I was provided with a list to choose from) it proved to be much more challenging for the Research Proposal Presentation. During the Research Methods and Professional Practice module’s lecture casts I have learned about the different types of questions a researcher can ask as well as how to avoid posing inaccurate, vague or tendentious questions. 
+
+I have learned through my Tutor’s feedback, that performing due diligence on the literature available for the topic before committing to a research question is necessary for the research to be viable. I have made a mistake of committing to a question (for my Literature Review submission) which did not have sufficient coverage in the literature. While this is one of the shortcomings I noted in my report, it would have been better to find a topic that has enough research available to perform a much more cohesive literature review. This is a learning I took forward with me to my next submission as well as I will take it forward to all of the future research, be that during my MSc programme or my professional career.
+
+Around the same time when I was learning about these research questions, the Polish government announced a referendum with four questions to be answered by Poles. There have been multiple comments about the referendum being tendentious (Bujas, 2023; Batko-Tołuć, 2023; Bankier.pl, 2023; Skomra, 2023; Dąbrowska, 2023). I felt like it was a great, real world example for me to examine the questions that are asked in the referendum and then reach some conclusions that will enhance my understanding of what a good research question is. 
+
+I, personally, agree with the opinion that the questions in the referendum (Bujas, 2023) were not set objectively. This experience allowed me to better understand the social implications of asking a question in an incorrect way. Not only has this referendum started a wide public debate in my country (Poland), but also prompted several Polish MPs to call for a boycott of the referendum and call it illegal (Gruszczyński, 2023). I will leave it to the public opinion and judiciary system to decide on the matter. The point I took from it is that setting the right questions in an objective way is of utmost importance - whether in the public referendum or in the research, which is also public and can later on be referenced by other researchers. Therefore it is crucial that the right direction is set with the right research question, which follows the ethics code of research (Polish Academy of Sciences, 2020 and Stahl et al., 2016)
+### Research design
+Subsequently, the research methods process describes the design to be followed when conducting a research. This step can only be progressed onto, once the research question is clarified and properly set. I learned about three different approaches to the research design: qualitative (Atkinson and Delamont, 2010), quantitative (Balnaves and Caputi, 2001) or mixed (Åkerblad, Seppänen-Järvelä and Haapakoski, 2020). 
+
+I have encountered these methods in my professional career. Back when I was holding a position of a Senior Data Analyst and working with product data, marketing and customer insights specialists were running all sorts of research to inform the strategy and direction for the product development of the company I worked for. While commercial research differs from academic one, the idea of qualitative and quantitative research is the same. The main difference I see between academic and commercial research, is that the academic one is much more demanding in terms of the scope, following specific rules, reproducibility and generalisability. Commercial research stays within the company that performed it and therefore, as it is not shared with the public, it does not have to meet such high standards to which the academic research is held (Fritzlen, 2022). 
+
+The professional practice allowed me to experience planning and execution of several commercial researches. Therefore I believe I had a fair understanding of what the difference between quantitative and qualitative methods is and how the research should be planned in order to achieve objective and viable results. As an outcome of the researches I took part in, the company I worked for was able to advance their product and increase customer satisfaction. I believe this was a great experience that set me on a proper way to only improve my research design skills when I attempt my capstone project.
+
+The MSc Data Science programme is quantitative in nature. There are however topics, where qualitative research methods could be applied. My Literature Review submission was about the gender pay gap topic. If I was to conduct research on this topic, it would likely be a mixture of quantitative and qualitative methods. On the other hand, my submission for Research Proposal Presentation is describing a research which is fully quantitative. I have made a conscious decision to switch the research methods between these two submissions as I intended to learn as much as I could before going into the capstone project. 
+
+Reflecting on this choice right now, I am very glad I made that decision. When I was going through the Literature Review, not only had I had to consider several qualitative methods for research, but also the publications on the topic were mostly qualitative in nature. It helped me to understand how to read these publications, how to categorise and make sense of them. On the other hand, the quantitative research for my Research Proposal Presentation brought an entirely different focus to my work. This one is much more focused on numbers and things rather than individuals and society.
+
+I believe the collective experience from these two submissions and my professional career brought me to a point where I can confidently say I have a good understanding of how a proper research design shall look like.
+Conclusion
+The process as a whole has been a transformative journey for me. Coming from less rigid commercial research structures to the academic research guidelines was quite a step up - one that I enjoyed thoroughly. I have received valuable feedback from my Tutor which I incorporated immediately in my next submission. I have learned how to perform a literature review, how to read and interpret both qualitative and quantitative publications as well as how to critically evaluate that literature in order to provide an objective view on the matter. I am looking forward to my capstone project, where I will take all of the aforementioned learnings and experiences with me.
+
+### Reference list
+
+Åkerblad, L., Seppänen-Järvelä, R. and Haapakoski, K. (2020). Integrative Strategies in Mixed Methods Research. Journal of Mixed Methods Research, 15(2), p.155868982095712. doi:https://doi.org/10.1177/1558689820957125.
+
+Atkinson, P. and Delamont, S. (2010). SAGE Qualitative Research Methods. SAGE Publications, Inc. https://doi.org/10.4135/9780857028211.
+
+Balnaves, M. and Caputi, P. (2001). Introduction to Quantitative Research Methods. SAGE Publications, Ltd. doi:https://doi.org/10.4135/9781849209380.
+
+Bankier.pl (2023). Były premier tłumaczy, co jest nie tak z pytaniami w referendum. [online] Bankier.pl. Available at: https://www.bankier.pl/wiadomosc/Byly-premier-tlumaczy-co-jest-nie-tak-z-pytaniami-w-referendum-8627500.html [Accessed 15 Oct. 2023].
+
+Batko-Tołuć, K. (2023). Nie daj sobie wcisnąć „referendum”. [online] Sieć Obywatelska Watchdog. Available at: https://siecobywatelska.pl/nie-daj-sobie-wcisnac-referendum/ [Accessed 15 Oct. 2023].
+
+Bujas, B. (2023). Komentarze ws referendum: ‘Pytania są tendencyjne’; ‘To referendum partyjne’. [online] www.radiokrakow.pl. Available at: https://www.radiokrakow.pl/aktualnosci/komentarze-ws-referendum-pytania-sa-tendencyjne-to-referendum-partyjne [Accessed 15 Oct. 2023].
+
+Dąbrowska, Z. (2023). Sondaż. Referendum dzieli Polaków i nie mobilizuje elektoratu. [online] Rzeczpospolita. Available at: https://www.rp.pl/wybory/art39092731-sondaz-referendum-dzieli-polakow-i-nie-mobilizuje-elektoratu [Accessed 15 Oct. 2023].
+
+Fritzlen, K. (2022). Differences between Academic and Industry Research (from a recovering academic). [online] Buildertrend Research. Available at: https://medium.com/buildertrend-research/differences-between-research-in-academia-vs-industry-and-also-some-similarities-df4860f379ae.
+
+Gruszczyński, A. (2023). Bojkot referendum. Jedni zachęcają do niego wprost, inni wiedzą, że i tak będzie nieważne. [online] Gazeta Wyborcza. Available at: https://warszawa.wyborcza.pl/warszawa/7,54420,30266817,zapytalem-politykow-opozycji-o-oficjalne-stanowiska-w-sprawie.html [Accessed 15 Oct. 2023].
+
+Polish Academy of Sciences (2020). Code of Ethics for Researchers.
+
+Skomra, S. (2023). Referendum 2023. Kiedy głos jest ważny, kiedy nie będzie liczony? [online] Gazeta Jawny Lublin. Available at: https://jawnylublin.pl/referendum-2023-kiedy-glos-jest-wazny-kiedy-nie-bedzie-liczony/ [Accessed 15 Oct. 2023].
+
+Stahl, B.C., Timmermans, J. and Mittelstadt, B.D. (2016). The Ethics of Computing. ACM Computing Surveys, 48(4), pp.1–38. doi:https://doi.org/10.1145/2871196.
+
+University of Portsmouth (2023). Reflective writing introduction. [online] University of Portsmouth. Available at: https://www.port.ac.uk/node/56021/written-assignments/reflective-writing-introduction [Accessed 15 Oct. 2023].
+
 ## TODO
 
 1. Overal reflection
