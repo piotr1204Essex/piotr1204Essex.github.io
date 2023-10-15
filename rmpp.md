@@ -449,11 +449,33 @@ Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/bl
 
 I was also asked to reflect on one of the modules from this MSc programme, one that impacted my professional practice. Please find the link to the reflection document [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Machine%20Learning%20module%20-%20reflection.pdf)
 
+## Statistical skills reflection
+### Description
+In order to reflect on my statistical skills I will apply Gibbs Reflective Cycle (Galli and New, 2022). During this the Research Methods and Professional Practice module we were tasked with completing statistical worksheets - an exercise aiming at preparing us to be able to work with data when undertaking the capstone project. The exercises provided there were easy to understand and follow, given my prior experience as well as previous modules during this MSc programme. They focused on understanding the distribution of the data, descriptive metrics, hypothesis testing, p-value and charts visualisations.
+### Feelings
+I feel that the exercises themselves did not bring any new knowledge to my existing skill set so I treat them more as a reminder and a refresher of my knowledge, given the upcoming capstone project. I think that for the computing programme, these exercises could have been on a little bit more advanced level. This is based on the assumption that everyone on the Master’s programme in the Computing department has this basic understanding of statistics. I would like to see some more challenging and thought-provoking exercises.
+### Evaluation and Analysis
+The topic of advanced statistics is something I encounter everyday in my professional life as I am currently employed as a Senior Analytics Engineer at an EdTech company which causes me to work with Data Scientists and their statistical work. Prior to this employment I held a position of a Senior Data Analyst, where I was mostly working with product data. It required analysis of several experiments run by the product team. Thanks to that I became quite fluent with experiment planning (Risberg Ellekjær and Bisgaard, 1998), power analysis (Myors and Murphy, 2023) and then several techniques of analysis, depending on the requirements. Techniques such as causal inference (Cunningham, 2021), K-means clustering (Jin and Han, 2011), sample stratification (Singh and Mangat, 1996) etc. This brings me to the evaluation point of my statistical skills, which I feel mostly improved when I was working on the Machine Learning module and not so much in the current module. At this stage I am confident to say that I regard my statistical skills as advanced and the exercises provided in this module were of no challenge to me. I believe the level I possess is sufficient for the successful completion of all of the statistical work that will be required when completing the capstone project.
+### Conclusion and action plan
+I felt that there was not much room provided in the statistical worksheets exercises other than interpretation of the results. We were given clear instructions on how to create charts and how to calculate descriptive metrics of the data. What could have been done differently, in order to challenge myself a little bit more, is to attempt to look at the question first, then try to complete it without the guidance provided in the exercise worksheets. I could have only then reviewed the guidance in order to check whether I have achieved the required results properly. This is going to be my plan of action for the next time I encounter such exercises as it will allow me to maximise the learnings even if I possess prior knowledge about the topic.
+
+### Reference list
+
+Cunningham, S. (2021). What Is Causal Inference? Yale University Press eBooks, pp.3–6. doi:https://doi.org/10.12987/9780300255881-003.
+
+Galli, F. and New, C.J. (2022). Gibbs’ cycle review. Emotions as a part of the cycle. e-Motion: Revista de Educación, Motricidad e Investigación, [online] (19). doi:https://doi.org/10.33776/remo.vi19.7224.
+
+Jin, X. and Han, J. (2011). K-Means Clustering. In: C. Sammut and G.I. Webb, eds., Encyclopedia of Machine Learning. Springer.
+
+Myors, B. and Murphy, K.R. (2023). Statistical Power Analysis. Taylor & Francis.
+
+Risberg Ellekjær, M. and Bisgaard, S. (1998). The use of experimental design in the development of new products. International Journal of Quality Science, 3(3), pp.254–274. doi:https://doi.org/10.1108/13598539810229230.
+
+Singh, R. and Mangat, N.S. (1996). Stratified Sampling. In: Elements of Survey Sampling. Dordrecht: Springer.
 ## TODO
 
 1. Overal reflection
 3. Research Proposal reflection
 4. Tutor feedback for research proposal
-5. your statistical analysis skills.
 the research methods process based on your learning in this module
 the impact on your personal/professional experience based on your completed professional skills matrix and any associated SWOT Analysis and/or Action Plan. 
