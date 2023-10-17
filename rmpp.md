@@ -525,10 +525,79 @@ Skomra, S. (2023). Referendum 2023. Kiedy głos jest ważny, kiedy nie będzie l
 Stahl, B.C., Timmermans, J. and Mittelstadt, B.D. (2016). The Ethics of Computing. ACM Computing Surveys, 48(4), pp.1–38. doi:https://doi.org/10.1145/2871196.
 
 University of Portsmouth (2023). Reflective writing introduction. [online] University of Portsmouth. Available at: https://www.port.ac.uk/node/56021/written-assignments/reflective-writing-introduction [Accessed 15 Oct. 2023].
+## Impact on my personal/professional experience reflection 
+### Introduction
+The MSc Data Science programme has been quite an experience so far. I would like to reflect on it as a whole, comparing it to my previous experiences and outlining any new skills gained as well as new friendships made. I will start with a brief introduction of my professional career journey and learnings. I will then proceed to evaluate the modules (except for the introductory one: The Data Professional, because I am acquainted with the profession having worked as a data professional for several years now) and their impact on my personal/professional life.
+### Past experiences
+Prior to enrolling into the MSc Data Science programme at the University of Essex, I was already working in the data industry for a few years. I have started my data journey with a Junior Safety Analyst position at Booking.com. Then I progressed to BI developer, then Senior Data Analyst (The EPAM Anywhere Editorial Team, 2023) and right now I hold a position of Senior Analytics Engineer (Arrington, 2023). This journey has allowed me to enter the industry at a strictly analytical point (performing data analysis most of the time) and then gradually moving towards the engineering of data (Coursera, 2023). My current position requires no analysis of data per se, but rather the analysis of systems, query performance, stakeholder requirements etc. 
+
+This career path has helped me to grow strongly in the technical fields, learning several tools and programming languages to the proficient/expert level (Mahmudova, 2021). Languages such as: SQL, Python, Java, JavaScript, YAML, LookML and Jinja. It has also prepared me to work with analytics and version control related tools, such as Snowflake, GCP, dbt, Looker, Tableau, spreadsheets, DataBricks, GitHub and Jupyter (Ramadan, 2017). After completing my professional skills matrix it became clear to me that I have strong technical skills, while the biggest room for improvement is within soft and leadership skills. It is important to note, that while I was always (during my career) a part of a team, my work was usually individual with very few chances to develop something together with other people. Everyone in my team had a specific scope of tasks and we were a team for mostly administrative reasons. This is why I put emphasis on the team work which took place in two of the described below modules.
+### Modules experiences and impact
+#### Numerical Analysis
+##### Experiences
+The MSc Data Science programme is not finished yet, but I am currently approaching the capstone project and so that is a good moment to reflect on all of the taught modules. I must say that I have expected a little bit more from the Numerical Analysis module. It was supposed to prepare us mathematically to the challenges of the Data Science field (Hrycej et al., 2023). While we covered the basics such as hypothesis testing (Emmert-Streib and Dehmer, 2019) or some entry-level statistics (Agarwal, 2013), my professional experience taught me that there is much more to maths in this industry than that. Some examples will include causal inference analysis (Pearl, 2010), experiment evaluation (Voorhees and Harman, 2005) or asymptotic analysis (Murray, 1984). One of the reasons I started this programme is that I hoped to learn a bit more maths that could help me in my career, which unfortunately did not happen.
+#### Research Methods and Professional Practice
+##### Experiences
+The same applies to the statistical worksheets which are part of the exercises required for my current module - Research Methods and Professional Practice. This module, however, as I understand, is standardised across all of the Master’s programmes and therefore I treat the statistical worksheets as a refresher before the capstone project. Speaking of the current module, I shall rather focus on all of the new and extremely valuable learnings that I gained from it. My Tutor’s feedback has been instrumental in helping me to improve my academic writing as well as the structure of my work; feedback about correct text or references formatting, due diligence required before committing to a research topic or academic integrity. I delved more into the specifics of this feedback in my reflection about the research methods process, nevertheless it is important to mention this in the general reflection as well.
+##### Impact
+My professional writing skills have improved significantly. I have taken all of the learnings with me not only from one submission to another (within the MSc programme) but also to my professional career. I have received feedback from my line manager, that the reports and presentations I prepare right now, have some better structure than before, with relevant references put in a correct place and appendix available for stakeholders who wish to delve further into the topic. I personally feel that this module’s experiences are imperative to the successful completion of the capstone project and I am very glad I had the chance to work on the tasks for this module.
+#### Deciphering Big Data
+##### Experiences
+Deciphering Big Data module has not brought many new learnings either. As previously mentioned, I currently work as a Senior Analytics Engineer and therefore Big Data related tasks are part of my daily job. The exercises evolved around database design, ETL organisation and performance (Kimball and Ross, 2013) - all of the concepts I can fairly say I am very proficient in. 
+We were organised in teams in order to prepare these database designs and final reports. This was the first experience during the programme of working in teams. While we lost points on the structure of the report (eg. format of the references) we have done a good job on the technical side of the task. This experience allowed me to make new friends as well, whom I am in contact with to this day (even though we are not currently enrolled in the same module).
+##### Impact
+While there was not much technical skills learning coming from this module, I did learn to better cooperate as a part of the team - as that was my first experience developing a project together (during the MSc programme). I can also say that my communication skills improved, because in my team every member was coming from another country. This brought differences in communication styles, organisation of work and even the most (supposedly) trivial things like accent or pronunciation - we all had to make an effort to make sure that everyone understands us and that we are on the same page organisation wise. I am glad to have taken these learnings with me, which impacted me both personally and professionally. Now I have a wider understanding of different cultural backgrounds and it is easier for me to communicate with people from other countries.
+#### Visualising Data
+##### Experiences
+The Visualising Data module has brought some fresh perspective to my visualisation skills. While my past experiences have put me in a good place to start with, this module has introduced me to the structure and psychological reasoning behind selection of one visualisation over another (Wiebels and Moreau, 2023). Up until this point, I would make my choice based on intuition and empirical experience, without knowing the scientific reason behind some visualisations working better than others. I cannot appreciate enough the learnings about how to activate both brain hemispheres with the right colours (Schubert, 2005), how to follow the principles of data visualisation (Midway, 2020) or how to build effective dashboards (Karami, Langarizadeh and Fatehi, 2017). I am glad to say that my visualisation skills and understanding have improved after this module.
+##### Impact
+Similarly to the impact described for the Research Methods and Professional Practice module, the visualisation improvements have also caught the eye of my line manager as well as stakeholders I work with in my professional life. I do not build dashboards on a daily basis but I do create presentations and reports for the projects I am involved with. This module has helped me to keep my communication more concise and to introduce icons and GIFs into my corporate presentations which in turn made people more engaged. Thanks to that I received higher response rates to surveys sent after presentations I delivered as well as more feedback when I shared a report with a group at my workplace.
+#### Machine learning
+##### Experiences
+Probably the most impactful module of all was the Machine Learning module. While I have encountered Machine Learning earlier in my professional career, it was during that module when I actually got to build my own, quite complex neural networks model (Saeed and Homenda, 2016), together with Rory who was my team mate at the time. I have learned from Rory how to approach the development of a machine learning module - structured, gradual improvements to the performance instead of attempting to fine tune everything at once. My interest in machine learning skyrocketed with reading about the history of machine learning and learning new algorithms - the detailed review of this module has been described in a separate reflection available [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Machine%20Learning%20module%20-%20reflection.pdf)
+##### Impact
+This module has sparked my interest so much that I decided to team up with my friends and work together to create some open-source project that can bring some benefits to society. I describe that in more detail in the specific reflection mentioned above. Working in a team with Rory has brought more structure into my work which impacted how I approach problem solving in general. I am now able to solve problems in an organised manner, while logging all of the developments for future review and reporting. 
+### Conclusion
+The MSc Data Science programme has been a handful of experiences. While I expected a little bit more on the mathematical side of things, most of the modules had at least some learnings that impacted either my professional or personal life (sometimes both). I have definitely improved my academic writing greatly as well as structured my problem solving approach. The Machine Learning module has sparked so much interest that I decided to build an open-source project with my friends (once I finish the capstone project; the scope of the project is not defined yet). The programme has also taught me some psychological reasons behind the choice of how to visualise data - the usage of colours, palettes, saturation, charts types and so on and so forth. It transformed my approach to the visualisation, which was previously based on empirical experiences first, and now I have the background knowledge as well. I am glad I enrolled in the MSc Data Science at University of Essex and I am looking forward to completing my capstone project.
+
+### Reference list
+
+Agarwal, B.L. (2013). Basic Statistics. 6th ed. New Age International Publishers.
+
+Arrington, K. (2023). Analytics Engineer: Job Description, Skills, Salary, & Responsibilities. [online] authenticjobs.com. Available at: https://authenticjobs.com/analytics-engineer-job-description-skills-salary/ [Accessed 17 Oct. 2023].
+
+Coursera (2023). What Is a Data Engineer?: A Guide to This In-Demand Career. [online] Coursera. Available at: https://www.coursera.org/articles/what-does-a-data-engineer-do-and-how-do-i-become-one.
+
+Emmert-Streib, F. and Dehmer, M. (2019). Understanding Statistical Hypothesis Testing: The Logic of Statistical Inference. Machine Learning and Knowledge Extraction, [online] 1(3), pp.945–961. doi:https://doi.org/10.3390/make1030054.
+
+Hrycej, T., Bermeitinger, B., Cetto, M. and Handschuh, S. (2023). Mathemtical Foundations of Data Science. Springer.
+
+Karami, M., Langarizadeh, M. and Fatehi, M. (2017). Evaluation of Effective Dashboards: Key Concepts and Criteria. The Open Medical Informatics Journal, 11(1), pp.52–57. doi:https://doi.org/10.2174/1874431101711010052.
+
+Kimball, R. and Ross, M. (2013). The Data Warehouse Toolkit. John Wiley & Sons Inc.
+
+Mahmudova, S. (2021). Study and Comparative Analysis of Programming Languages Used for Big Data. Review of Information Engineering and Applications, 8(1), pp.1–9. doi:https://doi.org/10.18488/journal.79.2021.81.1.9.
+
+Midway, S.R. (2020). Principles of Effective Data Visualization. Patterns, [online] 1(9), p.100141. doi:https://doi.org/10.1016/j.patter.2020.100141.
+
+Murray, J.D. (1984). Asymptotic Analysis. Springer.
+
+Pearl, J. (2010). An Introduction to Causal Inference. The International Journal of Biostatistics, 6(2). doi:https://doi.org/10.2202/1557-4679.1203.
+
+Ramadan, R. (2017). Big Data Tools-An Overview. International Journal of Computer & Software Engineering, 2(2). doi:https://doi.org/10.15344/2456-4451/2017/125.
+
+Saeed, K. and Homenda, W. (2016). Computer Information Systems and Industrial Management. Springer.
+
+Schubert, C. (2005). Language colours vision. Nature. doi:https://doi.org/10.1038/news051219-18.
+
+The EPAM Anywhere Editorial Team (2023). Job Description for Senior Data Analyst. [online] EPAM Anywhere. Available at: https://anywhere.epam.com/en/senior-data-analyst-job-description [Accessed 17 Oct. 2023].
+
+Voorhees, E.M. and Harman, D.K. (2005). Experiment and Evaluation in Information Retrieval. The MIT Press.
+
+Wiebels, K. and Moreau, D. (2023). Dynamic Data Visualizations to Enhance Insight and Communication Across the Life Cycle of a Scientific Project. Advances in methods and practices in psychological science, 6(3). doi:https://doi.org/10.1177/25152459231160103.
 
 ## TODO
 
 1. Overal reflection
-3. Research Proposal reflection
-4. Tutor feedback for research proposal
-the impact on your personal/professional experience based on your completed professional skills matrix and any associated SWOT Analysis and/or Action Plan. 
+2. Research Proposal reflection
+3. Tutor feedback for research proposal
