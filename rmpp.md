@@ -596,6 +596,12 @@ Voorhees, E.M. and Harman, D.K. (2005). Experiment and Evaluation in Information
 
 Wiebels, K. and Moreau, D. (2023). Dynamic Data Visualizations to Enhance Insight and Communication Across the Life Cycle of a Scientific Project. Advances in methods and practices in psychological science, 6(3). doi:https://doi.org/10.1177/25152459231160103.
 
+## Unit 12 - Self Test Quiz
+
+In Unit 
+
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/slef_test_quiz_12.pdf) link to the self-test quiz which I completed after studying the Unit.
+
 ## TODO
 
 1. Overal reflection (add literature and research proposal reflections with citations)
