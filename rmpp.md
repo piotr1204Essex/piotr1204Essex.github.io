@@ -245,8 +245,15 @@ Available at: https://ia.acs.org.au/article/2023/tech-salaries-continue-to-grow-
 [Accessed 28 Aug. 2023].
 
 ## Unit 3 - Research Proposal Review
+In Unit 3 we analysed research methods as a part of the research design. We learned how important a good plan is for the research (Saunders et al., 2012) We distinguished 2 types of research design: exploratory research and conclusive research as well as 3 types of research methods: qualitative, quantitative and mixed methods. At the end of this Unit, we were asked a question to reflect on, to which the answer you can find below.
 
-At the end of Unit 3 of the module, we have been asked the following question:
+Reference list
+
+Sage (2021) Sage Research Methods: Methods Map.
+
+Saunders, M., Lewis, P. & Thornhill, A. (2012) Research Methods for Business Students 6th ed. Pearson Education Limited. 
+
+### Reflection question
 
 _Considering your thoughts on your chosen area of interest for your project:
 Which of the methods described in this week's reading would you think would suit your purpose?
@@ -264,6 +271,7 @@ When it comes to the methods I think the best would be to apply quantitative met
 To sum this up, I do feel that this is an extremely interesting topic and I am looking forward to reviewing the literature and finding answers to all of the aforementioned questions. 
 
 Reference list
+
 European Parliament (2020). "Understanding the Gender Pay gap: Definition and Causes". [online] www.europarl.europa.eu. Available at: https://www.europarl.europa.eu/news/en/headlines/society/20200109STO69925/understanding-the-gender-pay-gap-definition-and-causes [Accessed 27 Aug. 2023].
 
 Greenwood, S. (2023). The Enduring Grip of the Gender Pay Gap. [online] Pew Research Center’s Social & Demographic Trends Project. Available at: https://www.pewresearch.org/social-trends/2023/03/01/the-enduring-grip-of-the-gender-pay-gap/#:~:text=The%20gender%20pay%20gap%20%E2%80%93%20the.
