@@ -423,8 +423,12 @@ Schwen, L.O. and Rueschenbaum, S. (2018). Ten quick tips for getting the most sc
 
 U.S. BUREAU OF LABOR STATISTICS (2023). U.S. Bureau of Labor Statistics. [online] stats.bls.gov. Available at: https://stats.bls.gov/ [Accessed 7 Sep. 2023].
 
-## Unit 7 - Literature Review
-In Unit 7 we were asked to submit the literature review for one of the topic's from the list provided by the University of Essex. The title of my Literature Review is: 'What is the gender pay gap in technology jobs in the U.S.?'. You can find the submission and the feedback I received below.
+## Unit 7 
+Unit 7 was the deadline for my first summative submission - Literature Review. I also had the opportunity to learn about the qualitative research methods for evaluating computer information systems (Kaplan et al., 2005) which was interesting to me given some of the thought that I have given to the research proposal presentation, specifically about evaluating database performance. Below you can find my submission, tutor feedback and brief self evaluation of the Literature Review.
+
+Reference list
+
+Kaplan, B. & Maxwell, J.A. (2005) Qualitative Research Methods for Evaluating Computer Information Systems. In: Anderson J.G. & Aydin C.E. (Eds) Evaluating the Organizational Impact of Healthcare Information Systems. Health Informatics. New York, NY: Springer.
 ### Submission
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/p_sieminski_unit_7_literature_review.pdf) the link to the submission.
 ### Tutor Feedback
