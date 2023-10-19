@@ -444,9 +444,11 @@ My work was highlighted in some places where Turnitin (anti-plagiarism software)
 
 Overall I am happy with the submission. I received some valuable feedback that I was able to take to my next assignment. This Literature Review exercise has also helped me to prepare for the capstone project and discussions with supervisors. This is an invaluable skill that I will take with me moving on to the final project of this MSc programme. 
 ## Unit 8
-In Unit 8 we were tasked with completing several exercises in regards to inference and hypothesis testing. These exercises were based on worksheets, which will be provided under relevant section. The outcome of these exercises, i.e. working files, will also be linked below. This is to ensure consistency in this part of the portfolio and avoid uploading text, where sheet calculations took place. I will describe each link uploaded below such that it is easy to follow and understand.
+Unit 8 aimed to prepare us for the statistical work that will be required to successfully complete our capstone project. We were tasked with completing statistical exercises worksheets (that you can find below). These exercises where on the basic level (Berenson et al., 2015) and my previous experience with statistics was sufficient to complete these exercises at ease. These exercises were based on worksheets, which will be provided under relevant section. The outcome of these exercises, i.e. working files, will also be linked below. This is to ensure consistency in this part of the portfolio and avoid uploading text, where sheet calculations took place. I will describe each link uploaded below such that it is easy to follow and understand. Another, formative, submission, which was due in Unit 8, was the Research Proposal Outline. You can find the details of that below as well.
 
-Another, formative, submission, which was due in Unit 8, was the Research Proposal Outline. You can find the details of that below as well.
+Reference list 
+
+​​Berenson, L., Levine, D. & Szabat, K. (2015) Basic Business Statistics: Concepts and Applications. 13th Ed. Pearson 
 
 ### Research Proposal Outline
 
