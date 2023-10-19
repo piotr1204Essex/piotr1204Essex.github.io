@@ -598,6 +598,6 @@ Wiebels, K. and Moreau, D. (2023). Dynamic Data Visualizations to Enhance Insigh
 
 ## TODO
 
-1. Overal reflection
+1. Overal reflection (add literature and research proposal reflections with citations)
 2. Research Proposal reflection
 3. Tutor feedback for research proposal
