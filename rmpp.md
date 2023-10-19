@@ -280,11 +280,23 @@ Gregory, C.R. (2022). Think you need a college degree to get a tech job? Read th
 
 Phillips, T. (2022). Average Software Engineering Salaries by Country in 2022. [online] CodeSubmit Blog. Available at: https://codesubmit.io/blog/software-engineer-salary-by-country/ [Accessed 27 Aug. 2023].
 
-## Unit 4 Case Study on Privacy
+## Unit 4
+In Unit 4 we discussed data collection methods that can feed our research process. We learned about focus groups (Devaul, 2020), how to observe participants (Abramson et al., 2020) and most common observation methods (Fuelcycle, 2019). Continuously the emphasis was put on ethics in research, especially when it involves people (Vanclay et al., 2013). At the end of the unit I have completed a formative activity which you can find below.
+
+Reference list
+
+Abramson, C. & Sánchez-Jankowski, M. (2020) Conducting Comparative Participant Observation. in: Abramson, C. & Gong, N. (Eds) Beyond the Case: The Logics and Practices of Comparative Ethnography. Oxford Scholarship Online
+
+Devault, G. (2020) What is a Market Research Focus Group?
+
+Fuelcycle (2019) The Three Most Comon Observation Research Methods.
+
+Vanclay, F., Baines, J. & Taylor C. (2013) Principles for ethical research involving humans: ethical professional practice in impact assessment Part II. Impact Assessment and Project Appraisal 31(4): 243-253. 
+
+### Case Study on Privacy
 
 The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/unit4_case_study%20(1).pdf)
 
-### Unit 4 Case Study on Privacy
 In Unit 4 we were given a case study (University of Essex, 2023) with intriguing questions to come up with answers to. Privacy is a key part of ethical considerations in academic research (Dawson, 2015). I would like therefore to answer each of the questions and give them the necessary attention. 
 
 First and foremost, when it comes to privacy and data protection, there are legislative requirements to ensure safety and protection of PII (Personally Identifiable Information) from external researchers and anyone else who does not have the right to access such data (GDPR, 2016). In the given case, Ricardo is not the person responsible for determining allowable access and therefore he should not release the PII data requested under no circumstances. It would have to be processed and approved by a legal department of Ricardo’s institution first.
