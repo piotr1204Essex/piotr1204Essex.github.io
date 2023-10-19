@@ -319,11 +319,20 @@ Polish Academy of Sciences (2020). Code of Ethics for Researchers.
 
 University Of Essex (2023). ‘Case Study on Privacy’ Unit 4 Seminar.
 
-## Unit 5: Case Study
+## Unit 5
+In Unit 5 we looked at interviews and survey methods. I am fairly acquainted with those from my professional career, but to complete my knowledge I followed up on the required reading (Berenson et al., 2015; Dawson, 2015; Confessore, 2018) and I was glad to work on another case study, discussing inappropriate use of surveys. Please find below my submission.
 
-The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Case%20Study_%20Inappropriate%20Use%20of%20Surveys.pdf)
+Reference list
+
+Berenson, L., Levine, D. & Szabat, K. (2015) Basic Business Statistics: Concepts and Applications. 13th Ed. Pearson
+
+Confessore, N. (2018) Cambridge Analytica and Facebook: The Scandal and the Fallout So Far.
+
+Dawson, C. (2015) Projects in Computing and Information Systems: A Student's Guide. Harlow: Pearson. 
 
 ### Case Study: Inappropriate Use of Surveys
+
+The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Case%20Study_%20Inappropriate%20Use%20of%20Surveys.pdf)
 
 #### Introduction
 
