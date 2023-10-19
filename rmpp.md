@@ -156,35 +156,17 @@ Wolford, B. (2018). What are the GDPR Fines? [online] GDPR.eu. Available at: htt
 
 ‌Meng Na, Rong, L., Mohd Helmi Ali, Syed Shah Alam, Masukujjaman, M. and Ali (2023). The Mediating Role of Brand Trust and Brand Love between Brand Experience and Loyalty: A Study on Smartphones in China. 13(6), pp.502–502. doi:https://doi.org/10.3390/bs13060502.
 
-## Unit 3 - Research Proposal Review
+## Unit 2
 
-At the end of Unit 3 of the module, we have been asked the following question:
-
-_Considering your thoughts on your chosen area of interest for your project:
-Which of the methods described in this week's reading would you think would suit your purpose?
-Which data collection methods would you consider using?_
-
-This piece of writing is to be considered as my personal thoughts and hence it will have a less academic form and will rather describe my thought process and considerations.
-After assessing accessible topics for literature review from Unit 1 I have decided that I would like to focus my attention on the following topic: “What is the gender pay gap in the technology sector in the country of your choice?” 
-
-The choice of the topic comes from the fact that not only is this an interesting question in and of itself, but also the technology sector has its peculiarities which might give very different answers to the gender pay gap question compared to if it was to be assessed in another industry. The technology sector, for example, does not require formal education (Gregory, 2022). Also, from my professional experience, I have often seen women earn the same, sometimes even more than men, for doing the same kind of work, within the technology sector. The gender pay gap question, generally assumes that the gap  is structured in such a way that men earn more than women (European Parliament, 2020). While this might be true globally, the literature review question is very specific about the technology sector. Having mentioned my professional experiences it is an extremely interesting topic for me to discover. I wonder if the gap exists in the technology sector, and if so, is it the same, smaller or maybe higher than somewhere else? Is it men who earn more or maybe women? What could be the causes for that?
-
-I am still considering which country I want to review, but the US market seems like the most interesting one. The reason for that is that the gender pay gap there (Greenwood, 2023) seems to be as high as within the highest countries of the EU (European Parliament, 2020). The US market is also paying the most for the tech jobs (Philips, 2022) which creates more possibilities for the pay gap. My thinking here is that the more an individual can earn on average, the higher the standard deviation. That is an assumption I will also look to confirm or disprove.
-
-When it comes to the methods I think the best would be to apply quantitative methods for this particular research. Reason being, that it might be hard to do qualitative research (unless some found online) as I am not physically present in the US. The gender pay gap question also can be primarily answered with numbers. Even the question contains the word ‘gap’ which indicates that a gap must be measured in some way, and quantitative research allows us to get the best guess at a true gap. Qualitative research could be very useful when it comes to understanding the reasons for the gap (if one is proven to exist). If I, however, won’t be able to find eligible respondents online, I will need to review the literature from the realm of psychology, which could, potentially, help me understand the reasons behind a gap (if one is proven to exist). Therefore the data collection would be mostly from publications and statistics, but also, if proven to be possible, some kind of survey that could be answered by eligible respondents and give more insights into the research. 
-
-To sum this up, I do feel that this is an extremely interesting topic and I am looking forward to reviewing the literature and finding answers to all of the aforementioned questions. 
+In Unit 2 we spent some time familiarising ourselves with research questions and assignments that we needed to complete during this module, namely: Literature Review and Research Proposal Presentation. I particularly liked the quote provided by University of Essex and so I am going to quote it here as well: ‘The good researcher is not ‘one who knows the right answers’, but is ‘one who is struggling to find out what the right questions might be' (Phillips & Pugh, 2010). I spent some time reading about preparing research papers (Marble Jar Channel, 2018) and diving deeper into projects in the computing space (Dawson, 2015). During this unit, I continued the discussion on the forum mentioned in Unit 1 and started planning my Literature Review submission (namely: selecting a topic from an approved list). You can find below the Literature Review Outline that I prepared during this unit.
 
 Reference list
-European Parliament (2020). "Understanding the Gender Pay gap: Definition and Causes". [online] www.europarl.europa.eu. Available at: https://www.europarl.europa.eu/news/en/headlines/society/20200109STO69925/understanding-the-gender-pay-gap-definition-and-causes [Accessed 27 Aug. 2023].
 
-Greenwood, S. (2023). The Enduring Grip of the Gender Pay Gap. [online] Pew Research Center’s Social & Demographic Trends Project. Available at: https://www.pewresearch.org/social-trends/2023/03/01/the-enduring-grip-of-the-gender-pay-gap/#:~:text=The%20gender%20pay%20gap%20%E2%80%93%20the.
+Dawson, C. (2015) Projects in Computing and Information Systems: A Student's Guide. Harlow: Pearson.
 
-Gregory, C.R. (2022). Think you need a college degree to get a tech job? Read this. [online] www.bloomtech.com. Available at: https://www.bloomtech.com/article/think-you-need-a-college-degree-to-get-a-tech-job-read-this#:~:text=(Some%20tech%20jobs%20do%20require [Accessed 27 Aug. 2023].
+Marble Jar Channel. (2018) How to write a research paper.
 
-Phillips, T. (2022). Average Software Engineering Salaries by Country in 2022. [online] CodeSubmit Blog. Available at: https://codesubmit.io/blog/software-engineer-salary-by-country/ [Accessed 27 Aug. 2023].
-
-## Unit 4 Literature Review Outline
+Phillips, E. & Pugh, D. (2010) How to get a PhD: A Handbook for Students and Supervisors. Open University Press. 
 
 The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/literature_review_brief_PSieminski.pdf)
 
@@ -261,6 +243,34 @@ of Organizational Factors on the Productivity of Employees in the IT Industry. V
 Sadler, D. (2023). Tech salaries continue to grow worldwide. [online] Information Age.
 Available at: https://ia.acs.org.au/article/2023/tech-salaries-continue-to-grow-worldwide.html
 [Accessed 28 Aug. 2023].
+
+## Unit 3 - Research Proposal Review
+
+At the end of Unit 3 of the module, we have been asked the following question:
+
+_Considering your thoughts on your chosen area of interest for your project:
+Which of the methods described in this week's reading would you think would suit your purpose?
+Which data collection methods would you consider using?_
+
+This piece of writing is to be considered as my personal thoughts and hence it will have a less academic form and will rather describe my thought process and considerations.
+After assessing accessible topics for literature review from Unit 1 I have decided that I would like to focus my attention on the following topic: “What is the gender pay gap in the technology sector in the country of your choice?” 
+
+The choice of the topic comes from the fact that not only is this an interesting question in and of itself, but also the technology sector has its peculiarities which might give very different answers to the gender pay gap question compared to if it was to be assessed in another industry. The technology sector, for example, does not require formal education (Gregory, 2022). Also, from my professional experience, I have often seen women earn the same, sometimes even more than men, for doing the same kind of work, within the technology sector. The gender pay gap question, generally assumes that the gap  is structured in such a way that men earn more than women (European Parliament, 2020). While this might be true globally, the literature review question is very specific about the technology sector. Having mentioned my professional experiences it is an extremely interesting topic for me to discover. I wonder if the gap exists in the technology sector, and if so, is it the same, smaller or maybe higher than somewhere else? Is it men who earn more or maybe women? What could be the causes for that?
+
+I am still considering which country I want to review, but the US market seems like the most interesting one. The reason for that is that the gender pay gap there (Greenwood, 2023) seems to be as high as within the highest countries of the EU (European Parliament, 2020). The US market is also paying the most for the tech jobs (Philips, 2022) which creates more possibilities for the pay gap. My thinking here is that the more an individual can earn on average, the higher the standard deviation. That is an assumption I will also look to confirm or disprove.
+
+When it comes to the methods I think the best would be to apply quantitative methods for this particular research. Reason being, that it might be hard to do qualitative research (unless some found online) as I am not physically present in the US. The gender pay gap question also can be primarily answered with numbers. Even the question contains the word ‘gap’ which indicates that a gap must be measured in some way, and quantitative research allows us to get the best guess at a true gap. Qualitative research could be very useful when it comes to understanding the reasons for the gap (if one is proven to exist). If I, however, won’t be able to find eligible respondents online, I will need to review the literature from the realm of psychology, which could, potentially, help me understand the reasons behind a gap (if one is proven to exist). Therefore the data collection would be mostly from publications and statistics, but also, if proven to be possible, some kind of survey that could be answered by eligible respondents and give more insights into the research. 
+
+To sum this up, I do feel that this is an extremely interesting topic and I am looking forward to reviewing the literature and finding answers to all of the aforementioned questions. 
+
+Reference list
+European Parliament (2020). "Understanding the Gender Pay gap: Definition and Causes". [online] www.europarl.europa.eu. Available at: https://www.europarl.europa.eu/news/en/headlines/society/20200109STO69925/understanding-the-gender-pay-gap-definition-and-causes [Accessed 27 Aug. 2023].
+
+Greenwood, S. (2023). The Enduring Grip of the Gender Pay Gap. [online] Pew Research Center’s Social & Demographic Trends Project. Available at: https://www.pewresearch.org/social-trends/2023/03/01/the-enduring-grip-of-the-gender-pay-gap/#:~:text=The%20gender%20pay%20gap%20%E2%80%93%20the.
+
+Gregory, C.R. (2022). Think you need a college degree to get a tech job? Read this. [online] www.bloomtech.com. Available at: https://www.bloomtech.com/article/think-you-need-a-college-degree-to-get-a-tech-job-read-this#:~:text=(Some%20tech%20jobs%20do%20require [Accessed 27 Aug. 2023].
+
+Phillips, T. (2022). Average Software Engineering Salaries by Country in 2022. [online] CodeSubmit Blog. Available at: https://codesubmit.io/blog/software-engineer-salary-by-country/ [Accessed 27 Aug. 2023].
 
 ## Unit 4 Case Study on Privacy
 
