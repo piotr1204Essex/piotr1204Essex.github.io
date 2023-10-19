@@ -480,7 +480,15 @@ Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/bl
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/summary_measures_exercises.pdf) the answers to the exercises.
 
 ## Unit 9
-In Unit 9 we were tasked with completing several exercises in regards to charts. These exercises were based on a worksheet, which will be provided below. The outcome of these exercises, i.e. working files, will also be linked below. This is to ensure consistency in this part of the portfolio and avoid uploading text, where sheet calculations took place. I will describe each link uploaded below such that it is easy to follow and understand.
+In Unit 9 we dived deeper into the analysis of the qualitative data (BRM, 2021). One of my previous positions (in my professional career) was Senior Data Analyst. As such, I was faced with various problems, including analysis of social media documents (Schneider, 2018)), and data sets that needed analysing - both from qualitative and quantitative data. Therefore, this module was a refresher of the knowledge for me. At the end of the unit we were tasked with completing some chart exercises. These exercises were based on a worksheet, which will be provided below. The outcome of these exercises, i.e. working files, will also be linked below. This is to ensure consistency in this part of the portfolio and avoid uploading text, where sheet calculations took place. I will describe each link uploaded below such that it is easy to follow and understand.
+
+Reference list
+
+Business Research Methodology (BRM) (2021) Qualitative Data Analysis.
+
+Schneider, C. (2018) Making the case: A Qualitative Approach to Studying Social Media Documents in: Bryman, A. & Buchanon D. (Eds) Unconventional Methodology in Organization and Management Research. Oxford Scholarship Online.
+
+
 ### Charts exercises
 
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/Unit%209%20-%20Charts%20Worksheet.docx) the worksheet used as a guide to the exercises.
