@@ -696,5 +696,3 @@ Wiebels, K. and Moreau, D. (2023). Dynamic Data Visualizations to Enhance Insigh
 2. Research Proposal reflection
 3. Tutor feedback for research proposal
 4. 1000 words e portfolio overview
-5. Add brief each unit review with citations from mandatory reading
-6. Add components from deadline details e portfolio structure
