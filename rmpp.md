@@ -388,7 +388,12 @@ University of Essex (2023). ‘Reflective Activity 2’, Research Methods and Pr
 
 Zambito, T. (2010). The Origin of Buyer Personas. [online] Buyer Persona Insights. Available at: https://www.buyerpersonainsights.com/2010/01/the-origin-of-buyer-personas.html [Accessed 6 Sep. 2023].
 
-## Unit 6 Formative Activities
+## Unit 6 
+In Unit 6 we discussed questionnaire design - again a field I am very well familiar with from my professional experience, nevertheless I was glad to read a guide on structure of the questionnaire (Brace, 2013). In this unit I was asked to reflect on the data collection methods appropriate fro my Literature Review submission and you can find this reflection below. 
+
+Reference list
+
+Brace, I. (2013) Questionnaire Design: How to Plan, Structure and Write a Survey. Kogan Page.
 
 ### e-Portfolio update: Data Collection
 
