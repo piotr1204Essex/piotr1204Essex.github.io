@@ -76,11 +76,22 @@ Dz.U.2022.0.1138 t.j - Kodeks karny.Art. 286 [online] Available at: https://isap
 Stahl, B.C., Timmermans, J. and Mittelstadt, B.D. (2016). The Ethics of Computing. ACM Computing Surveys, 48(4), pp.1–38. doi:https://doi.org/10.1145/2871196.
 
 Dz.U.2022.0.1138 t.j - Kodeks karny.Art. 271 [online] Available at: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001138 [Accessed 18 Sep. 2023].
-## Unit 1 - Reflective Activity
+## Unit 1 
+In Unit 1 we discussed the scientific investigation (Anderson and Hepburn, 2020) as well as ethics in research (Bailey et al., 2013). We focused on answering important questions, such as “What is the purpose of research”? I learned about the reasons behind conducting research (QuestionPro, 2021) and I had my first chance to interact with other students during the Collaborative Learning Discussion 1 (which has a separate section dedicated to these discussions only.
+
+Reference list
+
+Anderson, H & Hepburn, B. (2020) 'Scientific Method' in: Zalta, E. (Eds) The Stanford Encyclopedia of Philosophy (Winter 2020 edition). Metaphysics Research Lab, Stanford University.
+
+Bailey, M. et al. (2013) Applying Ethical Principles to Information and Communication Technology Research: A Companion to the Menlo Report.
+
+QuestionPro (2021). What is research? 
+
+### Reflective Activity
 
 The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/unit_1_reflective_activity.pdf)
 
-### Tutor feedback:
+#### Tutor feedback:
 
 - It is good to see you cite regularly in the early stages of the formative, ensure that you continue to do this for all future formative and summative but cite all the way through your discussion
 - When using a quote, cite immediately after it [reference where the quote came from]. Do this in all instances
