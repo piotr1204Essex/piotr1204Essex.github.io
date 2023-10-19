@@ -501,7 +501,12 @@ Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/bl
 
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/charts_exercises.pdf) the answers to the exercises.
 ## Unit 10 - Research Proposal Presentation
-Unit 10 marks a deadline for submitting the second graded assessment of this module, which is the Research Proposal Presentation. It has been originally submitted with audio and video, however the file size is too large to upload here, and because of that I will provide a link to the transcript as well as the slides.
+In Unit 10 we focused on the structure of the research writing and how to properly prepare for writing a dissertation (University of Essex, 2012). This unit was also the deadline for the Research Proposal Presentation submission which took a lot of my time but was a true learning journey. You can find below the submission, tutor feedback as well as a short self evaluation piece. The submission piece has been originally submitted with audio and video, however the file size is too large to upload here, and because of that I will provide a link to the transcript as well as the slides.
+
+Reference list
+
+University of Essex (2012) How to write a research project.
+### Submission
 
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/research_proposal_presentation.pptx) the link to the slides of the presentation.
 
