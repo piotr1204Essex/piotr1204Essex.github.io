@@ -513,16 +513,26 @@ Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/bl
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Transcript.pdf) the link to the transcript of the presentation.
 ## Unit 11
 
-Unit 11 brought the opportunity to reflect on the module as well as the course as a whole. We were given the framework that helped tremendously in assessing the current skillset, helped to create a SWOT analysis (Strenghts, Weaknesses, Opportunities, Threats) and in turn an action plan, which serves as a Professional Development Plan. I thoroughly enjoyed the exercise and you can find below the links to the aforementioned artefacts:
+In Unit 11 we were given some time to spend reflecting on our academic and professional journey. We were given a Professional Skills Matrix, SWOT analysis and an action plan to complete. This unit has also guided us on how to prepare and structure this very e-Portfolio in which I am writing right now. The module puts emphasis on the importance of the e-Portfolio in the context of employability (Weber, 2018) as well as improved exam performance (Händel et al., 2018). Apart from the above mentioned I have also reflected on one module that I found the most beneficial throughout the course of this programme and you can find the links to all of the artefacts below.
 
+Reference list
+
+Händel, M., Wimmer, B. & Ziegler, A. (2018) E-portfolio use and its effects on exam performance – a field study. Studies in Higher Education 45(2): 258–270.
+
+Weber, K. (2018) Employer perceptions of an engineering student’s electronic portfolio. International Journal of ePortoflio 8(1): 57–71.
+### Skills matrix
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Professional%20Skills%20Matrix.xlsx) the link to the skills matrix.
-
+### SWOT analysis
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/swot_analysis_p.pdf) the link to the SWOT analysis.
-
+### Action plan
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/action_plan_p.pdf) the link to the Action Plan.
+### Reflection on Machine Learning module
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Machine%20Learning%20module%20-%20reflection.pdf) the link to the Machine Learning module reflection.
+## Unit 12 - Self Test Quiz
 
-I was also asked to reflect on one of the modules from this MSc programme, one that impacted my professional practice. Please find the link to the reflection document [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Machine%20Learning%20module%20-%20reflection.pdf)
+In Unit 
 
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/slef_test_quiz_12.pdf) link to the self-test quiz which I completed after studying the Unit.
 ## Statistical skills reflection
 ### Description
 In order to reflect on my statistical skills I will apply Gibbs Reflective Cycle (Galli and New, 2022). During this the Research Methods and Professional Practice module we were tasked with completing statistical worksheets - an exercise aiming at preparing us to be able to work with data when undertaking the capstone project. The exercises provided there were easy to understand and follow, given my prior experience as well as previous modules during this MSc programme. They focused on understanding the distribution of the data, descriptive metrics, hypothesis testing, p-value and charts visualisations.
@@ -669,12 +679,6 @@ The EPAM Anywhere Editorial Team (2023). Job Description for Senior Data Analyst
 Voorhees, E.M. and Harman, D.K. (2005). Experiment and Evaluation in Information Retrieval. The MIT Press.
 
 Wiebels, K. and Moreau, D. (2023). Dynamic Data Visualizations to Enhance Insight and Communication Across the Life Cycle of a Scientific Project. Advances in methods and practices in psychological science, 6(3). doi:https://doi.org/10.1177/25152459231160103.
-
-## Unit 12 - Self Test Quiz
-
-In Unit 
-
-Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/slef_test_quiz_12.pdf) link to the self-test quiz which I completed after studying the Unit.
 
 ## TODO
 
