@@ -77,13 +77,15 @@ Stahl, B.C., Timmermans, J. and Mittelstadt, B.D. (2016). The Ethics of Computin
 
 Dz.U.2022.0.1138 t.j - Kodeks karny.Art. 271 [online] Available at: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001138 [Accessed 18 Sep. 2023].
 ## Unit 1 
-In Unit 1 we discussed the scientific investigation (Anderson and Hepburn, 2020) as well as ethics in research (Bailey et al., 2013). We focused on answering important questions, such as “What is the purpose of research”? I learned about the reasons behind conducting research (QuestionPro, 2021) and I had my first chance to interact with other students during the Collaborative Learning Discussion 1 (which has a separate section dedicated to these discussions only.
+In Unit 1 we discussed the scientific investigation (Anderson and Hepburn, 2020) as well as ethics in research (Bailey et al., 2013). We focused on answering important questions, such as “What is the purpose of research”? I learned about the reasons behind conducting research (QuestionPro, 2021) and I had my first chance to interact with other students during the Collaborative Learning Discussion 1 (which has a separate section dedicated to these discussions only). It was my first proper encounter with the rationale behind a researchand I must say it was much different to the research I was used to in my professional life (NotedSource, 2023). Commercial research looks much different to the academic one - I will explore this topic in the reflection on research methods further.
 
 Reference list
 
 Anderson, H & Hepburn, B. (2020) 'Scientific Method' in: Zalta, E. (Eds) The Stanford Encyclopedia of Philosophy (Winter 2020 edition). Metaphysics Research Lab, Stanford University.
 
 Bailey, M. et al. (2013) Applying Ethical Principles to Information and Communication Technology Research: A Companion to the Menlo Report.
+
+NotedSource. (2023). Corporate vs. Academic Research: Goals, Methods, and Outcomes. [online] Available at: https://notedsource.io/resources/corporate-vs-academic-research-goals-methods-and-outcomes [Accessed 20 Oct. 2023].
 
 QuestionPro (2021). What is research? 
 
@@ -158,7 +160,8 @@ Wolford, B. (2018). What are the GDPR Fines? [online] GDPR.eu. Available at: htt
 
 ## Unit 2
 
-In Unit 2 we spent some time familiarising ourselves with research questions and assignments that we needed to complete during this module, namely: Literature Review and Research Proposal Presentation. I particularly liked the quote provided by University of Essex and so I am going to quote it here as well: ‘The good researcher is not ‘one who knows the right answers’, but is ‘one who is struggling to find out what the right questions might be' (Phillips & Pugh, 2010). I spent some time reading about preparing research papers (Marble Jar Channel, 2018) and diving deeper into projects in the computing space (Dawson, 2015). During this unit, I continued the discussion on the forum mentioned in Unit 1 and started planning my Literature Review submission (namely: selecting a topic from an approved list). You can find below the Literature Review Outline that I prepared during this unit.
+In Unit 2 we spent some time familiarising ourselves with research questions and assignments that we needed to complete during this module, namely: Literature Review and Research Proposal Presentation. I particularly liked the quote provided by University of Essex and so I am going to quote it here as well: ‘The good researcher is not ‘one who knows the right answers’, but is ‘one who is struggling to find out what the right questions might be' (Phillips & Pugh, 2010). I spent some time reading about preparing research papers (Marble Jar Channel, 2018) and diving deeper into projects in the computing space (Dawson, 2015). I was a part of many computing projects, but as I was mostly working in start ups I found the guide (Dawson, 2015) to be much more rigid, structured and organised thatn a start up reality. Start ups work in a fast paced manner with little to no limitations, constraints or structure imposed, in order to move fast (Slávik, 2019). 
+During this unit, I continued the discussion on the forum mentioned in Unit 1 and started planning my Literature Review submission (namely: selecting a topic from an approved list). You can find below the Literature Review Outline that I prepared during this unit.
 
 Reference list
 
@@ -166,7 +169,9 @@ Dawson, C. (2015) Projects in Computing and Information Systems: A Student's Gui
 
 Marble Jar Channel. (2018) How to write a research paper.
 
-Phillips, E. & Pugh, D. (2010) How to get a PhD: A Handbook for Students and Supervisors. Open University Press. 
+Phillips, E. & Pugh, D. (2010) How to get a PhD: A Handbook for Students and Supervisors. Open University Press.
+
+Slávik, Š. (2019). The Business Model of Start-Up—Structure and Consequences. Administrative Sciences, [online] 9(3), p.69. doi:https://doi.org/10.3390/admsci9030069.
 
 The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/literature_review_brief_PSieminski.pdf)
 
@@ -245,7 +250,7 @@ Available at: https://ia.acs.org.au/article/2023/tech-salaries-continue-to-grow-
 [Accessed 28 Aug. 2023].
 
 ## Unit 3
-In Unit 3 we analysed research methods as a part of the research design. We learned how important a good plan is for the research (Saunders et al., 2012) We distinguished 2 types of research design: exploratory research and conclusive research as well as 3 types of research methods: qualitative, quantitative and mixed methods. At the end of this Unit, we were asked a question to reflect on, to which the answer you can find below.
+In Unit 3 we analysed research methods as a part of the research design. We learned how important a good plan is for the research (Saunders et al., 2012) We distinguished 2 types of research design: exploratory research and conclusive research as well as 3 types of research methods: qualitative, quantitative and mixed methods. I have encountered these research methods in my professional practice and the same comments can be made as with previous units descriptions. I will also dive deeper into the differences between research in the research process reflection at the very end of this portoflio. At the end of this Unit, we were asked a question to reflect on, to which the answer you can find below.
 
 Reference list
 
@@ -281,7 +286,7 @@ Gregory, C.R. (2022). Think you need a college degree to get a tech job? Read th
 Phillips, T. (2022). Average Software Engineering Salaries by Country in 2022. [online] CodeSubmit Blog. Available at: https://codesubmit.io/blog/software-engineer-salary-by-country/ [Accessed 27 Aug. 2023].
 
 ## Unit 4
-In Unit 4 we discussed data collection methods that can feed our research process. We learned about focus groups (Devaul, 2020), how to observe participants (Abramson et al., 2020) and most common observation methods (Fuelcycle, 2019). Continuously the emphasis was put on ethics in research, especially when it involves people (Vanclay et al., 2013). At the end of the unit I have completed a formative activity which you can find below.
+In Unit 4 we discussed data collection methods that can feed our research process. We learned about focus groups (Devaul, 2020), how to observe participants (Abramson et al., 2020) and most common observation methods (Fuelcycle, 2019). I was already familiar with these collection methods, however I learned something particularly interesting about the observation of participants - the interviews that one may conduct would be mostly unstructured and informal. It makes sense now that I think about it but it was a great learning I took from this unit (Abramson et al., 2020). Continuously the emphasis was put on ethics in research, especially when it involves people (Vanclay et al., 2013). At the end of the unit I have completed a formative activity which you can find below.
 
 Reference list
 
@@ -389,7 +394,7 @@ University of Essex (2023). ‘Reflective Activity 2’, Research Methods and Pr
 Zambito, T. (2010). The Origin of Buyer Personas. [online] Buyer Persona Insights. Available at: https://www.buyerpersonainsights.com/2010/01/the-origin-of-buyer-personas.html [Accessed 6 Sep. 2023].
 
 ## Unit 6 
-In Unit 6 we discussed questionnaire design - again a field I am very well familiar with from my professional experience, nevertheless I was glad to read a guide on structure of the questionnaire (Brace, 2013). In this unit I was asked to reflect on the data collection methods appropriate fro my Literature Review submission and you can find this reflection below. 
+In Unit 6 we discussed questionnaire design - again a field I am very well familiar with from my professional experience (hence not much critical review I can provide), nevertheless I was glad to read a guide on structure of the questionnaire (Brace, 2013). In this unit I was asked to reflect on the data collection methods appropriate fro my Literature Review submission and you can find this reflection below. 
 
 Reference list
 
@@ -424,7 +429,7 @@ Schwen, L.O. and Rueschenbaum, S. (2018). Ten quick tips for getting the most sc
 U.S. BUREAU OF LABOR STATISTICS (2023). U.S. Bureau of Labor Statistics. [online] stats.bls.gov. Available at: https://stats.bls.gov/ [Accessed 7 Sep. 2023].
 
 ## Unit 7 
-Unit 7 was the deadline for my first summative submission - Literature Review. I also had the opportunity to learn about the qualitative research methods for evaluating computer information systems (Kaplan et al., 2005) which was interesting to me given some of the thought that I have given to the research proposal presentation, specifically about evaluating database performance. Below you can find my submission, tutor feedback and brief self evaluation of the Literature Review.
+Unit 7 was the deadline for my first summative submission - Literature Review. I also had the opportunity to learn about the qualitative research methods for evaluating computer information systems (Kaplan et al., 2005) which was interesting to me given some of the thought that I have given to the research proposal presentation about evaluating database performance. I was not previously thinking about using qualitative research methods for evaluation of the systems, but the lecture of Kaplan's take on it taught me a very important thing: no matter how good the technology might be, it will not work if the users decide not to use it. I take this learning with me for the future work. Below you can find my submission, tutor feedback and brief self evaluation of the Literature Review.
 
 Reference list
 
