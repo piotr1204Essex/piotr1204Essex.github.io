@@ -695,4 +695,4 @@ Wiebels, K. and Moreau, D. (2023). Dynamic Data Visualizations to Enhance Insigh
 1. Overal reflection (add literature and research proposal reflections with citations)
 2. Research Proposal reflection
 3. Tutor feedback for research proposal
-4. 1000 words e portfolio overview
+4. 1500 words between units - criticality add
