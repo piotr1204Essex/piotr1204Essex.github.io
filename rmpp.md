@@ -244,7 +244,7 @@ Sadler, D. (2023). Tech salaries continue to grow worldwide. [online] Informatio
 Available at: https://ia.acs.org.au/article/2023/tech-salaries-continue-to-grow-worldwide.html
 [Accessed 28 Aug. 2023].
 
-## Unit 3 - Research Proposal Review
+## Unit 3
 In Unit 3 we analysed research methods as a part of the research design. We learned how important a good plan is for the research (Saunders et al., 2012) We distinguished 2 types of research design: exploratory research and conclusive research as well as 3 types of research methods: qualitative, quantitative and mixed methods. At the end of this Unit, we were asked a question to reflect on, to which the answer you can find below.
 
 Reference list
@@ -500,7 +500,7 @@ Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/bl
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/Exe%209.3B.xlsx) the Excel source data 3.
 
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/worksheets/charts_exercises.pdf) the answers to the exercises.
-## Unit 10 - Research Proposal Presentation
+## Unit 10
 In Unit 10 we focused on the structure of the research writing and how to properly prepare for writing a dissertation (University of Essex, 2012). This unit was also the deadline for the Research Proposal Presentation submission which took a lot of my time but was a true learning journey. You can find below the submission, tutor feedback as well as a short self evaluation piece. The submission piece has been originally submitted with audio and video, however the file size is too large to upload here, and because of that I will provide a link to the transcript as well as the slides.
 
 Reference list
