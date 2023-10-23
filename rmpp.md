@@ -697,3 +697,7 @@ The EPAM Anywhere Editorial Team (2023). Job Description for Senior Data Analyst
 Voorhees, E.M. and Harman, D.K. (2005). Experiment and Evaluation in Information Retrieval. The MIT Press.
 
 Wiebels, K. and Moreau, D. (2023). Dynamic Data Visualizations to Enhance Insight and Communication Across the Life Cycle of a Scientific Project. Advances in methods and practices in psychological science, 6(3). doi:https://doi.org/10.1177/25152459231160103.
+
+## Final reflection
+
+Please find a link to my final module reflection [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/p_sieminski_final_reflection.pdf)
