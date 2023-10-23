@@ -515,6 +515,8 @@ University of Essex (2012) How to write a research project.
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/research_proposal_presentation.pptx) the link to the slides of the presentation.
 
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Transcript.pdf) the link to the transcript of the presentation.
+### Tutor Feedback
+Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/333798_RRMP%20Summative%20Feedback%20Template%20(Research%20Proposal%20Presentation).pdf) the link to the Tutor's feedback.
 ## Unit 11
 
 In Unit 11 we were given some time to spend reflecting on our academic and professional journey. We were given a Professional Skills Matrix, SWOT analysis and an action plan to complete. This unit has also guided us on how to prepare and structure this very e-Portfolio in which I am writing right now. The module puts emphasis on the importance of the e-Portfolio in the context of employability (Weber, 2018) as well as improved exam performance (Händel et al., 2018). Apart from the above mentioned I have also reflected on one module that I found the most beneficial throughout the course of this programme and you can find the links to all of the artefacts below.
