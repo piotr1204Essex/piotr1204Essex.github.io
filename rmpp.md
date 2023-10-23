@@ -534,7 +534,7 @@ Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/bl
 Please find [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/Machine%20Learning%20module%20-%20reflection.pdf) the link to the Machine Learning module reflection.
 ## Unit 12
 
-Unit 12 brought something a little bit unexpected for me, but extremely useful, namely project management (Maylor, 2010) and risk management (Marichetty, 2017) aspects. While I was a team member on many projects during my professional life, it was still great to learn more about concepts behind risk management in IT projects (McManus, 2012)) and to expand my knowledge on agile methodologies behind project management (Mircea, 2019). At the end of the unit I have also completed a self-test quiz (related to project management) which you can find linked below.
+Unit 12 brought something a little bit unexpected for me, but extremely useful, namely project management (Maylor, 2010) and risk management (Marichetty, 2017) aspects. While I was a team member on many projects during my professional life, it was still great to learn more about concepts behind risk management in IT projects (McManus, 2012) and to expand my knowledge on agile methodologies behind project management (Mircea, 2019). At the end of the unit I have also completed a self-test quiz (related to project management) which you can find linked below.
 
 Reference list
 
