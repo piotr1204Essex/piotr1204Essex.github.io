@@ -18,7 +18,7 @@ The development team has failed to meet the ethics code principles, some of them
 
 While I believe that none of the shortcomings Blocker Plus’ system had were put in there intentionally, it is the outcome that matters. Unfortunately the outcome was a material breach of several ethics code principles as well as BCS code of conduct. 
 
-References:
+Reference list:
 
 Case: Malicious inputs to content filters - ACM ethics (2018) ACM Ethics - The Official Site of the Association for Computing Machinery’s Committee on Professional Ethics. Available at: https://ethics.acm.org/code-of-ethics/using-the-code/case-malicious-inputs-to-content-filters/ (Accessed: 08 August 2023). 
 
@@ -36,7 +36,7 @@ This question opens further considerations to what was explained in initial post
 
 To sum up the discussion in this thread, we all agree that tools for protecting children in the internet are needed. Some content should simply not be accessible for them, as indicated by Children's Internet Protection Act (CIPA) in the US. It is however crucial that such systems are provided with sufficient capabilities as to be protected from malicious attacks such that they are not infected with content the children should not see, or that the children are restricted access too, although they should not be. They should also allow for actual adults to switch off any restrictions if they are incorrectly applied to an adult by an algorithm which determined the user is a child.
 
-References:
+Reference list:
 
 Case: Malicious inputs to content filters - ACM ethics (2018) ACM Ethics - The Official Site of the Association for Computing Machinery’s Committee on Professional Ethics. Available at: https://ethics.acm.org/code-of-ethics/using-the-code/case-malicious-inputs-to-content-filters/ (Accessed: 08 August 2023). 
 
@@ -69,7 +69,7 @@ It is clear that apart from the ethical concerns, there is a question of legal i
 
 One must take all necessary precautions when working with data, especially when it reaches a wider group and can influence people's purchasing behaviour. Inaccurate information not only can have legal repercussions (Dz.U.2022.0.1138 t.j - Kodeks karny) but also could be damaging to the public's health. Therefore it is of utmost importance to apply all of the best practices when analysing the data, create a plan of analysis before hand (such that it is not changed based on favourable or unfavourable results of the to date analysis) and make sure that the work is peer reviewed in order to spot any mistakes one can make unknowingly. 
 
-References
+Reference list
 
 Dz.U.2022.0.1138 t.j - Kodeks karny.Art. 286 [online] Available at: https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220001138 [Accessed 18 Sep. 2023].
 
@@ -136,7 +136,7 @@ The impact of introducing new/additional procedures and checks as well as involv
 ##### Summary
 Ethics in Computing are becoming increasingly important as the technology develops and more aspects of human life are in some shape or form digitalised. This paper provided a high level overview on the ethical issues related to data collection and privacy, while highlighting impact on legal, social and professional issues. Companies, like Apple, adhering to the ethics code may see slower release times and potential impact on their revenues initially, however the increased customer’s trust and brand loyalty may compensate for such a loss with a significant surplus. It does appear therefore, that there is no reason, not even financial one, not to adhere to ethics code in computing. 
 
-##### References
+##### Reference list
 
 Stahl, B.C., Timmermans, J. and Mittelstadt, B.D. (2016). The Ethics of Computing. ACM Computing Surveys, 48(4), pp.1–38. doi:https://doi.org/10.1145/2871196.
 
