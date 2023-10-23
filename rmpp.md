@@ -173,8 +173,6 @@ Phillips, E. & Pugh, D. (2010) How to get a PhD: A Handbook for Students and Sup
 
 Slávik, Š. (2019). The Business Model of Start-Up—Structure and Consequences. Administrative Sciences, [online] 9(3), p.69. doi:https://doi.org/10.3390/admsci9030069.
 
-The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/literature_review_brief_PSieminski.pdf)
-
 ### Tutor feedback:
 
 Thank you for submitting your formative.
@@ -191,6 +189,7 @@ for the actual Literature Review, that you ensure you have a good cross-section 
 resources to enable effective critical debate to take place.
 
 ### Submission
+The pdf format of the paper can be found [here](https://github.com/piotr1204Essex/piotr1204Essex.github.io/blob/main/research_module_source/literature_review_brief_PSieminski.pdf)
 
 For the literature review I have selected the following question: “What is the gender pay gap
 in the technology sector in the country of your choice?” with my country of choice being the
